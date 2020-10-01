@@ -1,0 +1,639 @@
+﻿1
+00:00:01,536 --> 00:00:02,048
+<font color="#fcfcfc">Welcome</font>
+
+2
+00:00:02,304 --> 00:00:02,816
+<font color="#e9e9e9">Back</font>
+
+3
+00:00:03,072 --> 00:00:07,168
+<font color="#dcdcdc">Let me kick it like a message we want to make a high city because using axios</font>
+
+4
+00:00:07,424 --> 00:00:09,984
+<font color="#d9d9d9">Now how do I get the ideas for looking into our project</font>
+
+5
+00:00:10,240 --> 00:00:14,080
+<font color="#dadada">And how do we make that call that's what we'd be looking at in this physics.</font>
+
+6
+00:00:14,336 --> 00:00:16,896
+<font color="#c6c6c6">First question how do we get back to us when we can do on Facebook</font>
+
+7
+00:00:17,152 --> 00:00:17,664
+<font color="#fcfcfc">Think about it</font>
+
+8
+00:00:17,920 --> 00:00:19,712
+<font color="#fbfbfb">You are right we need to add it</font>
+
+9
+00:00:19,968 --> 00:00:22,784
+<font color="#d7d7d7">So I'm going to the middle on and I say npm</font>
+
+10
+00:00:24,064 --> 00:00:25,088
+<font color="#fcfcfc">Axios</font>
+
+11
+00:00:36,096 --> 00:00:36,864
+<font color="#e8e8e8">I downloaded</font>
+
+12
+00:00:40,192 --> 00:00:41,472
+<font color="#cccccc">Package. Tucson</font>
+
+13
+00:00:41,728 --> 00:00:43,776
+<font color="#ececec">It's not really in here</font>
+
+14
+00:00:44,032 --> 00:00:46,336
+<font color="#a3a3a3">If you wait for a little while.</font>
+
+15
+00:00:46,592 --> 00:00:47,360
+<font color="#d0d0d0">He could be added</font>
+
+16
+00:00:48,384 --> 00:00:50,944
+<font color="#bdbdbd">Now we have a graduation 0.18</font>
+
+17
+00:00:51,968 --> 00:00:52,992
+<font color="#e2e2e2">That's added in</font>
+
+18
+00:00:53,504 --> 00:00:54,784
+<font color="#e4e4e4">UT</font>
+
+19
+00:00:55,040 --> 00:00:57,600
+<font color="#f2f2f2">Axios also added in in here so</font>
+
+20
+00:00:57,856 --> 00:01:00,928
+<font color="#c0c0c0">Havoc Naveen our package. Jason as well</font>
+
+21
+00:01:01,184 --> 00:01:02,208
+<font color="#fcfcfc">We want to start making</font>
+
+22
+00:01:02,720 --> 00:01:07,840
+<font color="#e8e8e8">Use of actions to make its typical so what I do is I like chili start creating a few more things</font>
+
+23
+00:01:09,120 --> 00:01:12,960
+<font color="#dcdcdc">API calls waterloo's insert a new folder</font>
+
+24
+00:01:13,728 --> 00:01:14,496
+<font color="#fcfcfc">API</font>
+
+25
+00:01:15,520 --> 00:01:16,288
+<font color="#e7e7e7">Mapa</font>
+
+26
+00:01:16,800 --> 00:01:19,360
+<font color="#bfbfbf">I'll create a new folder game call to</font>
+
+27
+00:01:24,224 --> 00:01:27,808
+<font color="#e5e5e5">And what I'll do is right click create a new file</font>
+
+28
+00:01:28,064 --> 00:01:29,600
+<font color="#fcfcfc">And I would want to call this</font>
+
+29
+00:01:30,112 --> 00:01:31,136
+<font color="#fcfcfc">Hello world</font>
+
+30
+00:01:31,392 --> 00:01:32,160
+<font color="#e8e8e8">Service</font>
+
+31
+00:01:32,672 --> 00:01:33,184
+<font color="#e5e5e5">.</font>
+
+32
+00:01:34,976 --> 00:01:36,000
+<font color="#d8d8d8">Let's</font>
+
+33
+00:01:36,512 --> 00:01:39,584
+<font color="#d9d9d9">Create a simple class in here so this would be a kick-ass</font>
+
+34
+00:01:40,096 --> 00:01:41,632
+<font color="#e9e9e9">Hello World Service</font>
+
+35
+00:01:42,400 --> 00:01:44,192
+<font color="#b5b5b5">Sovaldi helloworld apis</font>
+
+36
+00:01:44,448 --> 00:01:45,472
+<font color="#fcfcfc">We would want to call them</font>
+
+37
+00:01:45,728 --> 00:01:46,496
+<font color="#fcfcfc">From here</font>
+
+38
+00:01:46,752 --> 00:01:49,312
+<font color="#bebebe">Lucky Lou's weekly instant traffic</font>
+
+39
+00:01:49,568 --> 00:01:51,872
+<font color="#eeeeee">Portage so that it's available for all other</font>
+
+40
+00:01:52,384 --> 00:01:55,200
+<font color="#e7e7e7">Gases which depend on this so I'll say export default</font>
+
+41
+00:01:55,712 --> 00:01:56,224
+<font color="#f5f5f5">New</font>
+
+42
+00:01:56,736 --> 00:01:57,504
+<font color="#e7e7e7">Hello world</font>
+
+43
+00:01:59,552 --> 00:02:00,832
+<font color="#ededed">So if any of the package would</font>
+
+44
+00:02:02,112 --> 00:02:04,928
+<font color="#dedede">They would get the instance of the specific class</font>
+
+45
+00:02:05,440 --> 00:02:08,256
+<font color="#eeeeee">What would we need to do in here to want to retrieve</font>
+
+46
+00:02:08,512 --> 00:02:09,280
+<font color="#f6f6f6">Hello world</font>
+
+47
+00:02:09,536 --> 00:02:10,048
+<font color="#fcfcfc">Message</font>
+
+48
+00:02:10,816 --> 00:02:13,120
+<font color="#e9e9e9">What do you want to do in here you don't execute</font>
+
+49
+00:02:13,888 --> 00:02:15,936
+<font color="#fbfbfb">Hello World Service writer</font>
+
+50
+00:02:17,216 --> 00:02:19,008
+<font color="#fcfcfc">Servicelocator simple</font>
+
+51
+00:02:21,056 --> 00:02:21,824
+<font color="#acacac">And for now</font>
+
+52
+00:02:24,640 --> 00:02:28,480
+<font color="#fbfbfb">Executed service</font>
+
+53
+00:02:28,736 --> 00:02:31,808
+<font color="#c2c2c2">But before he can put this in</font>
+
+54
+00:02:32,576 --> 00:02:35,904
+<font color="#d3d3d3">We should we put it into into the welcome component lighter</font>
+
+55
+00:02:36,928 --> 00:02:37,952
+<font color="#e6e6e6">LOL service</font>
+
+56
+00:02:43,328 --> 00:02:43,840
+<font color="#999999">/</font>
+
+57
+00:02:44,352 --> 00:02:44,864
+<font color="#b7b7b7">Da.</font>
+
+58
+00:02:45,376 --> 00:02:45,888
+<font color="#cbcbcb">/</font>
+
+59
+00:02:46,144 --> 00:02:46,912
+<font color="#efefef">API</font>
+
+60
+00:02:47,424 --> 00:02:47,936
+<font color="#e0e0e0">Flash</font>
+
+61
+00:02:49,216 --> 00:02:49,728
+<font color="#dadada">Flash</font>
+
+62
+00:02:51,520 --> 00:02:52,288
+<font color="#bebebe">Duchess</font>
+
+63
+00:02:52,800 --> 00:02:57,408
+<font color="#cecece">Global Services defined in siletz important in first</font>
+
+64
+00:02:59,200 --> 00:03:03,040
+<font color="#f4f4f4">Indicative message what we'll do is we'll remove this</font>
+
+65
+00:03:03,552 --> 00:03:05,600
+<font color="#bcbcbc">Next legal LOL service</font>
+
+66
+00:03:06,368 --> 00:03:07,136
+<font color="#e8e8e8">Execute</font>
+
+67
+00:03:07,392 --> 00:03:08,416
+<font color="#fafafa">LOL service</font>
+
+68
+00:03:08,928 --> 00:03:10,208
+<font color="#f4f4f4">Let's see what would happen.</font>
+
+69
+00:03:11,232 --> 00:03:11,744
+<font color="#fcfcfc">Save this</font>
+
+70
+00:03:13,792 --> 00:03:15,584
+<font color="#cacaca">Trying to get welcome message</font>
+
+71
+00:03:17,120 --> 00:03:17,632
+<font color="#dcdcdc">Inspect</font>
+
+72
+00:03:17,888 --> 00:03:18,912
+<font color="#fcfcfc">Goldie cartoon</font>
+
+73
+00:03:19,680 --> 00:03:20,192
+<font color="#b0b0b0">Receive</font>
+
+74
+00:03:23,264 --> 00:03:23,776
+<font color="#d4d4d4">Click</font>
+
+75
+00:03:24,288 --> 00:03:25,056
+<font color="#a1a1a1">It is because</font>
+
+76
+00:03:25,312 --> 00:03:30,176
+<font color="#eaeaea">You're not really started the application back I can survive</font>
+
+77
+00:03:30,432 --> 00:03:32,480
+<font color="#a3a3a3">Visited</font>
+
+78
+00:03:32,736 --> 00:03:33,760
+<font color="#e7e7e7">Nothing will be there</font>
+
+79
+00:03:34,016 --> 00:03:39,904
+<font color="#e3e3e3">Desmond tickets you need to be cautious about you need to make sure that the restart on browser instance</font>
+
+80
+00:03:40,416 --> 00:03:41,696
+<font color="#b9b9b9">Great 8 minutes</font>
+
+81
+00:03:42,208 --> 00:03:42,720
+<font color="#f7f7f7">Dummy</font>
+
+82
+00:03:43,488 --> 00:03:44,000
+<font color="#d6d6d6">Logging</font>
+
+83
+00:03:45,024 --> 00:03:47,072
+<font color="#dddddd">Decorate a message I click in</font>
+
+84
+00:03:48,096 --> 00:03:49,120
+<font color="#d7d7d7">Fancy the console</font>
+
+85
+00:03:50,400 --> 00:03:50,912
+<font color="#f7f7f7">You can see</font>
+
+86
+00:03:51,168 --> 00:03:51,936
+<font color="#c1c1c1">Executed</font>
+
+87
+00:03:52,192 --> 00:03:52,704
+<font color="#9c9c9c">Service</font>
+
+88
+00:03:53,216 --> 00:03:53,728
+<font color="#fcfcfc">That's cool</font>
+
+89
+00:03:57,824 --> 00:04:01,408
+<font color="#e8e8e8">How can you make you the sexiest to make the call it's very simple</font>
+
+90
+00:04:01,664 --> 00:04:04,480
+<font color="#ececec">I'll let you need to do is to do something call axios</font>
+
+91
+00:04:05,504 --> 00:04:06,016
+<font color="#fcfcfc">Get</font>
+
+92
+00:04:06,784 --> 00:04:07,296
+<font color="#bbbbbb">And</font>
+
+93
+00:04:07,552 --> 00:04:11,136
+<font color="#dadada">Passing the URL don't want to execute</font>
+
+94
+00:04:14,976 --> 00:04:16,768
+<font color="#cacaca">Hello Google</font>
+
+95
+00:04:17,280 --> 00:04:17,791
+<font color="#bababa">Find</font>
+
+96
+00:04:18,047 --> 00:04:20,095
+<font color="#bbbbbb">Do you want to let you two want to execute</font>
+
+97
+00:04:20,351 --> 00:04:21,631
+<font color="#e3e3e3">This line</font>
+
+98
+00:04:27,519 --> 00:04:29,055
+<font color="#fbfbfb">Down here is a promise</font>
+
+99
+00:04:29,567 --> 00:04:30,335
+<font color="#a1a1a1">Sunset Imports</font>
+
+100
+00:04:30,847 --> 00:04:31,615
+<font color="#fcfcfc">Axios</font>
+
+101
+00:04:32,895 --> 00:04:34,943
+<font color="#e9e9e9">Axios axios</font>
+
+102
+00:04:35,455 --> 00:04:36,991
+<font color="#b6b6b6">Birkenstock making u v</font>
+
+103
+00:04:38,527 --> 00:04:41,087
+<font color="#dddddd">If you wait</font>
+
+104
+00:04:41,343 --> 00:04:47,487
+<font color="#d5d5d5">Studio City documentation of the gate metal or actually Dakota forget method</font>
+
+105
+00:04:47,743 --> 00:04:48,255
+<font color="#dddddd">Back</font>
+
+106
+00:04:48,767 --> 00:04:52,351
+<font color="#dfdfdf">OK Google turn the promise that</font>
+
+107
+00:04:52,607 --> 00:04:56,703
+<font color="#dddddd">To each of these methods in the allowable service building a promise that</font>
+
+108
+00:04:56,959 --> 00:04:59,263
+<font color="#f8f8f8">And people leave the responsibility of</font>
+
+109
+00:04:59,519 --> 00:05:00,799
+<font color="#fcfcfc">Defining what to do</font>
+
+110
+00:05:01,055 --> 00:05:04,895
+<font color="#c5c5c5">If this poly successful or is the squad leaders resulting endeavor</font>
+
+111
+00:05:05,151 --> 00:05:11,295
+<font color="#dedede">Welcome component Indie confident which is making a call to the heart</font>
+
+112
+00:05:11,551 --> 00:05:12,575
+<font color="#e1e1e1">India</font>
+
+113
+00:05:13,087 --> 00:05:14,623
+<font color="#cccccc">So just kind of declined</font>
+
+114
+00:05:14,879 --> 00:05:17,439
+<font color="#ababab">Cody helliwell service right over here</font>
+
+115
+00:05:17,951 --> 00:05:19,487
+<font color="#acacac">Give me a promise.</font>
+
+116
+00:05:19,743 --> 00:05:23,583
+<font color="#c9c9c9">Telephone service what did we do promise back</font>
+
+117
+00:05:23,839 --> 00:05:24,607
+<font color="#e7e7e7">What do you do</font>
+
+118
+00:05:24,863 --> 00:05:29,727
+<font color="#f5f5f5">Is you can Define what do we do when it's a successful response</font>
+
+119
+00:05:29,983 --> 00:05:33,311
+<font color="#dbdbdb">What should we do when it's a unsuccessful dress</font>
+
+120
+00:05:34,079 --> 00:05:35,103
+<font color="#b9b9b9">This</font>
+
+121
+00:05:35,359 --> 00:05:36,127
+<font color="#f6f6f6">Request</font>
+
+122
+00:05:36,639 --> 00:05:38,175
+<font color="#f0f0f0">Sexy eats what should I do</font>
+
+123
+00:05:38,431 --> 00:05:40,479
+<font color="#e0e0e0">If this request fails</font>
+
+124
+00:05:40,735 --> 00:05:46,879
+<font color="#eaeaea">What can I do that's what I'll be able to Define on the promise that start with defining the successful</font>
+
+125
+00:05:52,255 --> 00:05:54,303
+<font color="#c3c3c3">Take this exit scenario</font>
+
+126
+00:05:55,839 --> 00:05:57,119
+<font color="#c0c0c0">DeQuincy successful</font>
+
+127
+00:05:57,375 --> 00:06:02,239
+<font color="#f8f8f8">We need to define a method calling here we need to Define what should we do</font>
+
+128
+00:06:02,495 --> 00:06:03,775
+<font color="#e4e4e4">What I'll do</font>
+
+129
+00:06:04,031 --> 00:06:04,799
+<font color="#dddddd">Is Define</font>
+
+130
+00:06:05,311 --> 00:06:06,847
+<font color="#efefef">If I get a response</font>
+
+131
+00:06:07,103 --> 00:06:07,871
+<font color="#d3d3d3">I'll take it</font>
+
+132
+00:06:08,639 --> 00:06:09,407
+<font color="#a5a5a5">LLC</font>
+
+133
+00:06:10,175 --> 00:06:10,687
+<font color="#e3e3e3">Cancel</font>
+
+134
+00:06:10,943 --> 00:06:11,711
+<font color="#c5c5c5">DOT log</font>
+
+135
+00:06:12,735 --> 00:06:13,503
+<font color="#9c9c9c">Sports</font>
+
+136
+00:06:15,039 --> 00:06:15,807
+<font color="#c3c3c3">Let me do this</font>
+
+137
+00:06:16,319 --> 00:06:17,855
+<font color="#f4f4f4">Response comes back</font>
+
+138
+00:06:18,111 --> 00:06:20,159
+<font color="#e6e6e6">You're taking it and putting it down</font>
+
+139
+00:06:20,415 --> 00:06:21,439
+<font color="#d5d5d5">Today cancel</font>
+
+140
+00:06:21,695 --> 00:06:23,487
+<font color="#fcfcfc">Let's see what happens</font>
+
+141
+00:06:23,999 --> 00:06:25,279
+<font color="#e5e5e5">Message</font>
+
+142
+00:06:25,535 --> 00:06:26,303
+<font color="#fbfbfb">Oops</font>
+
+143
+00:06:28,095 --> 00:06:31,423
+<font color="#e1e1e1">It's saying access to my Stephan HTTP request</font>
+
+144
+00:06:31,679 --> 00:06:33,215
+<font color="#fcfcfc">Xmlhttprequest</font>
+
+145
+00:06:33,471 --> 00:06:34,239
+<font color="#cecece">Had this</font>
+
+146
+00:06:34,495 --> 00:06:35,263
+<font color="#ededed">Some origin</font>
+
+147
+00:06:35,775 --> 00:06:37,055
+<font color="#fcfcfc">Has been blocked</font>
+
+148
+00:06:37,823 --> 00:06:38,591
+<font color="#fcfcfc">Think about this</font>
+
+149
+00:06:43,455 --> 00:06:44,479
+<font color="#ababab">80eighty</font>
+
+150
+00:06:44,735 --> 00:06:48,319
+<font color="#f8f8f8">So yes kind of making a call to one server</font>
+
+151
+00:06:48,575 --> 00:06:50,367
+<font color="#fcfcfc">From another server</font>
+
+152
+00:06:51,903 --> 00:06:53,951
+<font color="#c1c1c1">By the back end right now</font>
+
+153
+00:06:54,207 --> 00:06:56,767
+<font color="#ececec">And that's the reason why we are getting this error</font>
+
+154
+00:06:57,279 --> 00:07:00,863
+<font color="#fcfcfc">Let's take a break in here and let's see what needs to be done to fix this</font>
+
+155
+00:07:01,119 --> 00:07:01,887
+<font color="#cecece">In the next step</font>
+
+156
+00:07:06,495 --> 00:07:08,287
+<font color="#ececec">We didn't you promise that</font>
+
+157
+00:07:08,543 --> 00:07:10,847
+<font color="#c5c5c5">And on the promise we Define</font>
+
+158
+00:07:11,103 --> 00:07:11,871
+<font color="#d3d3d3">What should be done</font>
+
+159
+00:07:12,127 --> 00:07:14,175
+<font color="#f7f7f7">When there is a successful response</font>
+
+160
+00:07:14,687 --> 00:07:16,991
+<font color="#f4f4f4">I see you in the next step</font>

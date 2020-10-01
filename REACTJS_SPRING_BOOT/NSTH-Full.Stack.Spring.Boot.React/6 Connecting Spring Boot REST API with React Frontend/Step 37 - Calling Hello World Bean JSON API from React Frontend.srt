@@ -1,0 +1,275 @@
+﻿1
+00:00:01,792 --> 00:00:02,304
+<font color="#d7d7d7">Wake up</font>
+
+2
+00:00:04,608 --> 00:00:06,400
+<font color="#d4d4d4">Quality Hello World Service</font>
+
+3
+00:00:06,656 --> 00:00:09,472
+<font color="#d2d2d2">Start focusing on calling the helloworld beam</font>
+
+4
+00:00:09,984 --> 00:00:11,264
+<font color="#ededed">It's an easy thing to do</font>
+
+5
+00:00:11,520 --> 00:00:15,872
+<font color="#eeeeee">You can even tried as an exercise you can possibly do in here and give it a try</font>
+
+6
+00:00:16,128 --> 00:00:16,640
+<font color="#fbfbfb">Let's go</font>
+
+7
+00:00:17,152 --> 00:00:21,248
+<font color="#d5d5d5">We'll start with the Halliwell so he's what we need to do over here is actually start with a</font>
+
+8
+00:00:21,504 --> 00:00:23,040
+<font color="#bababa">XU helliwell service and</font>
+
+9
+00:00:23,296 --> 00:00:25,600
+<font color="#a8a8a8">Nicholas acutiloba</font>
+
+10
+00:00:32,000 --> 00:00:32,512
+<font color="#cecece">Right</font>
+
+11
+00:00:32,768 --> 00:00:34,560
+<font color="#c4c4c4">Edible paint that looks cool</font>
+
+12
+00:00:35,840 --> 00:00:37,632
+<font color="#cfcfcf">I get the Halloween being serviced</font>
+
+13
+00:00:38,656 --> 00:00:39,936
+<font color="#cdcdcd">Anybody comes compliments</font>
+
+14
+00:00:40,192 --> 00:00:40,704
+<font color="#dadada">That's not</font>
+
+15
+00:00:40,960 --> 00:00:41,984
+<font color="#fcfcfc">Really</font>
+
+16
+00:00:42,496 --> 00:00:45,056
+<font color="#f9f9f9">Create a new button and do that all stuff again</font>
+
+17
+00:00:45,312 --> 00:00:47,360
+<font color="#a7a7a7">What is altezza three</font>
+
+18
+00:00:47,616 --> 00:00:48,640
+<font color="#f6f6f6">Welcome message</font>
+
+19
+00:00:49,920 --> 00:00:51,456
+<font color="#c8c8c8">How do you copy paste this</font>
+
+20
+00:00:54,784 --> 00:00:55,552
+<font color="#bebebe">Coming to South</font>
+
+21
+00:00:56,320 --> 00:01:00,160
+<font color="#e9e9e9">And what we lose over here</font>
+
+22
+00:01:00,416 --> 00:01:02,208
+<font color="#b2b2b2">Exit Halloween beans</font>
+
+23
+00:01:03,232 --> 00:01:04,000
+<font color="#f6f6f6">You get the response</font>
+
+24
+00:01:04,256 --> 00:01:10,400
+<font color="#d6d6d6">And the response and we are also trying to set guessing welcome message as a sponsored data</font>
+
+25
+00:01:10,656 --> 00:01:13,984
+<font color="#d8d8d8">I don't think I do is actually try and log into control</font>
+
+26
+00:01:14,496 --> 00:01:15,264
+<font color="#c1c1c1">DOT log</font>
+
+27
+00:01:15,520 --> 00:01:16,288
+<font color="#9d9d9d">Respond</font>
+
+28
+00:01:17,568 --> 00:01:18,592
+<font color="#d5d5d5">Let's</font>
+
+29
+00:01:24,480 --> 00:01:25,248
+<font color="#fcfcfc">What's happening is it</font>
+
+30
+00:01:25,504 --> 00:01:29,344
+<font color="#dcdcdc">Yes it again object into welcome message why is it happening that way</font>
+
+31
+00:01:29,856 --> 00:01:30,624
+<font color="#fcfcfc">Let's look at</font>
+
+32
+00:01:31,136 --> 00:01:32,928
+<font color="#eeeeee">Beacon Soul a little bit more</font>
+
+33
+00:01:33,184 --> 00:01:35,232
+<font color="#fafafa">Let's look at the response which came back</font>
+
+34
+00:01:35,488 --> 00:01:37,024
+<font color="#f0f0f0">The data if you look at it</font>
+
+35
+00:01:37,280 --> 00:01:38,048
+<font color="#fcfcfc">Is actually</font>
+
+36
+00:01:38,304 --> 00:01:39,072
+<font color="#efefef">A message</font>
+
+37
+00:01:39,328 --> 00:01:40,096
+<font color="#d0d0d0">Hello Buzz</font>
+
+38
+00:01:40,352 --> 00:01:44,960
+<font color="#e9e9e9">So there is nothing but now a Json response response that comes back is</font>
+
+39
+00:01:45,728 --> 00:01:47,520
+<font color="#e2e2e2">A Json response</font>
+
+40
+00:01:47,776 --> 00:01:50,080
+<font color="#f4f4f4">And that's the reason why the heck is complaining</font>
+
+41
+00:01:50,336 --> 00:01:51,360
+<font color="#bbbbbb">Olivia</font>
+
+42
+00:01:51,872 --> 00:01:52,640
+<font color="#fcfcfc">You cannot</font>
+
+43
+00:01:57,248 --> 00:01:57,760
+<font color="#9e9e9e">Call Jay</font>
+
+44
+00:01:58,016 --> 00:01:59,040
+<font color="#fcfcfc">It's not really</font>
+
+45
+00:01:59,808 --> 00:02:00,576
+<font color="#d7d7d7">A simple strain</font>
+
+46
+00:02:01,856 --> 00:02:05,952
+<font color="#e5e5e5">So what we can do to get the value from it is actually do or. Message</font>
+
+47
+00:02:06,208 --> 00:02:06,720
+<font color="#f3f3f3">So what</font>
+
+48
+00:02:06,976 --> 00:02:09,280
+<font color="#f6f6f6">We can actually do now it's over here</font>
+
+49
+00:02:09,536 --> 00:02:11,840
+<font color="#e5e5e5">Do response. Data.</font>
+
+50
+00:02:13,120 --> 00:02:16,704
+<font color="#f4f4f4">Send data and data contains. Message</font>
+
+51
+00:02:16,960 --> 00:02:23,104
+<font color="#e1e1e1">Select data that message would give you the thing and it would set the right messaging to this tape let's look at it right now.</font>
+
+52
+00:02:23,872 --> 00:02:25,408
+<font color="#e5e5e5">Go to the night to do the application</font>
+
+53
+00:02:30,272 --> 00:02:32,064
+<font color="#d7d7d7">If you check the network that we would see that</font>
+
+54
+00:02:32,320 --> 00:02:33,856
+<font color="#d1d1d1">The appropriate Christian</font>
+
+55
+00:02:34,880 --> 00:02:36,160
+<font color="#fcfcfc">If you want to be delicious</font>
+
+56
+00:02:36,416 --> 00:02:37,184
+<font color="#e0e0e0">I can actually</font>
+
+57
+00:02:38,976 --> 00:02:39,744
+<font color="#bcbcbc">LOL</font>
+
+58
+00:02:40,000 --> 00:02:45,376
+<font color="#ebebeb">Play funny going to restart pick it up or you can manually stop and decide if it's not being picked up</font>
+
+59
+00:02:46,656 --> 00:02:47,168
+<font color="#fcfcfc">Go ahead</font>
+
+60
+00:02:48,960 --> 00:02:50,240
+<font color="#e5e5e5">Empty that Tyler will be missed</font>
+
+61
+00:02:51,264 --> 00:02:52,288
+<font color="#c0c0c0">Etsy Whitney change</font>
+
+62
+00:02:52,800 --> 00:02:53,312
+<font color="#fcfcfc">Save this</font>
+
+63
+00:02:54,592 --> 00:03:00,736
+<font color="#e0e0e0">What day did SV call Lee Hollowell be in service this evening or hello world into this</font>
+
+64
+00:03:00,992 --> 00:03:07,136
+<font color="#dddddd">Blitzwinger proper Json response back and we saw that manages Investments comes back and we are displaying it as is</font>
+
+65
+00:03:07,392 --> 00:03:12,256
+<font color="#e8e8e8">React start complaining it says you can understand object directly and that's why</font>
+
+66
+00:03:12,512 --> 00:03:13,024
+<font color="#e3e3e3">Because</font>
+
+67
+00:03:13,280 --> 00:03:17,632
+<font color="#e2e2e2">Structure of the Json message we know that invitation through something called message</font>
+
+68
+00:03:17,888 --> 00:03:20,448
+<font color="#e4e4e4">So he picked it up and set it into this date</font>
+
+69
+00:03:20,704 --> 00:03:23,008
+<font color="#fafafa">I see you in the next</font>

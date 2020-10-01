@@ -1,0 +1,311 @@
+﻿1
+00:00:01,280 --> 00:00:02,048
+<font color="#fcfcfc">Welcome</font>
+
+2
+00:00:02,816 --> 00:00:03,840
+<font color="#b2b2b2">Previous step</font>
+
+3
+00:00:04,096 --> 00:00:05,888
+<font color="#b4b4b4">Resort at the Lakes rjs</font>
+
+4
+00:00:06,656 --> 00:00:08,704
+<font color="#dddddd">Strength to endure the app component</font>
+
+5
+00:00:08,960 --> 00:00:10,496
+<font color="#e2e2e2">Into the root element</font>
+
+6
+00:00:10,752 --> 00:00:13,312
+<font color="#c8c8c8">What does this app pumpling contain</font>
+
+7
+00:00:13,568 --> 00:00:14,848
+<font color="#f1f1f1">What is a component</font>
+
+8
+00:00:15,360 --> 00:00:17,152
+<font color="#dbdbdb">Why do you create components into your</font>
+
+9
+00:00:18,176 --> 00:00:18,944
+<font color="#fcfcfc">Let's look at that</font>
+
+10
+00:00:20,736 --> 00:00:24,064
+<font color="#e9e9e9">Applications are complex right this</font>
+
+11
+00:00:24,320 --> 00:00:27,392
+<font color="#dbdbdb">Bail application has a header or footer</font>
+
+12
+00:00:27,904 --> 00:00:32,768
+<font color="#e1e1e1">The pH here it is to do it might be welcome page login page logout page</font>
+
+13
+00:00:36,096 --> 00:00:36,864
+<font color="#b6b6b6">Stuffy tablets</font>
+
+14
+00:00:38,400 --> 00:00:43,008
+<font color="#d7d7d7">Baby born to develop applications we won't develop them in a modularized</font>
+
+15
+00:00:44,032 --> 00:00:44,800
+<font color="#fcfcfc">And that's weird</font>
+
+16
+00:00:45,312 --> 00:00:47,104
+<font color="#f8f8f8">Components come in</font>
+
+17
+00:00:47,616 --> 00:00:48,896
+<font color="#b5b5b5">Components</font>
+
+18
+00:00:49,152 --> 00:00:51,456
+<font color="#fcfcfc">Design and develop each of these</font>
+
+19
+00:00:51,712 --> 00:00:53,248
+<font color="#fcfcfc">Individual elements</font>
+
+20
+00:00:53,760 --> 00:00:55,040
+<font color="#dbdbdb">Independent</font>
+
+21
+00:00:55,296 --> 00:00:56,576
+<font color="#d3d3d3">Reusable peace</font>
+
+22
+00:00:57,344 --> 00:01:01,696
+<font color="#ebebeb">What we can do if we can create a menu company we can create a header component</font>
+
+23
+00:01:01,952 --> 00:01:04,512
+<font color="#efefef">We can create a footer component</font>
+
+24
+00:01:04,768 --> 00:01:08,096
+<font color="#f8f8f8">And we can create a to-do component as well</font>
+
+25
+00:01:13,472 --> 00:01:14,240
+<font color="#fcfcfc">Reusable</font>
+
+26
+00:01:14,496 --> 00:01:15,776
+<font color="#cacaca">Pieces of cord</font>
+
+27
+00:01:16,032 --> 00:01:17,312
+<font color="#ebebeb">When it comes to Viet</font>
+
+28
+00:01:18,592 --> 00:01:20,128
+<font color="#e2e2e2">Component East</font>
+
+29
+00:01:20,384 --> 00:01:21,152
+<font color="#c6c6c6">Typically call</font>
+
+30
+00:01:21,664 --> 00:01:22,944
+<font color="#ebebeb">The app component</font>
+
+31
+00:01:23,456 --> 00:01:26,272
+<font color="#f5f5f5">And that's what people looking at in here earlier</font>
+
+32
+00:01:31,392 --> 00:01:34,720
+<font color="#fcfcfc">Because this is the first one which we are loading</font>
+
+33
+00:01:34,976 --> 00:01:35,744
+<font color="#e9e9e9">Into</font>
+
+34
+00:01:36,768 --> 00:01:37,792
+<font color="#cdcdcd">Root element</font>
+
+35
+00:01:39,072 --> 00:01:42,400
+<font color="#d1d1d1">Where we talked about a number of things</font>
+
+36
+00:01:44,704 --> 00:01:46,496
+<font color="#dfdfdf">Depressing is the view</font>
+
+37
+00:01:47,008 --> 00:01:47,520
+<font color="#e7e7e7">Oh yeah</font>
+
+38
+00:01:47,776 --> 00:01:49,056
+<font color="#dedede">Guessing this is how</font>
+
+39
+00:01:49,824 --> 00:01:50,848
+<font color="#f8f8f8">The device should be</font>
+
+40
+00:01:51,104 --> 00:01:51,872
+<font color="#e2e2e2">Structure</font>
+
+41
+00:01:52,128 --> 00:01:55,456
+<font color="#d8d8d8">We said we should have text call my helloworld inside</font>
+
+42
+00:01:55,968 --> 00:02:00,064
+<font color="#c4c4c4">So this is basically the view information to Trieste spring inside the component</font>
+
+43
+00:02:00,320 --> 00:02:02,624
+<font color="#e4e4e4">Hear you using something called</font>
+
+44
+00:02:02,880 --> 00:02:03,904
+<font color="#dddddd">Jsx</font>
+
+45
+00:02:04,928 --> 00:02:07,232
+<font color="#ececec">Day6 is an extension of JavaScript</font>
+
+46
+00:02:07,488 --> 00:02:12,608
+<font color="#e5e5e5">Adidas in the Javascript file including something which looks like a HTML</font>
+
+47
+00:02:13,120 --> 00:02:14,400
+<font color="#f6f6f6">And this is what it's called</font>
+
+48
+00:02:14,656 --> 00:02:15,168
+<font color="#c7c7c7">Js</font>
+
+49
+00:02:16,192 --> 00:02:20,544
+<font color="#dfdfdf">YouTube G6 you can also write JavaScript code to do exactly the same.</font>
+
+50
+00:02:21,312 --> 00:02:25,920
+<font color="#c6c6c6">We have a view which can I didn't using j6</font>
+
+51
+00:02:27,968 --> 00:02:29,248
+<font color="#c7c7c7">Do we have logic</font>
+
+52
+00:02:29,760 --> 00:02:31,808
+<font color="#e2e2e2">A company might have buttons</font>
+
+53
+00:02:32,320 --> 00:02:32,832
+<font color="#fcfcfc">Might have</font>
+
+54
+00:02:33,088 --> 00:02:34,112
+<font color="#fcfcfc">Empty boxes</font>
+
+55
+00:02:34,624 --> 00:02:37,952
+<font color="#d3d3d3">Checkboxes a lot of form elements and stuff like that</font>
+
+56
+00:02:38,464 --> 00:02:42,048
+<font color="#e1e1e1">So what should happen when you change something when you click a button and all that stuff</font>
+
+57
+00:02:48,448 --> 00:02:53,824
+<font color="#dfdfdf">I don't have any component you will also have this Dialing for the company and all that goes into</font>
+
+58
+00:02:55,104 --> 00:02:56,384
+<font color="#e5e5e5">Component.</font>
+
+59
+00:02:56,640 --> 00:02:57,152
+<font color="#e6e6e6">CSS</font>
+
+60
+00:02:57,408 --> 00:02:57,920
+<font color="#dedede">File</font>
+
+61
+00:02:58,432 --> 00:03:00,992
+<font color="#fcfcfc">Which color should something be shown what size</font>
+
+62
+00:03:01,504 --> 00:03:03,552
+<font color="#c3c3c3">Could it be Center aligned and all that</font>
+
+63
+00:03:04,832 --> 00:03:06,368
+<font color="#f5f5f5">The other two important things</font>
+
+64
+00:03:06,624 --> 00:03:09,184
+<font color="#d5d5d5">About a company that something called state</font>
+
+65
+00:03:10,976 --> 00:03:12,512
+<font color="#fcfcfc">We talked about this extensively</font>
+
+66
+00:03:13,024 --> 00:03:15,072
+<font color="#f4f4f4">When we develop our next examples</font>
+
+67
+00:03:15,584 --> 00:03:18,400
+<font color="#e5e5e5">Counterexample in application</font>
+
+68
+00:03:18,656 --> 00:03:22,496
+<font color="#f0f0f0">Hindi we'll see how State and props play a very important role</font>
+
+69
+00:03:22,752 --> 00:03:24,032
+<font color="#e7e7e7">As part of your company</font>
+
+70
+00:03:24,800 --> 00:03:29,920
+<font color="#e2e2e2">We learned that react applications built as a group of components</font>
+
+71
+00:03:30,432 --> 00:03:32,480
+<font color="#f4f4f4">Each of these components is independent</font>
+
+72
+00:03:32,736 --> 00:03:34,016
+<font color="#dfdfdf">And reusable on it</font>
+
+73
+00:03:35,296 --> 00:03:39,136
+<font color="#e7e7e7">The other thing that we have learned is each of these components contained of you</font>
+
+74
+00:03:39,392 --> 00:03:40,928
+<font color="#fcfcfc">A little bit of JavaScript logic</font>
+
+75
+00:03:41,184 --> 00:03:41,696
+<font color="#fcfcfc">Dining</font>
+
+76
+00:03:41,952 --> 00:03:44,768
+<font color="#f7f7f7">And also a couple of things called State and property</font>
+
+77
+00:03:47,072 --> 00:03:48,864
+<font color="#c1c1c1">It would start playing with each</font>
+
+78
+00:03:50,144 --> 00:03:51,424
+<font color="#979797">And the next day</font>

@@ -1,0 +1,667 @@
+﻿1
+00:00:02,048 --> 00:00:02,560
+<font color="#fcfcfc">Welcome back</font>
+
+2
+00:00:02,816 --> 00:00:04,864
+<font color="#d1d1d1">In the steppe food look at</font>
+
+3
+00:00:05,888 --> 00:00:08,192
+<font color="#d3d3d3">Does smooth look at a couple of examples.</font>
+
+4
+00:00:08,704 --> 00:00:09,216
+<font color="#f5f5f5">Spring boot</font>
+
+5
+00:00:09,472 --> 00:00:09,984
+<font color="#a7a7a7">Start a web</font>
+
+6
+00:00:10,240 --> 00:00:11,008
+<font color="#e5e5e5">And spring boot</font>
+
+7
+00:00:11,520 --> 00:00:12,032
+<font color="#d8d8d8">Strategy</font>
+
+8
+00:00:12,544 --> 00:00:14,080
+<font color="#eaeaea">If you open up the poem.</font>
+
+9
+00:00:14,336 --> 00:00:15,872
+<font color="#c8c8c8">10 minutes of the project that we have</font>
+
+10
+00:00:17,408 --> 00:00:18,176
+<font color="#fcfcfc">You would see that</font>
+
+11
+00:00:18,688 --> 00:00:19,456
+<font color="#f2f2f2">Choosing spring boots</font>
+
+12
+00:00:19,712 --> 00:00:20,224
+<font color="#878787">Taco Bell</font>
+
+13
+00:00:20,736 --> 00:00:21,504
+<font color="#b2b2b2">How did its</font>
+
+14
+00:00:21,760 --> 00:00:23,040
+<font color="#bbbbbb">You spin with Sarah Webb</font>
+
+15
+00:00:24,064 --> 00:00:27,136
+<font color="#ececec">That's because we configured a dependency on web</font>
+
+16
+00:00:28,416 --> 00:00:29,440
+<font color="#e7e7e7">If I opened it up</font>
+
+17
+00:00:29,696 --> 00:00:31,232
+<font color="#e0e0e0">And go to the pond or XML</font>
+
+18
+00:00:32,256 --> 00:00:33,536
+<font color="#c5c5c5">Juicy.</font>
+
+19
+00:00:33,792 --> 00:00:36,096
+<font color="#c1c1c1">Distinguished data web is configured</font>
+
+20
+00:00:37,376 --> 00:00:42,752
+<font color="#cccccc">To distinguish staticweb is the preferred starter for spring boot to develop web applications</font>
+
+21
+00:00:43,008 --> 00:00:44,032
+<font color="#fcfcfc">As well as</font>
+
+22
+00:00:44,544 --> 00:00:45,568
+<font color="#f6f6f6">Restful web service</font>
+
+23
+00:00:49,152 --> 00:00:50,688
+<font color="#c5c5c5">Command and</font>
+
+24
+00:00:51,200 --> 00:00:54,272
+<font color="#e9e9e9">Open phone. XML first in good starter web</font>
+
+25
+00:00:54,784 --> 00:00:55,296
+<font color="#bababa">Cutesy</font>
+
+26
+00:00:55,552 --> 00:00:56,832
+<font color="#c3c3c3">That it defines</font>
+
+27
+00:00:57,344 --> 00:00:57,856
+<font color="#9d9d9d">Very</font>
+
+28
+00:00:58,112 --> 00:00:59,648
+<font color="#e5e5e5">Kind of dependency</font>
+
+29
+00:01:00,160 --> 00:01:01,440
+<font color="#e7e7e7">So what does it really Define</font>
+
+30
+00:01:03,232 --> 00:01:04,000
+<font color="#d0d0d0">Wyndmere ND</font>
+
+31
+00:01:05,024 --> 00:01:06,048
+<font color="#cbcbcb">Automatically using</font>
+
+32
+00:01:07,584 --> 00:01:08,864
+<font color="#fcfcfc">That's because of this</font>
+
+33
+00:01:09,120 --> 00:01:09,888
+<font color="#efefef">Spring boots</font>
+
+34
+00:01:10,144 --> 00:01:10,912
+<font color="#b1b1b1">Dr. Tomko</font>
+
+35
+00:01:11,680 --> 00:01:13,216
+<font color="#c5c5c5">If you look at Springwood staticweb</font>
+
+36
+00:01:13,728 --> 00:01:14,496
+<font color="#cbcbcb">It contains a d</font>
+
+37
+00:01:14,752 --> 00:01:17,568
+<font color="#dddddd">Dependency on Spring boot starter Tomcat</font>
+
+38
+00:01:18,080 --> 00:01:18,848
+<font color="#fcfcfc">And that's how</font>
+
+39
+00:01:19,104 --> 00:01:21,664
+<font color="#f9f9f9">The application is automatically running</font>
+
+40
+00:01:21,920 --> 00:01:23,200
+<font color="#bababa">In Tomcat</font>
+
+41
+00:01:23,712 --> 00:01:24,480
+<font color="#fcfcfc">The other things</font>
+
+42
+00:01:25,248 --> 00:01:28,832
+<font color="#efefef">You'd seen here at Spring and spring WebMD</font>
+
+43
+00:01:29,600 --> 00:01:31,392
+<font color="#dddddd">Spring MVC sua</font>
+
+44
+00:01:31,648 --> 00:01:34,208
+<font color="#fcfcfc">Spring MVC framework</font>
+
+45
+00:01:34,464 --> 00:01:40,608
+<font color="#e6e6e6">Spring boot static web I automatically get spring MVC I automatically get validation validation</font>
+
+46
+00:01:40,864 --> 00:01:42,400
+<font color="#f2f2f2">The default implementation for</font>
+
+47
+00:01:42,656 --> 00:01:44,704
+<font color="#dcdcdc">Java validation API is hibernate</font>
+
+48
+00:01:45,472 --> 00:01:47,520
+<font color="#ebebeb">Data so I get that as well</font>
+
+49
+00:01:47,776 --> 00:01:48,544
+<font color="#fcfcfc">And I get</font>
+
+50
+00:01:48,800 --> 00:01:49,568
+<font color="#d6d6d6">Tomcat</font>
+
+51
+00:01:49,824 --> 00:01:51,360
+<font color="#fcfcfc">And also</font>
+
+52
+00:01:51,616 --> 00:01:52,128
+<font color="#e4e4e4">I get</font>
+
+53
+00:01:53,152 --> 00:01:56,992
+<font color="#d8d8d8">Dr. Jason decided this more for restful web services</font>
+
+54
+00:01:57,248 --> 00:01:59,552
+<font color="#fcfcfc">We saw that when we actually</font>
+
+55
+00:01:59,808 --> 00:02:04,672
+<font color="#e3e3e3">Envogue be restful web service conversion to Json automatically happen</font>
+
+56
+00:02:05,696 --> 00:02:06,720
+<font color="#acacac">Elizabeth Cote</font>
+
+57
+00:02:06,976 --> 00:02:09,024
+<font color="#cecece">You just returned the bean bag</font>
+
+58
+00:02:09,536 --> 00:02:13,632
+<font color="#dadada">In the Box controller what we're doing is we're just returning a list of beans that</font>
+
+59
+00:02:17,216 --> 00:02:17,984
+<font color="#9d9d9d">It done</font>
+
+60
+00:02:18,240 --> 00:02:19,776
+<font color="#d4d4d4">Through this title</font>
+
+61
+00:02:20,032 --> 00:02:23,616
+<font color="#bababa">The start of Jason brings in Jason binding</font>
+
+62
+00:02:23,872 --> 00:02:24,896
+<font color="#fcfcfc">Into the picture</font>
+
+63
+00:02:25,152 --> 00:02:27,456
+<font color="#eaeaea">Basically when you look at all starter projects</font>
+
+64
+00:02:27,968 --> 00:02:30,784
+<font color="#fcfcfc">They have a set of dependencies that</font>
+
+65
+00:02:31,040 --> 00:02:31,808
+<font color="#e7e7e7">Are already</font>
+
+66
+00:02:32,832 --> 00:02:34,624
+<font color="#e4e4e4">And these dependencies</font>
+
+67
+00:02:34,880 --> 00:02:40,256
+<font color="#e0e0e0">Automatically provided to our projects would start over</font>
+
+68
+00:02:40,768 --> 00:02:43,840
+<font color="#dddddd">I get all this dependency so you'd see that</font>
+
+69
+00:02:44,096 --> 00:02:48,704
+<font color="#f2f2f2">I'm getting Jackson for handling all the Jason stuff you'd see that I'm getting Tomcat</font>
+
+70
+00:02:48,960 --> 00:02:51,520
+<font color="#f9f9f9">So if I can find the application in Tomcat I'm getting</font>
+
+71
+00:02:51,776 --> 00:02:54,592
+<font color="#fcfcfc">Hibernate validator and validation API</font>
+
+72
+00:02:54,848 --> 00:02:59,200
+<font color="#e2e2e2">For doing the evaluation and getting the spring framework because I have a</font>
+
+73
+00:02:59,712 --> 00:03:04,832
+<font color="#f4f4f4">Dependency on Spring web and that would have a dependency on Spring framework</font>
+
+74
+00:03:05,344 --> 00:03:06,368
+<font color="#fcfcfc">And also</font>
+
+75
+00:03:08,416 --> 00:03:12,512
+<font color="#ededed">Logging Frameworks as well because the logging Frameworks are</font>
+
+76
+00:03:13,024 --> 00:03:15,584
+<font color="#dbdbdb">By default Define in the spring boots</font>
+
+77
+00:03:15,840 --> 00:03:19,936
+<font color="#e7e7e7">Titus has been good Saturday is one of the dependencies in Spring boot starter web</font>
+
+78
+00:03:23,520 --> 00:03:25,312
+<font color="#fbfbfb">This is the default starter</font>
+
+79
+00:03:25,568 --> 00:03:29,920
+<font color="#dbdbdb">This is where everything inherits from so any started that you would use</font>
+
+80
+00:03:30,176 --> 00:03:31,200
+<font color="#f7f7f7">In Spring boot</font>
+
+81
+00:03:31,712 --> 00:03:33,760
+<font color="#d4d4d4">18 headed from Spring boot starter</font>
+
+82
+00:03:34,272 --> 00:03:39,904
+<font color="#d8d8d8">And you see that decided dependency on Spring boot framework this as a dependency on Springwood autoconfigure</font>
+
+83
+00:03:40,160 --> 00:03:41,952
+<font color="#e7e7e7">That's how we get our configuration</font>
+
+84
+00:03:46,304 --> 00:03:47,584
+<font color="#f0f0f0">That's how we would get logging</font>
+
+85
+00:03:47,840 --> 00:03:48,608
+<font color="#fcfcfc">And we have</font>
+
+86
+00:03:48,864 --> 00:03:50,400
+<font color="#fbfbfb">Dependency on Spring</font>
+
+87
+00:03:50,656 --> 00:03:51,936
+<font color="#959595">RSV</font>
+
+88
+00:03:52,192 --> 00:03:55,776
+<font color="#f8f8f8">Yamill is one of the convocation languages that spring boot support</font>
+
+89
+00:03:56,032 --> 00:03:58,080
+<font color="#ebebeb">So we also have sneaky animal</font>
+
+90
+00:03:58,592 --> 00:04:01,408
+<font color="#c4c4c4">Think about something good starter webos once</font>
+
+91
+00:04:01,664 --> 00:04:03,968
+<font color="#f1f1f1">Abramson all this dependencies</font>
+
+92
+00:04:04,480 --> 00:04:06,528
+<font color="#d5d5d5">What would kicking auto-configuration wood</font>
+
+93
+00:04:06,784 --> 00:04:07,552
+<font color="#c9c9c9">Kicking because</font>
+
+94
+00:04:08,064 --> 00:04:13,440
+<font color="#cdcdcd">Spring Grove MBC contains dispatcherservlet to automatically dispatcherservlet would be configured</font>
+
+95
+00:04:14,208 --> 00:04:15,232
+<font color="#eeeeee">That's done by</font>
+
+96
+00:04:15,488 --> 00:04:17,024
+<font color="#f3f3f3">Spring boot Auto configure.</font>
+
+97
+00:04:17,280 --> 00:04:20,095
+<font color="#f9f9f9">The auto-configuration which we talked about earlier</font>
+
+98
+00:04:20,863 --> 00:04:22,911
+<font color="#c3c3c3">We would start a web is one of the starters</font>
+
+99
+00:04:23,167 --> 00:04:25,983
+<font color="#d8d8d8">You can see him here is spring boot starter test</font>
+
+100
+00:04:32,383 --> 00:04:34,431
+<font color="#ececec">So if I go to the pond or XML in here</font>
+
+101
+00:04:34,687 --> 00:04:35,455
+<font color="#d5d5d5">He would see</font>
+
+102
+00:04:35,711 --> 00:04:38,271
+<font color="#e4e4e4">That it has a definition of spring boot test</font>
+
+103
+00:04:39,551 --> 00:04:41,855
+<font color="#e1e1e1">Definition of the article</font>
+
+104
+00:04:42,367 --> 00:04:45,439
+<font color="#dfdfdf">And it has dependencies on Jamie preamble</font>
+
+105
+00:04:46,207 --> 00:04:47,231
+<font color="#e7e7e7">Sog</font>
+
+106
+00:04:47,487 --> 00:04:48,511
+<font color="#fcfcfc">And also</font>
+
+107
+00:04:48,767 --> 00:04:50,815
+<font color="#dadada">You have monkey tomohito is the default</font>
+
+108
+00:04:51,071 --> 00:04:53,375
+<font color="#f2f2f2">Mocking framework that comes along with</font>
+
+109
+00:04:53,631 --> 00:04:54,143
+<font color="#b7b7b7">Spring boot</font>
+
+110
+00:04:54,655 --> 00:04:55,423
+<font color="#fcfcfc">A combination of</font>
+
+111
+00:04:55,679 --> 00:04:57,727
+<font color="#acacac">SOG and ham Bristol</font>
+
+112
+00:04:57,983 --> 00:04:59,263
+<font color="#d0d0d0">Awesome to light green</font>
+
+113
+00:05:00,031 --> 00:05:01,567
+<font color="#fcfcfc">And you also have a dependency on this</font>
+
+114
+00:05:01,823 --> 00:05:02,591
+<font color="#b8b8b8">Spring test</font>
+
+115
+00:05:02,847 --> 00:05:05,407
+<font color="#e3e3e3">Framework which is useful in writing unit test for spring</font>
+
+116
+00:05:05,919 --> 00:05:07,967
+<font color="#d8d8d8">Good couple of starters</font>
+
+117
+00:05:08,223 --> 00:05:08,735
+<font color="#c6c6c6">Beaches</font>
+
+118
+00:05:08,991 --> 00:05:10,015
+<font color="#a2a2a2">Good starter web</font>
+
+119
+00:05:10,271 --> 00:05:11,039
+<font color="#f5f5f5">And spring boot</font>
+
+120
+00:05:12,319 --> 00:05:17,695
+<font color="#dddddd">Other than that another important Charter which is frequently used spring boot starter JP</font>
+
+121
+00:05:17,951 --> 00:05:21,535
+<font color="#f1f1f1">If you know GPS GPS kind of the interface</font>
+
+122
+00:05:22,047 --> 00:05:24,351
+<font color="#d1d1d1">Hibernate so dep Define</font>
+
+123
+00:05:24,863 --> 00:05:26,911
+<font color="#fcfcfc">How warm applications</font>
+
+124
+00:05:27,167 --> 00:05:28,447
+<font color="#e3e3e3">At what time frame book</font>
+
+125
+00:05:30,239 --> 00:05:32,287
+<font color="#fcfcfc">What time is object relational mapping</font>
+
+126
+00:05:32,543 --> 00:05:35,615
+<font color="#c6c6c6">Let you know adding a dependency on Spring boot strategy</font>
+
+127
+00:05:36,383 --> 00:05:39,967
+<font color="#eeeeee">You would see now that there would be a lot on my mind dependency switch would come in</font>
+
+128
+00:05:50,463 --> 00:05:51,487
+<font color="#eeeeee">Transaction API hibernate</font>
+
+129
+00:05:53,279 --> 00:05:55,839
+<font color="#fcfcfc">You have spring data spring data jpa</font>
+
+130
+00:05:56,351 --> 00:05:57,119
+<font color="#828282">Dingle Ireland</font>
+
+131
+00:05:57,375 --> 00:05:57,887
+<font color="#fcfcfc">Spring TX</font>
+
+132
+00:05:58,399 --> 00:06:00,191
+<font color="#dedede">And a lot of such dependence</font>
+
+133
+00:06:01,727 --> 00:06:03,775
+<font color="#e5e5e5">That's because of the spring boot</font>
+
+134
+00:06:04,031 --> 00:06:04,543
+<font color="#e5e5e5">Strategy</font>
+
+135
+00:06:05,567 --> 00:06:08,895
+<font color="#d6d6d6">Hey if you open up the phone lyrics Milford spring boot strategy PA</font>
+
+136
+00:06:09,663 --> 00:06:10,687
+<font color="#dddddd">Then you'd see all the</font>
+
+137
+00:06:11,967 --> 00:06:16,063
+<font color="#c5c5c5">Get down to this as a dependency on Springwood Saturday Opie status jtbc</font>
+
+138
+00:06:18,879 --> 00:06:19,391
+<font color="#d6d6d6">Spring data</font>
+
+139
+00:06:19,903 --> 00:06:21,439
+<font color="#c4c4c4">All this Jazz you'd get</font>
+
+140
+00:06:25,023 --> 00:06:26,047
+<font color="#e1e1e1">I'll get all this</font>
+
+141
+00:06:26,815 --> 00:06:27,327
+<font color="#dadada">For free</font>
+
+142
+00:06:27,583 --> 00:06:29,119
+<font color="#fcfcfc">One of the things you need to remember</font>
+
+143
+00:06:29,375 --> 00:06:32,447
+<font color="#d4d4d4">Is if you are a starting programmer or this is</font>
+
+144
+00:06:32,703 --> 00:06:35,775
+<font color="#e2e2e2">The first time you are looking at Spring boot a lot of things my</font>
+
+145
+00:06:36,031 --> 00:06:37,055
+<font color="#e6e6e6">Confusing to you</font>
+
+146
+00:06:37,823 --> 00:06:39,615
+<font color="#f8f8f8">Especially because we are referring to</font>
+
+147
+00:06:43,967 --> 00:06:44,735
+<font color="#e0e0e0">Problems for</font>
+
+148
+00:06:44,991 --> 00:06:46,527
+<font color="#e6e6e6">Variety of Frameworks</font>
+
+149
+00:06:47,039 --> 00:06:48,063
+<font color="#dcdcdc">So Perla</font>
+
+150
+00:06:48,319 --> 00:06:51,391
+<font color="#d0d0d0">Terminologies that come into picture when we talk about springboard</font>
+
+151
+00:06:51,903 --> 00:06:56,255
+<font color="#f1f1f1">So if you're not able to understand any of this terminal just do not worry at all</font>
+
+152
+00:06:56,767 --> 00:06:57,791
+<font color="#d8d8d8">What's the cause of this</font>
+
+153
+00:06:58,047 --> 00:06:58,559
+<font color="#dfdfdf">Course</font>
+
+154
+00:06:58,815 --> 00:07:01,631
+<font color="#fbfbfb">And also over the course of your next few years</font>
+
+155
+00:07:03,935 --> 00:07:06,239
+<font color="#d3d3d3">So that those don't know just become really</font>
+
+156
+00:07:06,495 --> 00:07:07,263
+<font color="#cecece">Ikea for you</font>
+
+157
+00:07:07,519 --> 00:07:08,287
+<font color="#f6f6f6">The idea</font>
+
+158
+00:07:08,543 --> 00:07:09,567
+<font color="#ececec">For you is</font>
+
+159
+00:07:09,823 --> 00:07:13,151
+<font color="#f1f1f1">To understand the big picture of what springboard does</font>
+
+160
+00:07:13,407 --> 00:07:14,687
+<font color="#b4b4b4">Spring boot is now</font>
+
+161
+00:07:14,943 --> 00:07:15,711
+<font color="#f7f7f7">One of the most</font>
+
+162
+00:07:15,967 --> 00:07:19,039
+<font color="#f7f7f7">Popular Frameworks to develop microservices</font>
+
+163
+00:07:19,295 --> 00:07:21,855
+<font color="#e7e7e7">The idea behind the whole set of these steps</font>
+
+164
+00:07:22,111 --> 00:07:23,135
+<font color="#cacaca">Is it gives you a</font>
+
+165
+00:07:23,391 --> 00:07:26,975
+<font color="#f6f6f6">Flavor of spring boot in wide variety of scenarios</font>
+
+166
+00:07:27,487 --> 00:07:31,327
+<font color="#f6f6f6">If you're not able to understand a couple of scenarios. Not a problem at all</font>
+
+167
+00:07:34,911 --> 00:07:36,703
+<font color="#fcfcfc">I look forward to see you in the next step</font>

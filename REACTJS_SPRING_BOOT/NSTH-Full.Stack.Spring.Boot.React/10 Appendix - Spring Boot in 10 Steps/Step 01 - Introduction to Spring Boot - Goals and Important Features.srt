@@ -1,0 +1,563 @@
+﻿1
+00:00:01,280 --> 00:00:02,048
+<font color="#a3a3a3">They come back</font>
+
+2
+00:00:02,304 --> 00:00:04,352
+<font color="#cbcbcb">Instead we'll get the big picture of</font>
+
+3
+00:00:05,376 --> 00:00:06,144
+<font color="#ededed">What are the goals</font>
+
+4
+00:00:06,656 --> 00:00:08,192
+<font color="#f8f8f8">What's been good is not</font>
+
+5
+00:00:08,704 --> 00:00:09,472
+<font color="#e0e0e0">What are the steps</font>
+
+6
+00:00:10,496 --> 00:00:11,008
+<font color="#ebebeb">Today</font>
+
+7
+00:00:14,336 --> 00:00:16,896
+<font color="#e1e1e1">YouTube developing large moonlit applications</font>
+
+8
+00:00:17,408 --> 00:00:18,688
+<font color="#f8f8f8">We are building a lot of</font>
+
+9
+00:00:20,224 --> 00:00:22,016
+<font color="#c3c3c3">Centra billing one big</font>
+
+10
+00:00:22,272 --> 00:00:25,856
+<font color="#a3a3a3">Application reopening 2025 maybe 50 smaller</font>
+
+11
+00:00:26,112 --> 00:00:26,880
+<font color="#f1f1f1">Microservices</font>
+
+12
+00:00:27,648 --> 00:00:30,208
+<font color="#d5d5d5">One of the important things with these microservices</font>
+
+13
+00:00:30,464 --> 00:00:33,792
+<font color="#e3e3e3">Is you'd want to be able to build them quickly that's where</font>
+
+14
+00:00:34,048 --> 00:00:35,584
+<font color="#efefef">Spring boot comes in</font>
+
+15
+00:00:37,888 --> 00:00:39,680
+<font color="#e7e7e7">Spring boot has gained a lot of ground</font>
+
+16
+00:00:39,936 --> 00:00:40,960
+<font color="#f6f6f6">It has quickly become</font>
+
+17
+00:00:41,216 --> 00:00:45,056
+<font color="#e5e5e5">Number one framework to develop microservices in the Java world</font>
+
+18
+00:00:45,312 --> 00:00:45,824
+<font color="#e3e3e3">How did</font>
+
+19
+00:00:46,080 --> 00:00:47,360
+<font color="#f8f8f8">Spring boot achieved</font>
+
+20
+00:00:47,872 --> 00:00:49,920
+<font color="#dbdbdb">That's where we would discuss about the goals</font>
+
+21
+00:00:50,432 --> 00:00:51,456
+<font color="#bebebe">And the importance</font>
+
+22
+00:00:52,480 --> 00:00:55,296
+<font color="#f9f9f9">What are the most important goals us</font>
+
+23
+00:00:56,832 --> 00:00:59,136
+<font color="#e3e3e3">The most important goal of spring boot is to</font>
+
+24
+00:00:59,392 --> 00:01:00,160
+<font color="#cfcfcf">Enable building</font>
+
+25
+00:01:00,416 --> 00:01:01,952
+<font color="#dedede">Direction radio applications</font>
+
+26
+00:01:02,720 --> 00:01:03,232
+<font color="#fcfcfc">Quickly</font>
+
+27
+00:01:03,488 --> 00:01:07,584
+<font color="#f0f0f0">The other important goal is to provide all the common non-functional</font>
+
+28
+00:01:09,120 --> 00:01:10,144
+<font color="#d9d9d9">Ambulette service</font>
+
+29
+00:01:10,400 --> 00:01:10,912
+<font color="#a1a1a1">Mexico</font>
+
+30
+00:01:12,704 --> 00:01:13,728
+<font color="#aaaaaa">Hand externalized</font>
+
+31
+00:01:15,008 --> 00:01:16,032
+<font color="#9e9e9e">We've talked about this</font>
+
+32
+00:01:16,288 --> 00:01:17,056
+<font color="#c3c3c3">Features a little</font>
+
+33
+00:01:17,312 --> 00:01:19,104
+<font color="#f5f5f5">These are the two</font>
+
+34
+00:01:19,360 --> 00:01:20,640
+<font color="#f8f8f8">Important goals of</font>
+
+35
+00:01:22,944 --> 00:01:25,504
+<font color="#f0f0f0">To enable you to quickly build applications</font>
+
+36
+00:01:25,760 --> 00:01:27,808
+<font color="#f9f9f9">And also provide common</font>
+
+37
+00:01:28,064 --> 00:01:28,576
+<font color="#fcfcfc">Non function</font>
+
+38
+00:01:29,856 --> 00:01:30,624
+<font color="#fcfcfc">Before we go</font>
+
+39
+00:01:33,184 --> 00:01:35,488
+<font color="#f3f3f3">You also need to understand what spring booties</font>
+
+40
+00:01:40,352 --> 00:01:42,656
+<font color="#e2e2e2">Some people call Spring boot as a cogeneration</font>
+
+41
+00:01:45,216 --> 00:01:46,752
+<font color="#d3d3d3">Vito cogeneration</font>
+
+42
+00:01:47,008 --> 00:01:48,032
+<font color="#fcfcfc">And that's what makes</font>
+
+43
+00:01:48,288 --> 00:01:48,800
+<font color="#818181">This concept</font>
+
+44
+00:01:49,056 --> 00:01:49,824
+<font color="#909090">Ghillieglade</font>
+
+45
+00:01:50,080 --> 00:01:54,432
+<font color="#f6f6f6">The second thing is</font>
+
+46
+00:01:55,456 --> 00:01:59,808
+<font color="#e6e6e6">Spring boot provide great integration with embedded servers</font>
+
+47
+00:02:00,064 --> 00:02:01,088
+<font color="#d7d7d7">Lake Tomcat</font>
+
+48
+00:02:02,624 --> 00:02:03,392
+<font color="#f5f5f5">By itself</font>
+
+49
+00:02:03,904 --> 00:02:04,416
+<font color="#f0f0f0">Spring boot</font>
+
+50
+00:02:04,672 --> 00:02:05,952
+<font color="#fcfcfc">Is not a web server</font>
+
+51
+00:02:06,208 --> 00:02:07,744
+<font color="#f2f2f2">It's not an application so</font>
+
+52
+00:02:08,000 --> 00:02:13,376
+<font color="#f6f6f6">These are two things that you need to remember there's no coordination with spring Boot and spring boot is neither an application server</font>
+
+53
+00:02:13,888 --> 00:02:14,912
+<font color="#dbdbdb">North of that</font>
+
+54
+00:02:15,168 --> 00:02:15,680
+<font color="#fcfcfc">So what</font>
+
+55
+00:02:16,448 --> 00:02:19,776
+<font color="#c4c4c4">List of the goals and also understood what spring booties</font>
+
+56
+00:02:21,312 --> 00:02:23,360
+<font color="#c4c4c4">Look at Hot Spring boot achieve</font>
+
+57
+00:02:25,152 --> 00:02:26,432
+<font color="#e9e9e9">The most important</font>
+
+58
+00:02:26,944 --> 00:02:27,456
+<font color="#e1e1e1">Spring boot</font>
+
+59
+00:02:27,712 --> 00:02:28,992
+<font color="#fafafa">Is this concept called</font>
+
+60
+00:02:29,504 --> 00:02:30,016
+<font color="#bcbcbc">Start up</font>
+
+61
+00:02:34,624 --> 00:02:38,720
+<font color="#e3e3e3">It's lit say I want. The weather condition I would need spring MVC</font>
+
+62
+00:02:38,976 --> 00:02:40,256
+<font color="#a0a0a0">How did Supreme Court</font>
+
+63
+00:02:40,512 --> 00:02:42,560
+<font color="#fafafa">I would need some validation framework</font>
+
+64
+00:02:42,816 --> 00:02:44,608
+<font color="#fcfcfc">I would need some logging framework</font>
+
+65
+00:02:45,120 --> 00:02:45,888
+<font color="#fcfcfc">In addition to that</font>
+
+66
+00:02:46,144 --> 00:02:49,216
+<font color="#f0f0f0">I would need to configure all the stuff that is needed</font>
+
+67
+00:02:49,472 --> 00:02:55,616
+<font color="#e2e2e2">Example if I'm using spring MVC I will need to configure dispatcherservlet I'll need to configure View dissolver and</font>
+
+68
+00:02:55,872 --> 00:02:57,408
+<font color="#f9f9f9">A lot of things like that</font>
+
+69
+00:02:57,664 --> 00:03:00,224
+<font color="#d0d0d0">Spring boot starter project</font>
+
+70
+00:03:00,480 --> 00:03:02,016
+<font color="#fcfcfc">It becomes very easy</font>
+
+71
+00:03:02,784 --> 00:03:07,904
+<font color="#eaeaea">Or that you need to do is to add a starter call Spring boot start a web into your project</font>
+
+72
+00:03:08,160 --> 00:03:08,928
+<font color="#fcfcfc">And that's it</font>
+
+73
+00:03:09,184 --> 00:03:14,048
+<font color="#d5d5d5">You get the embassy for free you get to drink coffees you get a validation framework for free</font>
+
+74
+00:03:14,304 --> 00:03:16,608
+<font color="#e2e2e2">And also a logging framework for</font>
+
+75
+00:03:17,120 --> 00:03:18,912
+<font color="#9a9a9a">4 GPA</font>
+
+76
+00:03:19,168 --> 00:03:20,192
+<font color="#d7d7d7">Dentist article</font>
+
+77
+00:03:20,448 --> 00:03:20,960
+<font color="#d8d8d8">Spring boot</font>
+
+78
+00:03:21,216 --> 00:03:21,984
+<font color="#b5b5b5">Start a GPA</font>
+
+79
+00:03:22,240 --> 00:03:23,520
+<font color="#c9c9c9">When we use the starter</font>
+
+80
+00:03:23,776 --> 00:03:27,872
+<font color="#e1e1e1">You not only get GPS but also default implementation of jpa</font>
+
+81
+00:03:28,128 --> 00:03:31,200
+<font color="#d4d4d4">Hibernate and also auto-configuration of.</font>
+
+82
+00:03:31,456 --> 00:03:34,016
+<font color="#d0d0d0">So you would not need to worry about the flame</font>
+
+83
+00:03:34,272 --> 00:03:35,552
+<font color="#f5f5f5">And you can directly start</font>
+
+84
+00:03:35,808 --> 00:03:36,576
+<font color="#dedede">Creating you</font>
+
+85
+00:03:37,344 --> 00:03:41,184
+<font color="#e0e0e0">Are the important feature we already talked about is embedded server</font>
+
+86
+00:03:41,952 --> 00:03:44,768
+<font color="#ececec">I'm developing a web application</font>
+
+87
+00:03:45,280 --> 00:03:46,560
+<font color="#d3d3d3">I would want to deploy it</font>
+
+88
+00:03:46,816 --> 00:03:48,352
+<font color="#9a9a9a">Onto a Linux box</font>
+
+89
+00:03:48,864 --> 00:03:51,680
+<font color="#fbfbfb">In the olden days the way it used to work is</font>
+
+90
+00:03:52,704 --> 00:03:54,496
+<font color="#c5c5c5">I need to install the Linux box</font>
+
+91
+00:03:54,752 --> 00:04:00,896
+<font color="#dcdcdc">Then I would install Giovanni and then I'll need to install a web server so I wouldn't eating chili the Tomcat</font>
+
+92
+00:04:02,688 --> 00:04:05,248
+<font color="#d7d7d7">And then I will take my application what</font>
+
+93
+00:04:05,760 --> 00:04:06,784
+<font color="#dddddd">And deployed</font>
+
+94
+00:04:07,040 --> 00:04:09,088
+<font color="#f2f2f2">This is the usual baby used to deploy stuff</font>
+
+95
+00:04:09,600 --> 00:04:15,744
+<font color="#eaeaea">Which springboard comes a concept called embedded server what you can do is you can package USA</font>
+
+96
+00:04:16,000 --> 00:04:17,536
+<font color="#e6e6e6">Package store</font>
+
+97
+00:04:17,791 --> 00:04:20,095
+<font color="#e3e3e3">Along with your application jar</font>
+
+98
+00:04:20,607 --> 00:04:22,143
+<font color="#fcfcfc">So I can include</font>
+
+99
+00:04:22,399 --> 00:04:23,167
+<font color="#d8d8d8">The Tomcat</font>
+
+100
+00:04:23,423 --> 00:04:23,935
+<font color="#e8e8e8">Silver</font>
+
+101
+00:04:24,191 --> 00:04:25,983
+<font color="#e6e6e6">In my application jar</font>
+
+102
+00:04:26,239 --> 00:04:28,031
+<font color="#fcfcfc">So I don't need to install it</font>
+
+103
+00:04:28,287 --> 00:04:29,567
+<font color="#ececec">On the Linux box</font>
+
+104
+00:04:29,823 --> 00:04:32,127
+<font color="#e7e7e7">All that I need to do on the Linux box</font>
+
+105
+00:04:32,383 --> 00:04:36,991
+<font color="#f7f7f7">Is if I have Java installed that sufficient I can go ahead and run my application</font>
+
+106
+00:04:37,503 --> 00:04:41,343
+<font color="#f5f5f5">I don't need any other server installed on the Linux box</font>
+
+107
+00:04:43,903 --> 00:04:45,183
+<font color="#fcfcfc">This makes a huge</font>
+
+108
+00:04:45,439 --> 00:04:45,951
+<font color="#f1f1f1">Difference</font>
+
+109
+00:04:46,463 --> 00:04:47,487
+<font color="#fcfcfc">And also</font>
+
+110
+00:04:49,023 --> 00:04:50,559
+<font color="#cccccc">A number of production-ready</font>
+
+111
+00:04:51,839 --> 00:04:54,143
+<font color="#d8d8d8">Springboard provides monitoring for you app</font>
+
+112
+00:04:54,399 --> 00:04:57,471
+<font color="#f8f8f8">Application through something called Spring boot actuator</font>
+
+113
+00:04:57,727 --> 00:05:01,055
+<font color="#f5f5f5">For example you can find out how many times a particular service</font>
+
+114
+00:05:01,311 --> 00:05:01,823
+<font color="#b9b9b9">Is called</font>
+
+115
+00:05:02,591 --> 00:05:03,359
+<font color="#f9f9f9">You can find out</font>
+
+116
+00:05:03,615 --> 00:05:05,151
+<font color="#ebebeb">How many things of ridiculous service</font>
+
+117
+00:05:05,407 --> 00:05:05,919
+<font color="#dedede">Failed</font>
+
+118
+00:05:06,431 --> 00:05:10,527
+<font color="#f8f8f8">And also you can check whether the application is up and running or not</font>
+
+119
+00:05:10,783 --> 00:05:12,319
+<font color="#cfcfcf">All these features</font>
+
+120
+00:05:14,111 --> 00:05:16,159
+<font color="#dfdfdf">And important feature.</font>
+
+121
+00:05:16,415 --> 00:05:19,743
+<font color="#c9c9c9">Spring boot what is externalized configuration</font>
+
+122
+00:05:20,255 --> 00:05:24,607
+<font color="#f2f2f2">The consecration of applications varies between different environments</font>
+
+123
+00:05:29,983 --> 00:05:32,031
+<font color="#d5d5d5">Spring boot provides these features</font>
+
+124
+00:05:33,567 --> 00:05:36,127
+<font color="#fcfcfc">You can simply create property files</font>
+
+125
+00:05:36,383 --> 00:05:38,431
+<font color="#f4f4f4">Matching a simple naming convention</font>
+
+126
+00:05:38,687 --> 00:05:39,199
+<font color="#d1d1d1">End</font>
+
+127
+00:05:39,967 --> 00:05:40,479
+<font color="#fcfcfc">That's it</font>
+
+128
+00:05:40,735 --> 00:05:41,503
+<font color="#dddddd">You got to ready with</font>
+
+129
+00:05:41,759 --> 00:05:43,295
+<font color="#fcfcfc">Externalized configuration</font>
+
+130
+00:05:44,319 --> 00:05:48,159
+<font color="#e7e7e7">Spring boot also provide support for different profile</font>
+
+131
+00:05:48,927 --> 00:05:50,207
+<font color="#fcfcfc">Important goals</font>
+
+132
+00:05:50,975 --> 00:05:51,487
+<font color="#bbbbbb">Beaches of</font>
+
+133
+00:05:52,767 --> 00:05:53,791
+<font color="#fcfcfc">The idea behind</font>
+
+134
+00:05:54,815 --> 00:05:57,631
+<font color="#f3f3f3">Used to understand the big picture of spring boot</font>
+
+135
+00:05:58,143 --> 00:05:58,911
+<font color="#fcfcfc">What it is</font>
+
+136
+00:05:59,167 --> 00:06:00,191
+<font color="#cecece">What is not</font>
+
+137
+00:06:00,447 --> 00:06:01,983
+<font color="#eeeeee">And what are the importance</font>
+
+138
+00:06:03,007 --> 00:06:04,031
+<font color="#d2d2d2">In the next steps</font>
+
+139
+00:06:04,287 --> 00:06:04,799
+<font color="#e2e2e2">Beauty</font>
+
+140
+00:06:05,055 --> 00:06:06,591
+<font color="#f6f6f6">Deeper into each one of these</font>
+
+141
+00:06:08,127 --> 00:06:08,895
+<font color="#eaeaea">Until the next step</font>

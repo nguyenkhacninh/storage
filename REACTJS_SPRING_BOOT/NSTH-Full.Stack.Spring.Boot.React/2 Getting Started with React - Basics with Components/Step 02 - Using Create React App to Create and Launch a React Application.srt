@@ -1,0 +1,655 @@
+﻿1
+00:00:00,256 --> 00:00:00,768
+<font color="#fcfcfc">Welcome</font>
+
+2
+00:00:06,656 --> 00:00:08,960
+<font color="#cdcdcd">2D focusing on the react app</font>
+
+3
+00:00:09,216 --> 00:00:09,728
+<font color="#a6a6a6">Application</font>
+
+4
+00:00:10,240 --> 00:00:13,568
+<font color="#fcfcfc">You would want to understand the basic concepts of</font>
+
+5
+00:00:14,592 --> 00:00:17,664
+<font color="#f3f3f3">Most importantly how do you build components with</font>
+
+6
+00:00:18,944 --> 00:00:22,528
+<font color="#d3d3d3">In the step that start with creating a simple react application</font>
+
+7
+00:00:22,784 --> 00:00:24,320
+<font color="#f0f0f0">How do you create a react application</font>
+
+8
+00:00:24,576 --> 00:00:25,600
+<font color="#fafafa">Create react</font>
+
+9
+00:00:29,184 --> 00:00:31,232
+<font color="#e3e3e3">Uline depandi create-react-app</font>
+
+10
+00:00:33,024 --> 00:00:34,304
+<font color="#e8e8e8">Is it going to be positive</font>
+
+11
+00:00:34,560 --> 00:00:35,328
+<font color="#d9d9d9">And you'd see</font>
+
+12
+00:00:35,584 --> 00:00:37,120
+<font color="#f5f5f5">Let's create react app</font>
+
+13
+00:00:40,192 --> 00:00:41,472
+<font color="#cbcbcb">By running one command</font>
+
+14
+00:00:41,984 --> 00:00:45,824
+<font color="#e0e0e0">Ricky wanted us to do is to create a simple react application</font>
+
+15
+00:00:46,080 --> 00:00:47,616
+<font color="#e8e8e8">Just by running one</font>
+
+16
+00:00:47,872 --> 00:00:48,384
+<font color="#f1f1f1">Simple</font>
+
+17
+00:00:48,640 --> 00:00:49,152
+<font color="#fcfcfc">Command</font>
+
+18
+00:00:49,664 --> 00:00:50,688
+<font color="#e8e8e8">What is the command</font>
+
+19
+00:00:51,456 --> 00:00:52,480
+<font color="#f3f3f3">Scroll down a little</font>
+
+20
+00:00:53,504 --> 00:00:54,016
+<font color="#b5b5b5">Securities</font>
+
+21
+00:00:54,528 --> 00:00:57,344
+<font color="#fbfbfb">If you execute a command which is similar to this</font>
+
+22
+00:00:57,600 --> 00:00:58,624
+<font color="#bcbcbc">Create react app</font>
+
+23
+00:00:58,880 --> 00:01:02,208
+<font color="#d5d5d5">What create the basic setup of a react application</font>
+
+24
+00:01:02,464 --> 00:01:05,792
+<font color="#dbdbdb">Actually it would create an application which is good enough</font>
+
+25
+00:01:06,048 --> 00:01:07,072
+<font color="#e9e9e9">To take the production</font>
+
+26
+00:01:08,096 --> 00:01:10,656
+<font color="#efefef">To be able to use create react app</font>
+
+27
+00:01:10,912 --> 00:01:12,448
+<font color="#f5f5f5">Node and npm</font>
+
+28
+00:01:12,704 --> 00:01:13,984
+<font color="#cfcfcf">Next Launcher parts</font>
+
+29
+00:01:14,752 --> 00:01:19,616
+<font color="#ececec">Terminal command prompt if you're on Mac it's terminal if you are on any other operating system</font>
+
+30
+00:01:19,872 --> 00:01:22,944
+<font color="#eeeeee">Like Windows for example you have to launch up the command prompt</font>
+
+31
+00:01:23,200 --> 00:01:26,528
+<font color="#dadada">Just type in terminal and you'd be able to launch at the terminal window</font>
+
+32
+00:01:28,320 --> 00:01:29,600
+<font color="#b7b7b7">Going to lunch at the command prompt</font>
+
+33
+00:01:33,440 --> 00:01:34,464
+<font color="#e7e7e7">Type in CMD</font>
+
+34
+00:01:34,976 --> 00:01:36,000
+<font color="#f7f7f7">Take the command prompt</font>
+
+35
+00:01:36,256 --> 00:01:37,280
+<font color="#fcfcfc">And it will open up for you</font>
+
+36
+00:01:38,560 --> 00:01:40,608
+<font color="#d1d1d1">Your terminal or command from this opened</font>
+
+37
+00:01:40,864 --> 00:01:42,400
+<font color="#dddddd">I'll let you need to do is type in notes</font>
+
+38
+00:01:42,912 --> 00:01:43,680
+<font color="#b2b2b2">- -</font>
+
+39
+00:01:45,216 --> 00:01:49,312
+<font color="#e2e2e2">Important to high fence in here right so it's not - -</font>
+
+40
+00:01:49,568 --> 00:01:50,336
+<font color="#f1f1f1">Russian</font>
+
+41
+00:01:50,848 --> 00:01:51,616
+<font color="#fcfcfc">So once you have</font>
+
+42
+00:01:51,872 --> 00:01:53,408
+<font color="#fcfcfc">Abortion which is greater than 10</font>
+
+43
+00:01:55,200 --> 00:01:59,296
+<font color="#f6f6f6">You can also type in in p.m. - version to find out which Indian version</font>
+
+44
+00:02:00,576 --> 00:02:03,648
+<font color="#e2e2e2">If item doesn't work for you or Liam Payne doesn't work for you</font>
+
+45
+00:02:03,904 --> 00:02:08,000
+<font color="#e5e5e5">Make sure that you check the installation guide which will bitterly ridiculous</font>
+
+46
+00:02:11,584 --> 00:02:13,888
+<font color="#c9c9c9">68 - 3x - app</font>
+
+47
+00:02:14,656 --> 00:02:15,936
+<font color="#d8d8d8">The name of the app</font>
+
+48
+00:02:16,704 --> 00:02:19,008
+<font color="#c6c6c6">To debate we can do that is npx</font>
+
+49
+00:02:20,032 --> 00:02:20,800
+<font color="#fcfcfc">Create react</font>
+
+50
+00:02:22,848 --> 00:02:23,360
+<font color="#cccccc">Bass</font>
+
+51
+00:02:24,896 --> 00:02:25,920
+<font color="#cdcdcd">The name of the</font>
+
+52
+00:02:26,688 --> 00:02:28,224
+<font color="#f2f2f2">The name of the application I would want to use it</font>
+
+53
+00:02:28,480 --> 00:02:28,992
+<font color="#b7b7b7">To-do app</font>
+
+54
+00:02:29,504 --> 00:02:32,576
+<font color="#d7d7d7">But you need to move to the folder</font>
+
+55
+00:02:32,832 --> 00:02:34,880
+<font color="#dedede">We want to create this particular Apple</font>
+
+56
+00:02:36,672 --> 00:02:40,000
+<font color="#dcdcdc">CD to the folder where you'd want to create that application</font>
+
+57
+00:02:40,256 --> 00:02:43,328
+<font color="#e7e7e7">I want to create it in this folder so I'm doing a CD to</font>
+
+58
+00:02:43,584 --> 00:02:45,120
+<font color="#dadada">In 28 minutes good.</font>
+
+59
+00:02:45,632 --> 00:02:47,680
+<font color="#ececec">Full stack with the reactants being good friend</font>
+
+60
+00:02:47,936 --> 00:02:48,704
+<font color="#d7d7d7">And or here</font>
+
+61
+00:02:48,960 --> 00:02:49,984
+<font color="#fbfbfb">I can excuse the NBA</font>
+
+62
+00:02:51,520 --> 00:02:52,032
+<font color="#eeeeee">MPX</font>
+
+63
+00:02:54,336 --> 00:02:54,848
+<font color="#c4c4c4">React</font>
+
+64
+00:02:55,872 --> 00:02:56,384
+<font color="#ececec">Space</font>
+
+65
+00:02:59,456 --> 00:03:04,832
+<font color="#e2e2e2">What is Exodus command Duty that this will take a little bit of time because this would create the project</font>
+
+66
+00:03:05,088 --> 00:03:06,112
+<font color="#fcfcfc">And also</font>
+
+67
+00:03:08,672 --> 00:03:10,464
+<font color="#e1e1e1">Titus created now it's trying to</font>
+
+68
+00:03:10,976 --> 00:03:11,488
+<font color="#bebebe">Billy</font>
+
+69
+00:03:12,000 --> 00:03:15,072
+<font color="#d3d3d3">It's trying to install a few dependencies react react Dom</font>
+
+70
+00:03:15,584 --> 00:03:21,728
+<font color="#e3e3e3">Angry eclipse and also their transitive dependencies only things that react Dom needs to work on the things that</font>
+
+71
+00:03:21,984 --> 00:03:22,752
+<font color="#dfdfdf">React needs to work</font>
+
+72
+00:03:23,520 --> 00:03:24,800
+<font color="#d1d1d1">And all the things that react</font>
+
+73
+00:03:26,080 --> 00:03:29,152
+<font color="#f9f9f9">If you have a problem at this stage and if you are not seeing</font>
+
+74
+00:03:30,176 --> 00:03:31,200
+<font color="#fefefe">Project being built</font>
+
+75
+00:03:31,456 --> 00:03:34,016
+<font color="#eaeaea">Like this or if you get a permission server</font>
+
+76
+00:03:34,272 --> 00:03:38,368
+<font color="#dcdcdc">One of the things you can do is you can try and launch of the command prompt</font>
+
+77
+00:03:38,624 --> 00:03:44,256
+<font color="#ececec">As an administrator so if you press Ctrl Escape launch of the command prompt and</font>
+
+78
+00:03:44,512 --> 00:03:45,024
+<font color="#fcfcfc">Open up</font>
+
+79
+00:03:45,280 --> 00:03:46,048
+<font color="#d2d2d2">Stop in front</font>
+
+80
+00:03:46,304 --> 00:03:49,376
+<font color="#e3e3e3">Organic you right click on the command from you can do it on acid</font>
+
+81
+00:03:50,144 --> 00:03:52,960
+<font color="#e9e9e9">If you are on Mac or Linux you can try sudo</font>
+
+82
+00:03:53,216 --> 00:03:57,312
+<font color="#c3c3c3">Please reply npx create-react-app to-do app you can try doing</font>
+
+83
+00:03:57,568 --> 00:03:58,080
+<font color="#a8a8a8">Subaru</font>
+
+84
+00:03:58,592 --> 00:03:59,104
+<font color="#fcfcfc">Space</font>
+
+85
+00:03:59,360 --> 00:04:01,664
+<font color="#c9c9c9">MPX create react app tutuapp</font>
+
+86
+00:04:02,688 --> 00:04:08,576
+<font color="#e5e5e5">Useful thing to do is to Google for create react app troubleshooting this will take you to a GitHub page</font>
+
+87
+00:04:09,856 --> 00:04:11,136
+<font color="#bdbdbd">Facebook GitHub.</font>
+
+88
+00:04:11,392 --> 00:04:12,672
+<font color="#9f9f9f">Once you click that</font>
+
+89
+00:04:13,440 --> 00:04:14,208
+<font color="#fcfcfc">You can see</font>
+
+90
+00:04:14,464 --> 00:04:16,000
+<font color="#f3f3f3">A few other things</font>
+
+91
+00:04:16,512 --> 00:04:17,280
+<font color="#f4f4f4">You can cry</font>
+
+92
+00:04:17,791 --> 00:04:20,863
+<font color="#f3f3f3">That the installation is going on right now</font>
+
+93
+00:04:21,375 --> 00:04:22,911
+<font color="#fcfcfc">It might take a few minutes</font>
+
+94
+00:04:23,679 --> 00:04:25,727
+<font color="#eaeaea">Especially Fahrenheit for the first time</font>
+
+95
+00:04:25,983 --> 00:04:27,519
+<font color="#f4f4f4">And I've been counting is done</font>
+
+96
+00:04:27,775 --> 00:04:28,543
+<font color="#fcfcfc">Ipsy</font>
+
+97
+00:04:28,799 --> 00:04:29,311
+<font color="#f4f4f4">That's it</font>
+
+98
+00:04:29,567 --> 00:04:32,127
+<font color="#e6e6e6">List the different commands that you can plan</font>
+
+99
+00:04:32,639 --> 00:04:33,919
+<font color="#cbcbcb">The good thing is Nuff</font>
+
+100
+00:04:34,175 --> 00:04:38,015
+<font color="#f0f0f0">The entire application is set up so if you open up that specific.</font>
+
+101
+00:04:38,271 --> 00:04:39,807
+<font color="#f8f8f8">If I do present working directory</font>
+
+102
+00:04:40,063 --> 00:04:42,111
+<font color="#d7d7d7">Is the polar bear Detroit has created</font>
+
+103
+00:04:43,903 --> 00:04:46,463
+<font color="#e2e2e2">There is a to-do app folder where all the content</font>
+
+104
+00:04:46,975 --> 00:04:48,511
+<font color="#fcfcfc">He's created the entire project</font>
+
+105
+00:04:49,023 --> 00:04:50,047
+<font color="#e1e1e1">Created in the space</font>
+
+106
+00:04:52,095 --> 00:04:53,375
+<font color="#d1d1d1">Did a member of command speech</font>
+
+107
+00:04:53,631 --> 00:04:54,143
+<font color="#c2c2c2">Create</font>
+
+108
+00:04:54,399 --> 00:04:55,679
+<font color="#cacaca">React app enables</font>
+
+109
+00:04:56,447 --> 00:04:57,983
+<font color="#e2e2e2">You can do NTN test</font>
+
+110
+00:05:01,055 --> 00:05:03,103
+<font color="#e9e9e9">You can do npm run build</font>
+
+111
+00:05:03,615 --> 00:05:04,127
+<font color="#f2f2f2">Create</font>
+
+112
+00:05:04,383 --> 00:05:05,919
+<font color="#d2d2d2">A production Deployable</font>
+
+113
+00:05:06,175 --> 00:05:06,943
+<font color="#dddddd">Battery died</font>
+
+114
+00:05:07,199 --> 00:05:08,223
+<font color="#fcfcfc">Dallas zip code</font>
+
+115
+00:05:08,479 --> 00:05:11,039
+<font color="#e1e1e1">In modern JavaScript applications will create</font>
+
+116
+00:05:11,295 --> 00:05:12,575
+<font color="#f2f2f2">Hundreds of JavaScript files</font>
+
+117
+00:05:13,087 --> 00:05:17,183
+<font color="#f1f1f1">And it's not efficient introduction to have hundreds of JavaScript files</font>
+
+118
+00:05:17,695 --> 00:05:19,487
+<font color="#d0d0d0">Indian Grand builders</font>
+
+119
+00:05:19,743 --> 00:05:21,023
+<font color="#e0e0e0">Is it merges everything</font>
+
+120
+00:05:21,279 --> 00:05:21,791
+<font color="#dedede">Into</font>
+
+121
+00:05:22,047 --> 00:05:22,815
+<font color="#d8d8d8">Compressed</font>
+
+122
+00:05:23,071 --> 00:05:24,351
+<font color="#ececec">State of JavaScript files</font>
+
+123
+00:05:24,607 --> 00:05:26,399
+<font color="#dbdbdb">Which you can then use for protection</font>
+
+124
+00:05:26,655 --> 00:05:28,959
+<font color="#f7f7f7">What is peaches are actually built in</font>
+
+125
+00:05:29,215 --> 00:05:30,239
+<font color="#b4b4b4">YouTube application</font>
+
+126
+00:05:30,495 --> 00:05:32,287
+<font color="#f7f7f7">Is created by using the create react</font>
+
+127
+00:05:33,311 --> 00:05:39,455
+<font color="#e4e4e4">What you want to do now is lunch at the application let's do that right now to deliver you can block</font>
+
+128
+00:05:42,527 --> 00:05:45,087
+<font color="#d0d0d0">Take me to Pleasanton near npm start</font>
+
+129
+00:05:45,343 --> 00:05:47,903
+<font color="#e7e7e7">When you press npm start</font>
+
+130
+00:05:48,159 --> 00:05:52,255
+<font color="#f5f5f5">There's an error it says I cannot find a package. Json file</font>
+
+131
+00:05:53,023 --> 00:05:56,351
+<font color="#f3f3f3">Okay cool let me check the present working directory ndls</font>
+
+132
+00:05:56,607 --> 00:05:57,631
+<font color="#eeeeee">Hardy AR</font>
+
+133
+00:05:57,887 --> 00:05:59,679
+<font color="#e6e6e6">In Windows you see that</font>
+
+134
+00:05:59,935 --> 00:06:00,703
+<font color="#dcdcdc">Indeed</font>
+
+135
+00:06:00,959 --> 00:06:03,263
+<font color="#f8f8f8">Sentence folder to be able to run</font>
+
+136
+00:06:04,031 --> 00:06:07,615
+<font color="#d8d8d8">Indians.com and I'll need to CD into the to do</font>
+
+137
+00:06:08,383 --> 00:06:12,735
+<font color="#cccccc">And now let's go ahead and run npm start</font>
+
+138
+00:06:12,991 --> 00:06:14,271
+<font color="#ededed">And this would kick off</font>
+
+139
+00:06:14,783 --> 00:06:15,551
+<font color="#f4f4f4">The launch of the</font>
+
+140
+00:06:16,063 --> 00:06:16,575
+<font color="#ececec">Project</font>
+
+141
+00:06:16,831 --> 00:06:20,159
+<font color="#e6e6e6">So you can see that the project starts up and launch S8</font>
+
+142
+00:06:20,415 --> 00:06:21,951
+<font color="#d6d6d6">Indie browser as well</font>
+
+143
+00:06:22,463 --> 00:06:23,743
+<font color="#e7e7e7">It might take a little while</font>
+
+144
+00:06:23,999 --> 00:06:25,023
+<font color="#e8e8e8">Bee Gees still loading</font>
+
+145
+00:06:26,559 --> 00:06:27,583
+<font color="#9c9c9c">You see that</font>
+
+146
+00:06:28,607 --> 00:06:30,143
+<font color="#b8b8b8">It's showing the URL</font>
+
+147
+00:06:30,655 --> 00:06:31,935
+<font color="#ebebeb">On the console</font>
+
+148
+00:06:32,191 --> 00:06:32,959
+<font color="#fcfcfc">Second one</font>
+
+149
+00:06:33,215 --> 00:06:33,727
+<font color="#bebebe">Launch</font>
+
+150
+00:06:33,983 --> 00:06:35,519
+<font color="#efefef">It in Chrome you can take this</font>
+
+151
+00:06:36,287 --> 00:06:37,567
+<font color="#8f8f8f">You are intelligent</font>
+
+152
+00:06:38,335 --> 00:06:41,919
+<font color="#e9e9e9">Most probably it would have been automatically launched up in your default</font>
+
+153
+00:06:42,175 --> 00:06:42,687
+<font color="#b8b8b8">Browser</font>
+
+154
+00:06:42,943 --> 00:06:48,575
+<font color="#ececec">What if it has not planted in your default browser then you can take this year and executed</font>
+
+155
+00:06:53,183 --> 00:06:53,695
+<font color="#f2f2f2">In this course</font>
+
+156
+00:06:54,207 --> 00:06:55,487
+<font color="#f2f2f2">Congratulations</font>
+
+157
+00:06:56,255 --> 00:07:01,375
+<font color="#e7e7e7">We created a react application</font>
+
+158
+00:07:01,887 --> 00:07:02,911
+<font color="#fcfcfc">Create react app</font>
+
+159
+00:07:03,423 --> 00:07:09,567
+<font color="#ececec">And give the name of the application to do in team start</font>
+
+160
+00:07:09,823 --> 00:07:11,615
+<font color="#f9f9f9">Launch that application app</font>
+
+161
+00:07:12,127 --> 00:07:15,711
+<font color="#f7f7f7">And you able to see the application in the browser</font>
+
+162
+00:07:16,223 --> 00:07:18,783
+<font color="#f1f1f1">You don't really understand what's happening tobacco</font>
+
+163
+00:07:19,039 --> 00:07:20,575
+<font color="#dfdfdf">And that's what we would be looking at</font>
+
+164
+00:07:21,087 --> 00:07:21,599
+<font color="#c4c4c4">Subsequent steps</font>

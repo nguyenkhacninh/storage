@@ -1,0 +1,507 @@
+﻿1
+00:00:02,048 --> 00:00:02,560
+<font color="#fcfcfc">Welcome</font>
+
+2
+00:00:03,328 --> 00:00:04,352
+<font color="#b7b7b7">Any previous steps</font>
+
+3
+00:00:04,608 --> 00:00:10,752
+<font color="#e0e0e0">We added the features to show me the values and we were a we can see what's happening when we</font>
+
+4
+00:00:11,008 --> 00:00:17,152
+<font color="#dadada">The same button with Banga.</font>
+
+5
+00:00:17,408 --> 00:00:23,552
+<font color="#dcdcdc">Add validation Goodman to add a little bit of validation around these fields we want to make sure that the distinction is</font>
+
+6
+00:00:23,808 --> 00:00:26,368
+<font color="#c3c3c3">Populated client is at least 5</font>
+
+7
+00:00:26,624 --> 00:00:29,184
+<font color="#d6d6d6">We would want to make sure that there is a target date</font>
+
+8
+00:00:29,440 --> 00:00:30,464
+<font color="#e8e8e8">How do you clean windows</font>
+
+9
+00:00:30,720 --> 00:00:32,000
+<font color="#ededed">Let's get to that right now</font>
+
+10
+00:00:32,256 --> 00:00:34,816
+<font color="#d7d7d7">What we can do this weekend</font>
+
+11
+00:00:35,328 --> 00:00:37,888
+<font color="#bababa">Add a prop call Daddy date</font>
+
+12
+00:00:38,656 --> 00:00:39,680
+<font color="#fcfcfc">This.</font>
+
+13
+00:00:40,192 --> 00:00:40,960
+<font color="#9e9e9e">Salad</font>
+
+14
+00:00:41,728 --> 00:00:43,264
+<font color="#eaeaea">Let's define valid method</font>
+
+15
+00:00:43,520 --> 00:00:44,544
+<font color="#fcfcfc">Validate</font>
+
+16
+00:00:44,800 --> 00:00:45,312
+<font color="#e3e3e3">Off</font>
+
+17
+00:00:45,568 --> 00:00:46,848
+<font color="#f4f4f4">Values</font>
+
+18
+00:00:47,104 --> 00:00:52,224
+<font color="#e2e2e2">Pretty similar to values in here I can do a cancel</font>
+
+19
+00:00:52,480 --> 00:00:55,040
+<font color="#afafaf">The Claw Golf values</font>
+
+20
+00:00:55,296 --> 00:00:57,344
+<font color="#e4e4e4">Should return the Arabs</font>
+
+21
+00:00:57,600 --> 00:00:58,112
+<font color="#ededed">Back</font>
+
+22
+00:00:58,368 --> 00:01:02,464
+<font color="#c9c9c9">It should return address which happened during the validation</font>
+
+23
+00:01:03,232 --> 00:01:07,328
+<font color="#e5e5e5">This address should be returned back to work</font>
+
+24
+00:01:08,608 --> 00:01:13,984
+<font color="#e7e7e7">Address is equal to this and return address back this indicates that there are no address present</font>
+
+25
+00:01:14,240 --> 00:01:15,264
+<font color="#e3e3e3">Rudy</font>
+
+26
+00:01:15,776 --> 00:01:16,800
+<font color="#fcfcfc">Binding quickly</font>
+
+27
+00:01:20,640 --> 00:01:21,408
+<font color="#c0c0c0">Validate</font>
+
+28
+00:01:22,176 --> 00:01:23,456
+<font color="#f2f2f2">We had it in The Binding</font>
+
+29
+00:01:23,968 --> 00:01:24,480
+<font color="#fcfcfc">Save it</font>
+
+30
+00:01:24,992 --> 00:01:25,504
+<font color="#d4d4d4">No</font>
+
+31
+00:01:25,760 --> 00:01:27,552
+<font color="#f4f4f4">Let's do it I click inspect</font>
+
+32
+00:01:28,064 --> 00:01:28,832
+<font color="#e7e7e7">Cancel</font>
+
+33
+00:01:30,112 --> 00:01:30,880
+<font color="#dedede">Antique safe</font>
+
+34
+00:01:31,648 --> 00:01:32,928
+<font color="#cfcfcf">You see that</font>
+
+35
+00:01:33,696 --> 00:01:36,768
+<font color="#dcdcdc">It's been two times the value 72 times</font>
+
+36
+00:01:37,024 --> 00:01:41,376
+<font color="#d0d0d0">Because first-ballot is called when you keep this applicable to bandage is called</font>
+
+37
+00:01:44,192 --> 00:01:46,496
+<font color="#c5c5c5">Then do you want to make is called</font>
+
+38
+00:01:47,008 --> 00:01:49,056
+<font color="#e9e9e9">Listen to hardcore band ever</font>
+
+39
+00:01:49,568 --> 00:01:50,080
+<font color="#d9d9d9">How do you say</font>
+
+40
+00:01:50,336 --> 00:01:51,104
+<font color="#fcfcfc">Description</font>
+
+41
+00:01:51,616 --> 00:01:52,128
+<font color="#e4e4e4">Should</font>
+
+42
+00:01:52,640 --> 00:01:53,408
+<font color="#fbfbfb">Have</font>
+
+43
+00:01:53,664 --> 00:01:54,688
+<font color="#fafafa">At least</font>
+
+44
+00:01:57,760 --> 00:02:00,064
+<font color="#bbbbbb">Characters what happened</font>
+
+45
+00:02:01,088 --> 00:02:02,112
+<font color="#9a9a9a">The family crest</font>
+
+46
+00:02:02,368 --> 00:02:03,392
+<font color="#dbdbdb">I'm giving safe</font>
+
+47
+00:02:03,648 --> 00:02:06,208
+<font color="#fcfcfc">You can see that it's only happening once</font>
+
+48
+00:02:06,464 --> 00:02:10,048
+<font color="#eaeaea">It's not being printed the second time because this submit is not happening</font>
+
+49
+00:02:10,560 --> 00:02:13,120
+<font color="#e1e1e1">Is it being printed from the validate method</font>
+
+50
+00:02:13,632 --> 00:02:15,936
+<font color="#e1e1e1">Samsung messages not really printing it</font>
+
+51
+00:02:20,032 --> 00:02:22,592
+<font color="#f4f4f4">Now you may be wondering where can I see the address</font>
+
+52
+00:02:23,616 --> 00:02:24,640
+<font color="#f0f0f0">How can I see the weather</font>
+
+53
+00:02:25,664 --> 00:02:26,432
+<font color="#c6c6c6">Publix</font>
+
+54
+00:02:26,688 --> 00:02:28,736
+<font color="#dedede">Make appointment Matrix makes it very easy</font>
+
+55
+00:02:28,992 --> 00:02:31,808
+<font color="#cccccc">I want to see Adam message I need to do this</font>
+
+56
+00:02:42,816 --> 00:02:43,584
+<font color="#fcfcfc">Is equal to</font>
+
+57
+00:02:43,840 --> 00:02:44,352
+<font color="#c7c7c7">Diff</font>
+
+58
+00:02:47,424 --> 00:02:48,192
+<font color="#fcfcfc">Is equal to</font>
+
+59
+00:02:48,448 --> 00:02:49,216
+<font color="#fcfcfc">Alert</font>
+
+60
+00:02:49,472 --> 00:02:50,240
+<font color="#fcfcfc">Alert</font>
+
+61
+00:02:52,544 --> 00:02:54,592
+<font color="#ebebeb">So let's make sure that they are closing the note</font>
+
+62
+00:02:56,128 --> 00:03:02,016
+<font color="#d5d5d5">Put this to next line so that we can clearly see everything with your present in here</font>
+
+63
+00:03:02,272 --> 00:03:07,136
+<font color="#e5e5e5">You think we want to show the address for the description field and this Saturday classes do you need to use</font>
+
+64
+00:03:07,648 --> 00:03:08,672
+<font color="#ececec">I'm depressed</font>
+
+65
+00:03:08,928 --> 00:03:10,208
+<font color="#afafaf">And now I fix it</font>
+
+66
+00:03:10,464 --> 00:03:13,792
+<font color="#e4e4e4">You can see it shows the other in here it says should have</font>
+
+67
+00:03:14,048 --> 00:03:18,912
+<font color="#cbcbcb">5 characters and add them in</font>
+
+68
+00:03:19,168 --> 00:03:24,032
+<font color="#c7c7c7">Saudi Arabia created in Hollywood</font>
+
+69
+00:03:24,288 --> 00:03:26,848
+<font color="#cecece">And it's stuck validating videos</font>
+
+70
+00:03:27,104 --> 00:03:28,640
+<font color="#cbcbcb">If not</font>
+
+71
+00:03:29,152 --> 00:03:32,736
+<font color="#dcdcdc">Fabulous. Description</font>
+
+72
+00:03:32,992 --> 00:03:34,016
+<font color="#cdcdcd">Aladdin</font>
+
+73
+00:03:34,272 --> 00:03:35,808
+<font color="#f6f6f6">Address. Description</font>
+
+74
+00:03:36,064 --> 00:03:36,832
+<font color="#fcfcfc">Is equal to</font>
+
+75
+00:03:40,416 --> 00:03:41,184
+<font color="#fcfcfc">Description</font>
+
+76
+00:03:42,720 --> 00:03:46,816
+<font color="#e3e3e3">It is a description already entered I would want to check that it's Oakland 5</font>
+
+77
+00:03:47,072 --> 00:03:47,840
+<font color="#fcfcfc">How can I do that</font>
+
+78
+00:03:48,352 --> 00:03:48,864
+<font color="#e8e8e8">Else</font>
+
+79
+00:03:49,376 --> 00:03:50,144
+<font color="#e6e6e6">If</font>
+
+80
+00:03:51,680 --> 00:03:53,728
+<font color="#dfdfdf">But it's length. Length</font>
+
+81
+00:03:53,984 --> 00:03:55,264
+<font color="#e9e9e9">Is less than fight</font>
+
+82
+00:03:55,776 --> 00:03:58,336
+<font color="#bababa">What do you want to do</font>
+
+83
+00:03:58,592 --> 00:03:59,360
+<font color="#a6a6a6">Peppa</font>
+
+84
+00:04:00,640 --> 00:04:01,408
+<font color="#f2f2f2">At least</font>
+
+85
+00:04:01,920 --> 00:04:03,712
+<font color="#c9c9c9">5 characters</font>
+
+86
+00:04:06,272 --> 00:04:07,552
+<font color="#c4c4c4">Let all to validate</font>
+
+87
+00:04:08,320 --> 00:04:10,624
+<font color="#c7c7c7">Let's see how can we update field</font>
+
+88
+00:04:10,880 --> 00:04:13,696
+<font color="#dcdcdc">Do any of the data values.</font>
+
+89
+00:04:13,952 --> 00:04:17,791
+<font color="#dfdfdf">We can use the movement framework provides options to check if</font>
+
+90
+00:04:18,047 --> 00:04:21,375
+<font color="#d7d7d7">Adidas parley Donuts I can see movement of values.</font>
+
+91
+00:04:21,887 --> 00:04:22,399
+<font color="#e5e5e5">.</font>
+
+92
+00:04:22,655 --> 00:04:23,423
+<font color="#fbfbfb">East</font>
+
+93
+00:04:23,679 --> 00:04:24,447
+<font color="#c1c1c1">Rallied</font>
+
+94
+00:04:25,983 --> 00:04:27,007
+<font color="#f4f4f4">The date is valid</font>
+
+95
+00:04:28,799 --> 00:04:30,591
+<font color="#f9f9f9">If not then</font>
+
+96
+00:04:30,847 --> 00:04:32,383
+<font color="#d8d8d8">How to say Arabs</font>
+
+97
+00:04:32,639 --> 00:04:33,151
+<font color="#e5e5e5">.</font>
+
+98
+00:04:33,407 --> 00:04:34,431
+<font color="#c1c1c1">Target date</font>
+
+99
+00:04:34,943 --> 00:04:35,711
+<font color="#fcfcfc">Is Aquatica</font>
+
+100
+00:04:38,783 --> 00:04:39,295
+<font color="#fcfcfc">Target</font>
+
+101
+00:04:40,319 --> 00:04:46,463
+<font color="#d8d8d8">What we did was we just added the other message for description little tired</font>
+
+102
+00:04:51,839 --> 00:04:53,375
+<font color="#f6f6f6">Let's see what would happen</font>
+
+103
+00:04:53,631 --> 00:04:54,143
+<font color="#fcfcfc">Safe</font>
+
+104
+00:05:00,031 --> 00:05:04,639
+<font color="#d6d6d6">Removing learn what is something you can see that I'm getting an error</font>
+
+105
+00:05:05,151 --> 00:05:09,247
+<font color="#d7d7d7">Directly down there making this date invalid and deleting the Dead</font>
+
+106
+00:05:09,759 --> 00:05:15,903
+<font color="#c4c4c4">You can see that immediately I like this and delete immediately</font>
+
+107
+00:05:16,159 --> 00:05:19,999
+<font color="#dfdfdf">So you can see enough that as soon as I change the values the validation is speaking in</font>
+
+108
+00:05:20,255 --> 00:05:22,047
+<font color="#eeeeee">And evaluation is also active</font>
+
+109
+00:05:22,303 --> 00:05:27,423
+<font color="#f2f2f2">As soon as I hear something so if I do a blood also the same thing would happen</font>
+
+110
+00:05:27,679 --> 00:05:33,823
+<font color="#e2e2e2">What do you need to do is disable both of those for me by default enables validation on blood and wine</font>
+
+111
+00:05:38,687 --> 00:05:39,711
+<font color="#f0f0f0">Is equal to</font>
+
+112
+00:05:40,735 --> 00:05:41,503
+<font color="#e3e3e3">False</font>
+
+113
+00:05:43,039 --> 00:05:43,551
+<font color="#fcfcfc">Validate</font>
+
+114
+00:05:46,367 --> 00:05:47,135
+<font color="#fcfcfc">Is equal to</font>
+
+115
+00:05:49,951 --> 00:05:50,719
+<font color="#d0d0d0">Let's save this</font>
+
+116
+00:05:51,999 --> 00:05:52,767
+<font color="#ededed">Go here</font>
+
+117
+00:05:53,023 --> 00:05:53,535
+<font color="#fcfcfc">Enough</font>
+
+118
+00:05:54,303 --> 00:05:59,423
+<font color="#c2c2c2">You'd see that even if I enter the added value</font>
+
+119
+00:05:59,679 --> 00:06:05,823
+<font color="#d8d8d8">You can like braless non-blood you can leave it to cool Electronics my chance you can leave it to do as well for me</font>
+
+120
+00:06:06,079 --> 00:06:09,663
+<font color="#d1d1d1">I like being Holly violation so I'll keep it simple</font>
+
+121
+00:06:09,919 --> 00:06:13,247
+<font color="#e2e2e2">We implemented validation of the fields</font>
+
+122
+00:06:13,503 --> 00:06:14,271
+<font color="#fcfcfc">We saw that</font>
+
+123
+00:06:15,551 --> 00:06:18,623
+<font color="#969696">Disney's pass the forms get submitted</font>
+
+124
+00:06:21,695 --> 00:06:23,231
+<font color="#eeeeee">Submit button</font>
+
+125
+00:06:26,559 --> 00:06:30,399
+<font color="#d2d2d2">You get up validation never enough</font>
+
+126
+00:06:30,655 --> 00:06:36,287
+<font color="#dadada">To go on to the next steps weather actually get the data from the APA and submit the data back</font>
+
+127
+00:06:36,799 --> 00:06:39,871
+<font color="#cecece">As an update I'll see you the next step</font>

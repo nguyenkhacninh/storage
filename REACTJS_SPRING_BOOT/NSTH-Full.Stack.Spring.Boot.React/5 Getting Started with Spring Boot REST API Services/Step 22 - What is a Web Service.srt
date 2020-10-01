@@ -1,0 +1,523 @@
+﻿1
+00:00:00,768 --> 00:00:01,280
+<font color="#fcfcfc">Hi there</font>
+
+2
+00:00:02,816 --> 00:00:03,840
+<font color="#858585">Very dry and</font>
+
+3
+00:00:05,120 --> 00:00:05,632
+<font color="#fcfcfc">What is</font>
+
+4
+00:00:05,888 --> 00:00:06,656
+<font color="#c9c9c9">Avatar</font>
+
+5
+00:00:07,424 --> 00:00:09,984
+<font color="#efefef">Let's consider a simple definition of a verb</font>
+
+6
+00:00:11,264 --> 00:00:11,776
+<font color="#ececec">A service</font>
+
+7
+00:00:12,032 --> 00:00:13,824
+<font color="#f7f7f7">Which is delivered over the web</font>
+
+8
+00:00:14,336 --> 00:00:16,128
+<font color="#f0f0f0">Is that a complete definition</font>
+
+9
+00:00:16,384 --> 00:00:17,664
+<font color="#f3f3f3">Think about it so if I</font>
+
+10
+00:00:24,320 --> 00:00:25,088
+<font color="#e9e9e9">You might be using</font>
+
+11
+00:00:25,344 --> 00:00:26,368
+<font color="#b3b3b3">Adorable applique</font>
+
+12
+00:00:27,136 --> 00:00:28,160
+<font color="#fcfcfc">Facebook</font>
+
+13
+00:00:28,416 --> 00:00:28,928
+<font color="#fcfcfc">Twitter</font>
+
+14
+00:00:29,440 --> 00:00:30,208
+<font color="#9f9f9f">Your shopping app</font>
+
+15
+00:00:31,232 --> 00:00:32,256
+<font color="#6a6a6a">Ride variety of Apple</font>
+
+16
+00:00:33,280 --> 00:00:35,328
+<font color="#e1e1e1">All of them web services</font>
+
+17
+00:00:35,584 --> 00:00:38,144
+<font color="#e1e1e1">It's considered to do application that I have</font>
+
+18
+00:00:38,912 --> 00:00:39,936
+<font color="#f1f1f1">This application</font>
+
+19
+00:00:40,448 --> 00:00:42,496
+<font color="#e0e0e0">Helps you to login logout</font>
+
+20
+00:00:42,752 --> 00:00:43,776
+<font color="#878787">Time in Egypt</font>
+
+21
+00:00:44,032 --> 00:00:45,568
+<font color="#cbcbcb">You can add new Tuesday</font>
+
+22
+00:00:47,360 --> 00:00:48,640
+<font color="#f4f4f4">And also update</font>
+
+23
+00:00:50,176 --> 00:00:51,712
+<font color="#dcdcdc">Simple web application</font>
+
+24
+00:00:51,968 --> 00:00:53,248
+<font color="#cacaca">To build using Java</font>
+
+25
+00:00:53,504 --> 00:00:54,272
+<font color="#e8e8e8">And spring MVC</font>
+
+26
+00:00:56,064 --> 00:00:57,088
+<font color="#e9e9e9">Is it a web service</font>
+
+27
+00:00:57,600 --> 00:00:58,880
+<font color="#e6e6e6">What's considered a situation</font>
+
+28
+00:00:59,904 --> 00:01:02,976
+<font color="#fafafa">A friend of mine he's building a social application</font>
+
+29
+00:01:03,488 --> 00:01:04,000
+<font color="#ececec">Lips</font>
+
+30
+00:01:05,024 --> 00:01:05,792
+<font color="#c8c8c8">Something like that</font>
+
+31
+00:01:06,048 --> 00:01:09,120
+<font color="#e3e3e3">Facebook writer he wants to add the features to manage</font>
+
+32
+00:01:09,376 --> 00:01:09,888
+<font color="#c8c8c8">Toulouse</font>
+
+33
+00:01:10,144 --> 00:01:11,424
+<font color="#fbfbfb">Into his application</font>
+
+34
+00:01:12,448 --> 00:01:16,544
+<font color="#e1e1e1">He wants to be used some of the functionality from art to do application which</font>
+
+35
+00:01:18,080 --> 00:01:20,128
+<font color="#f4f4f4">Really be able to use the application</font>
+
+36
+00:01:20,384 --> 00:01:20,896
+<font color="#f1f1f1">As it is</font>
+
+37
+00:01:21,664 --> 00:01:23,712
+<font color="#f5f5f5">Application as we have built it</font>
+
+38
+00:01:26,272 --> 00:01:28,576
+<font color="#dcdcdc">HTML is a format which is design</font>
+
+39
+00:01:28,832 --> 00:01:32,160
+<font color="#f7f7f7">Put rendering data on the screen on the browser</font>
+
+40
+00:01:32,416 --> 00:01:33,440
+<font color="#d8d8d8">HTML support</font>
+
+41
+00:01:33,696 --> 00:01:36,000
+<font color="#d8d8d8">Like I want my manusia I would want</font>
+
+42
+00:01:36,256 --> 00:01:38,304
+<font color="#ebebeb">This data I would want this buttons on my</font>
+
+43
+00:01:39,328 --> 00:01:41,120
+<font color="#d9d9d9">I can use HTML to design. Kinda</font>
+
+44
+00:01:42,144 --> 00:01:47,008
+<font color="#c7c7c7">18 minutes. Lilian format which is designed for application to apply</font>
+
+45
+00:01:47,264 --> 00:01:47,776
+<font color="#eaeaea">Vacation Inn</font>
+
+46
+00:01:49,056 --> 00:01:51,104
+<font color="#f3f3f3">My friend does not want to give up so easy</font>
+
+47
+00:01:51,872 --> 00:01:54,176
+<font color="#dcdcdc">He says okay yeah I'll put that you're delivering in</font>
+
+48
+00:01:54,432 --> 00:01:55,712
+<font color="#e2e2e2">Stop consumable by map</font>
+
+49
+00:01:56,736 --> 00:02:00,576
+<font color="#f3f3f3">What are the other options that represent he comes to me and tells me</font>
+
+50
+00:02:01,600 --> 00:02:04,160
+<font color="#c6c6c6">Haven't you drill design your application very well</font>
+
+51
+00:02:04,416 --> 00:02:05,952
+<font color="#e4e4e4">Your application is really having</font>
+
+52
+00:02:06,464 --> 00:02:08,512
+<font color="#f8f8f8">Well defined as you have</font>
+
+53
+00:02:08,768 --> 00:02:11,072
+<font color="#e8e8e8">You have a business layer and the data layer</font>
+
+54
+00:02:11,840 --> 00:02:12,864
+<font color="#acacac">Give me reviews</font>
+
+55
+00:02:13,120 --> 00:02:14,912
+<font color="#d4d4d4">Do stuff from your business where you are</font>
+
+56
+00:02:15,168 --> 00:02:18,240
+<font color="#f3f3f3">I cannot use it</font>
+
+57
+00:02:19,264 --> 00:02:21,056
+<font color="#f0f0f0">Can I see use your business logic</font>
+
+58
+00:02:21,312 --> 00:02:23,104
+<font color="#eeeeee">It comes to me and says okay can I</font>
+
+59
+00:02:23,360 --> 00:02:24,128
+<font color="#cfcfcf">Create a jar</font>
+
+60
+00:02:25,920 --> 00:02:27,200
+<font color="#adadad">And we use that stuff</font>
+
+61
+00:02:27,456 --> 00:02:32,832
+<font color="#f9f9f9">That's a good option right think about it he wants to create a jar out of the business logic</font>
+
+62
+00:02:33,088 --> 00:02:34,624
+<font color="#e5e5e5">Can he use it as it is</font>
+
+63
+00:02:34,880 --> 00:02:36,416
+<font color="#cfcfcf">What is the data layer need</font>
+
+64
+00:02:36,672 --> 00:02:40,000
+<font color="#d1d1d1">The data layer really needs a database right</font>
+
+65
+00:02:40,256 --> 00:02:41,024
+<font color="#d1d1d1">Needs a database</font>
+
+66
+00:02:41,280 --> 00:02:44,608
+<font color="#f5f5f5">Talk to what my friend needs to do now is to</font>
+
+67
+00:02:44,864 --> 00:02:47,424
+<font color="#f5f5f5">Install a database and also</font>
+
+68
+00:02:47,680 --> 00:02:49,728
+<font color="#f8f8f8">There will be other dependencies</font>
+
+69
+00:02:49,984 --> 00:02:53,568
+<font color="#f8f8f8">So he would need to make sure that all of the dependency societies</font>
+
+70
+00:02:54,336 --> 00:02:57,664
+<font color="#f1f1f1">Think about when does a change in the business logic select</font>
+
+71
+00:02:57,920 --> 00:03:03,296
+<font color="#e9e9e9">I am updating my to do application to have some new business logic will he automatically get it</font>
+
+72
+00:03:04,320 --> 00:03:05,856
+<font color="#d2d2d2">I'll need to actually create a jar</font>
+
+73
+00:03:06,368 --> 00:03:08,928
+<font color="#f0f0f0">And provide him a new version of the jar</font>
+
+74
+00:03:09,184 --> 00:03:11,744
+<font color="#f6f6f6">So that he can get the new version of the business logic</font>
+
+75
+00:03:12,000 --> 00:03:13,280
+<font color="#fcfcfc">We cannot consume</font>
+
+76
+00:03:16,608 --> 00:03:18,656
+<font color="#f3f3f3">Got a lot of problems associated with</font>
+
+77
+00:03:18,912 --> 00:03:20,960
+<font color="#cecece">Getting a job and trying to reuse</font>
+
+78
+00:03:22,240 --> 00:03:28,384
+<font color="#f3f3f3">52 application is able to provide output in a format that other application</font>
+
+79
+00:03:28,640 --> 00:03:30,944
+<font color="#ececec">Patients are able to understand then</font>
+
+80
+00:03:31,200 --> 00:03:33,248
+<font color="#c4c4c4">Little problem that's where</font>
+
+81
+00:03:33,760 --> 00:03:35,808
+<font color="#dfdfdf">Concept of absolute</font>
+
+82
+00:03:38,368 --> 00:03:39,904
+<font color="#e7e7e7">What we're looking at right now</font>
+
+83
+00:03:40,160 --> 00:03:41,440
+<font color="#e6e6e6">Where is the w3c that's</font>
+
+84
+00:03:41,952 --> 00:03:42,464
+<font color="#fcfcfc">Turn off of that</font>
+
+85
+00:03:43,744 --> 00:03:44,256
+<font color="#dbdbdb">It says</font>
+
+86
+00:03:46,560 --> 00:03:47,072
+<font color="#fcfcfc">Support</font>
+
+87
+00:03:47,584 --> 00:03:48,608
+<font color="#fcfcfc">Interoperable</font>
+
+88
+00:03:49,120 --> 00:03:51,168
+<font color="#d7d7d7">Machine-to-machine interaction</font>
+
+89
+00:03:51,424 --> 00:03:52,704
+<font color="#d0d0d0">Over a network</font>
+
+90
+00:03:52,960 --> 00:03:55,008
+<font color="#b4b4b4">The three key words are interoperable</font>
+
+91
+00:03:55,520 --> 00:03:57,056
+<font color="#f7f7f7">Machine-to-machine infraction</font>
+
+92
+00:03:59,104 --> 00:04:00,128
+<font color="#e2e2e2">First thing is</font>
+
+93
+00:04:00,384 --> 00:04:01,920
+<font color="#d4d4d4">Web services are designed</font>
+
+94
+00:04:02,688 --> 00:04:04,992
+<font color="#f3f3f3">Application to application interaction</font>
+
+95
+00:04:05,760 --> 00:04:11,392
+<font color="#dadada">My to-do application is not a web service because it's not design for application to application interaction right</font>
+
+96
+00:04:12,416 --> 00:04:14,720
+<font color="#d1d1d1">It's only designed for a human interact</font>
+
+97
+00:04:15,488 --> 00:04:17,536
+<font color="#f3f3f3">If another application wants to talk to it</font>
+
+98
+00:04:17,791 --> 00:04:19,839
+<font color="#dbdbdb">Little application has not ready yet</font>
+
+99
+00:04:20,607 --> 00:04:21,119
+<font color="#fcfcfc">Should be</font>
+
+100
+00:04:21,375 --> 00:04:22,655
+<font color="#fcfcfc">Interoperable</font>
+
+101
+00:04:22,911 --> 00:04:25,727
+<font color="#fcfcfc">Any other kind of application should be able to</font>
+
+102
+00:04:25,983 --> 00:04:27,519
+<font color="#fcfcfc">Talk to my application</font>
+
+103
+00:04:28,031 --> 00:04:33,407
+<font color="#dcdcdc">It can be application is installed on dotnet application which is installed on Java</font>
+
+104
+00:04:33,663 --> 00:04:36,479
+<font color="#d3d3d3">And application C may have been built using pH</font>
+
+105
+00:04:40,319 --> 00:04:42,111
+<font color="#fcfcfc">They should be able to talk</font>
+
+106
+00:04:42,623 --> 00:04:47,231
+<font color="#cecece">To my to do service that's when my to-do application will become of absolutely</font>
+
+107
+00:04:47,999 --> 00:04:49,023
+<font color="#f7f7f7">And the last one is</font>
+
+108
+00:04:49,535 --> 00:04:55,423
+<font color="#e5e5e5">It should I love communication or network you were talking about this jar</font>
+
+109
+00:04:59,519 --> 00:05:04,639
+<font color="#dfdfdf">Dejar is installed locally communication what happened</font>
+
+110
+00:05:04,895 --> 00:05:06,943
+<font color="#e6e6e6">Within the boundaries of deceased</font>
+
+111
+00:05:07,967 --> 00:05:10,527
+<font color="#d4d4d4">The communication will not happen over the knee</font>
+
+112
+00:05:11,551 --> 00:05:12,575
+<font color="#fcfcfc">Indexing are you</font>
+
+113
+00:05:12,831 --> 00:05:15,391
+<font color="#cccccc">This is not really a web service</font>
+
+114
+00:05:15,647 --> 00:05:18,207
+<font color="#e4e4e4">Friend application to be a vet service</font>
+
+115
+00:05:18,719 --> 00:05:22,559
+<font color="#efefef">It should allow communication over a network</font>
+
+116
+00:05:23,071 --> 00:05:29,215
+<font color="#eaeaea">Are there application should be able to talk to it the applications Q2 have been deployed anywhere they might have been dipped</font>
+
+117
+00:05:29,471 --> 00:05:34,079
+<font color="#f9f9f9">Floyd on the same system on a different system or somewhere on the internet</font>
+
+118
+00:05:34,335 --> 00:05:37,151
+<font color="#fcfcfc">They should be allowed to talk to my application</font>
+
+119
+00:05:37,407 --> 00:05:38,175
+<font color="#f0f0f0">Only then</font>
+
+120
+00:05:41,247 --> 00:05:42,015
+<font color="#f8f8f8">What we have done</font>
+
+121
+00:05:42,271 --> 00:05:43,039
+<font color="#f4f4f4">In this video</font>
+
+122
+00:05:43,295 --> 00:05:44,319
+<font color="#fcfcfc">Try to understand</font>
+
+123
+00:05:45,343 --> 00:05:45,855
+<font color="#e4e4e4">The most</font>
+
+124
+00:05:46,111 --> 00:05:49,695
+<font color="#f2f2f2">Important things that affect service should support</font>
+
+125
+00:05:49,951 --> 00:05:56,095
+<font color="#d6d6d6">We'll learn that website we should support application to application in traction it should be in</font>
+
+126
+00:05:56,351 --> 00:05:56,863
+<font color="#cacaca">Operable</font>
+
+127
+00:05:57,119 --> 00:06:00,191
+<font color="#dfdfdf">And it should I love communication or dinner</font>
+
+128
+00:06:01,471 --> 00:06:02,495
+<font color="#fbfbfb">In the next video</font>
+
+129
+00:06:03,007 --> 00:06:03,775
+<font color="#b8b8b8">Relocated</font>
+
+130
+00:06:04,031 --> 00:06:05,055
+<font color="#fcfcfc">How to build</font>
+
+131
+00:06:05,311 --> 00:06:06,591
+<font color="#d3d3d3">Web services light</font>

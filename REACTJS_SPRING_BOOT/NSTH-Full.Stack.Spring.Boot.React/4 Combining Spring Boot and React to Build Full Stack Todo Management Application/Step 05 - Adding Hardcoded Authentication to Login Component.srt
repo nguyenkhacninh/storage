@@ -1,0 +1,627 @@
+﻿1
+00:00:02,048 --> 00:00:07,168
+<font color="#f5f5f5">Welcome back in the previous steps we added the form elements and the</font>
+
+2
+00:00:07,424 --> 00:00:09,984
+<font color="#d2d2d2">Add them up to the state of the component</font>
+
+3
+00:00:10,240 --> 00:00:13,056
+<font color="#dfdfdf">Intercept let's focus on the login button click</font>
+
+4
+00:00:13,312 --> 00:00:15,872
+<font color="#dddddd">Wendy login button is clicked you'd want to</font>
+
+5
+00:00:16,384 --> 00:00:20,224
+<font color="#fafafa">Take action we want to check whether the username and password is right</font>
+
+6
+00:00:20,736 --> 00:00:21,760
+<font color="#c1c1c1">And bass on it</font>
+
+7
+00:00:22,016 --> 00:00:23,040
+<font color="#e3e3e3">Ida show</font>
+
+8
+00:00:23,808 --> 00:00:26,624
+<font color="#dddddd">Login successful message</font>
+
+9
+00:00:27,136 --> 00:00:28,160
+<font color="#f4f4f4">How do we do that</font>
+
+10
+00:00:28,928 --> 00:00:30,976
+<font color="#cecece">Let's see that this person step</font>
+
+11
+00:00:31,488 --> 00:00:34,816
+<font color="#c4c4c4">It's tied with creating a raunchy event</font>
+
+12
+00:00:35,072 --> 00:00:39,680
+<font color="#d5d5d5">Is it on change event or intimidated video on take you inside to unclick</font>
+
+13
+00:00:39,936 --> 00:00:43,264
+<font color="#cdcdcd">I'm sick of the button I would want to call a method to this.</font>
+
+14
+00:00:43,776 --> 00:00:45,056
+<font color="#cccccc">Healthy login</font>
+
+15
+00:00:48,640 --> 00:00:50,176
+<font color="#dfdfdf">Chuggington</font>
+
+16
+00:00:51,712 --> 00:00:57,856
+<font color="#d8d8d8">SMS message important things is to make sure that we buying the title this</font>
+
+17
+00:00:58,112 --> 00:00:59,648
+<font color="#f1f1f1">Talk login sleep</font>
+
+18
+00:00:59,904 --> 00:01:00,928
+<font color="#fcfcfc">Is equal to</font>
+
+19
+00:01:01,696 --> 00:01:04,512
+<font color="#eaeaea">Start running slightly behind.</font>
+
+20
+00:01:06,048 --> 00:01:07,840
+<font color="#e2e2e2">Now we have the login click</font>
+
+21
+00:01:11,936 --> 00:01:13,984
+<font color="#f7f7f7">This. State</font>
+
+22
+00:01:15,264 --> 00:01:17,312
+<font color="#e8e8e8">If everything I said fine</font>
+
+23
+00:01:18,336 --> 00:01:19,360
+<font color="#bbbbbb">Logan</font>
+
+24
+00:01:19,616 --> 00:01:25,504
+<font color="#ececec">I can see the username and password at school so busy</font>
+
+25
+00:01:26,272 --> 00:01:32,416
+<font color="#e6e6e6">Username and password I just want to be able to shoot two different messages let's look at them right now so let's say</font>
+
+26
+00:01:32,672 --> 00:01:35,232
+<font color="#ececec">Play I would want to show a message which is</font>
+
+27
+00:01:36,768 --> 00:01:37,792
+<font color="#fcfcfc">Invalid</font>
+
+28
+00:01:38,816 --> 00:01:40,096
+<font color="#fcfcfc">Credentials</font>
+
+29
+00:01:40,608 --> 00:01:43,424
+<font color="#cbcbcb">I want to be able to show it is</font>
+
+30
+00:01:44,192 --> 00:01:44,960
+<font color="#e8e8e8">Login</font>
+
+31
+00:01:45,216 --> 00:01:46,240
+<font color="#e4e4e4">Successful</font>
+
+32
+00:01:46,752 --> 00:01:51,872
+<font color="#cacaca">To decide the two messages that viewed want to be able to show based on</font>
+
+33
+00:01:52,384 --> 00:01:54,688
+<font color="#f4f4f4">The username and password entered</font>
+
+34
+00:01:54,944 --> 00:02:01,088
+<font color="#ececec">If you go to the phone right now you can actually see both of them but what we want to do is conditionally show them we don't want to shoot</font>
+
+35
+00:02:01,344 --> 00:02:07,232
+<font color="#ececec">Always do you want to show them in specific scenarios how do we do that</font>
+
+36
+00:02:08,256 --> 00:02:14,400
+<font color="#e2e2e2">Turn off to keep things simple you don't start with hard-coded validation with the only value</font>
+
+37
+00:02:14,656 --> 00:02:15,168
+<font color="#ededed">Valid</font>
+
+38
+00:02:15,424 --> 00:02:18,496
+<font color="#dcdcdc">User username and password combination is in 28 minutes</font>
+
+39
+00:02:18,752 --> 00:02:21,568
+<font color="#fcfcfc">So what we want to do is if</font>
+
+40
+00:02:21,824 --> 00:02:22,848
+<font color="#e5e5e5">Username</font>
+
+41
+00:02:24,128 --> 00:02:25,152
+<font color="#fcfcfc">Is equal to</font>
+
+42
+00:02:25,664 --> 00:02:30,784
+<font color="#e5e5e5">In 2023 is equal to in job use equal to sin</font>
+
+43
+00:02:34,368 --> 00:02:35,136
+<font color="#fcfcfc">Username</font>
+
+44
+00:02:35,904 --> 00:02:37,696
+<font color="#f6f6f6">Dummy</font>
+
+45
+00:02:38,208 --> 00:02:38,976
+<font color="#a2a2a2">Attend</font>
+
+46
+00:02:39,744 --> 00:02:40,512
+<font color="#fcfcfc">Password</font>
+
+47
+00:02:40,768 --> 00:02:42,048
+<font color="#fcfcfc">Is equal to</font>
+
+48
+00:02:45,120 --> 00:02:51,264
+<font color="#e1e1e1">If this too high right where are the username and password present-day Pleasant inside this</font>
+
+49
+00:02:51,520 --> 00:02:55,616
+<font color="#eaeaea">Right to the action current values of the username and password at Pleasanton</font>
+
+50
+00:02:55,872 --> 00:03:02,016
+<font color="#dadada">Miss. State is Desert State. Username is equal in 28 minutes and this. Stay. Password is</font>
+
+51
+00:03:02,272 --> 00:03:04,832
+<font color="#e8e8e8">Sequel to dummy what do we want to do</font>
+
+52
+00:03:10,208 --> 00:03:11,488
+<font color="#a0a0a0">Successful</font>
+
+53
+00:03:15,584 --> 00:03:16,864
+<font color="#e1e1e1">Cancel. Log</font>
+
+54
+00:03:20,192 --> 00:03:22,240
+<font color="#cacaca">That's coming out the slog</font>
+
+55
+00:03:23,520 --> 00:03:25,312
+<font color="#e1e1e1">Enough when I click login</font>
+
+56
+00:03:25,568 --> 00:03:28,128
+<font color="#bababa">Faith because in 28 minutes and</font>
+
+57
+00:03:28,384 --> 00:03:30,688
+<font color="#f2f2f2">Empty password I will enter dummy</font>
+
+58
+00:03:30,944 --> 00:03:36,576
+<font color="#ededed">You can see that I entered tamiyasu value login</font>
+
+59
+00:03:43,232 --> 00:03:44,768
+<font color="#ababab">Athletes Training that way</font>
+
+60
+00:03:48,864 --> 00:03:51,680
+<font color="#c6c6c6">The internet minutes dummy</font>
+
+61
+00:03:52,704 --> 00:03:58,848
+<font color="#c1c1c1">When I say login password and say login</font>
+
+62
+00:03:59,104 --> 00:04:00,640
+<font color="#f1f1f1">Validation in here</font>
+
+63
+00:04:01,152 --> 00:04:04,736
+<font color="#f4f4f4">What do you want to do if you want to trigger these messages based on it</font>
+
+64
+00:04:05,504 --> 00:04:11,648
+<font color="#eeeeee">To be able to figure these messages bails donate what you need to do if you need to add this to the state</font>
+
+65
+00:04:12,928 --> 00:04:17,280
+<font color="#c9c9c9">So what I do is add a couple of more variables to the state to ease</font>
+
+66
+00:04:21,119 --> 00:04:22,143
+<font color="#b4b4b4">Class login feed</font>
+
+67
+00:04:22,655 --> 00:04:24,447
+<font color="#dadada">Initially to defaults</font>
+
+68
+00:04:25,983 --> 00:04:26,495
+<font color="#dddddd">And</font>
+
+69
+00:04:27,007 --> 00:04:28,543
+<font color="#e8e8e8">The last one is show</font>
+
+70
+00:04:28,799 --> 00:04:30,591
+<font color="#fcfcfc">Texas message</font>
+
+71
+00:04:31,359 --> 00:04:32,383
+<font color="#d7d7d7">And I put it to</font>
+
+72
+00:04:33,151 --> 00:04:37,503
+<font color="#d5d5d5">Pulse Aspen what should we do when Logan Street</font>
+
+73
+00:04:38,271 --> 00:04:38,783
+<font color="#aaaaaa">If</font>
+
+74
+00:04:39,295 --> 00:04:40,319
+<font color="#e3e3e3">This is the</font>
+
+75
+00:04:46,207 --> 00:04:52,351
+<font color="#dfdfdf">Back here if you need to do is we need to update this date site so what</font>
+
+76
+00:04:52,607 --> 00:04:54,399
+<font color="#d0d0d0">What should we do in the state of Texas</font>
+
+77
+00:04:54,911 --> 00:04:57,471
+<font color="#acacac">Can we just visit India desert set state</font>
+
+78
+00:04:58,495 --> 00:05:00,287
+<font color="#d1d1d1">What should I do check this message</font>
+
+79
+00:05:00,543 --> 00:05:02,591
+<font color="#f8f8f8">Should have a value of</font>
+
+80
+00:05:04,895 --> 00:05:06,431
+<font color="#eaeaea">Else what should we do</font>
+
+81
+00:05:16,671 --> 00:05:18,719
+<font color="#e5e5e5">But I should show d</font>
+
+82
+00:05:19,743 --> 00:05:21,023
+<font color="#fcfcfc">Error message</font>
+
+83
+00:05:22,047 --> 00:05:23,327
+<font color="#f4f4f4">Has login failed</font>
+
+84
+00:05:24,351 --> 00:05:25,887
+<font color="#d5d5d5">East</font>
+
+85
+00:05:26,655 --> 00:05:29,983
+<font color="#d5d5d5">So what are you doing is based on weather DC</font>
+
+86
+00:05:30,239 --> 00:05:36,383
+<font color="#d9d9d9">Tinga successful or not we are actually sitting this status actually what I can also do is actually here</font>
+
+87
+00:05:43,551 --> 00:05:46,111
+<font color="#d9d9d9">Alright let's see what happened now</font>
+
+88
+00:05:46,367 --> 00:05:48,415
+<font color="#f5f5f5">If I go to the page and click login</font>
+
+89
+00:05:48,671 --> 00:05:54,815
+<font color="#d4d4d4">I still see body messages why did conditions around this yet</font>
+
+90
+00:05:55,071 --> 00:06:01,215
+<font color="#fbfbfb">I said only valid credentials and login successful conditions yet</font>
+
+91
+00:06:01,471 --> 00:06:06,591
+<font color="#ebebeb">Add conditions around this one of the easiest ways to add conditions is betting function</font>
+
+92
+00:06:09,407 --> 00:06:09,919
+<font color="#e7e7e7">Valid</font>
+
+93
+00:06:10,943 --> 00:06:12,223
+<font color="#efefef">Credentials</font>
+
+94
+00:06:13,503 --> 00:06:15,551
+<font color="#d1d1d1">Henry Bastrop Street</font>
+
+95
+00:06:18,111 --> 00:06:22,207
+<font color="#f3f3f3">Actually I should create this outside the company until it's good</font>
+
+96
+00:06:22,463 --> 00:06:28,607
+<font color="#d3d3d3">Mu outside and say functions of invalid credentials and brought what we do in here is</font>
+
+97
+00:06:28,863 --> 00:06:30,143
+<font color="#fcfcfc">If</font>
+
+98
+00:06:30,399 --> 00:06:31,679
+<font color="#b1b1b1">Throw ups</font>
+
+99
+00:06:32,191 --> 00:06:38,335
+<font color="#dadada">What we do is win but has login failed as a property to this specific thing to what I can do is promise</font>
+
+100
+00:06:38,591 --> 00:06:40,127
+<font color="#d5d5d5">What's. Login failed if</font>
+
+101
+00:06:41,151 --> 00:06:42,687
+<font color="#bfbfbf">Indus Pacific property</font>
+
+102
+00:06:43,455 --> 00:06:44,479
+<font color="#d0d0d0">If</font>
+
+103
+00:06:44,735 --> 00:06:46,015
+<font color="#f7f7f7">Has login failed</font>
+
+104
+00:06:46,271 --> 00:06:49,343
+<font color="#d5d5d5">It's true then what we Louis Vuitton</font>
+
+105
+00:06:50,111 --> 00:06:51,647
+<font color="#f9f9f9">This credentials back</font>
+
+106
+00:06:51,903 --> 00:06:53,695
+<font color="#e0e0e0">Kitten invalid credentials</font>
+
+107
+00:06:55,231 --> 00:06:56,767
+<font color="#ebebeb">Otherwise return</font>
+
+108
+00:06:59,327 --> 00:07:04,191
+<font color="#e4e4e4">I don't need two semicolons to insert this I want to use</font>
+
+109
+00:07:06,751 --> 00:07:08,543
+<font color="#eeeeee">Show invalid credentials</font>
+
+110
+00:07:09,823 --> 00:07:15,967
+<font color="#e1e1e1">Actually I can tag in here directly and helped create a proper</font>
+
+111
+00:07:16,223 --> 00:07:16,735
+<font color="#f1f1f1">Booty call</font>
+
+112
+00:07:16,991 --> 00:07:18,527
+<font color="#eeeeee">Pass login failed</font>
+
+113
+00:07:18,783 --> 00:07:21,087
+<font color="#d8d8d8">And I'll pick the value for it</font>
+
+114
+00:07:21,343 --> 00:07:23,391
+<font color="#fbfbfb">From this day to this. State</font>
+
+115
+00:07:24,415 --> 00:07:26,975
+<font color="#d0d0d0">. has login failed</font>
+
+116
+00:07:28,255 --> 00:07:34,399
+<font color="#dadada">Suisun Valley pet insurance only if has login failed is true I can take a similar message for the other thing</font>
+
+117
+00:07:34,655 --> 00:07:36,959
+<font color="#f1f1f1">Because I'd like to check if this is working</font>
+
+118
+00:07:39,519 --> 00:07:41,311
+<font color="#e4e4e4">Gmail messages not being shown</font>
+
+119
+00:07:41,567 --> 00:07:44,895
+<font color="#f6f6f6">And if I entered right user ID and password</font>
+
+120
+00:07:45,919 --> 00:07:52,063
+<font color="#ebebeb">Delete messages not being shown if I enter invalid ID and password you can see that the invalid credentials is</font>
+
+121
+00:07:52,319 --> 00:07:58,463
+<font color="#d1d1d1">Because the added now he's conditioned is hemolytic Edition solution only</font>
+
+122
+00:07:58,719 --> 00:07:59,231
+<font color="#f4f4f4">If</font>
+
+123
+00:07:59,487 --> 00:08:03,583
+<font color="#f3f3f3">Has login failed in the state has a value of</font>
+
+124
+00:08:04,607 --> 00:08:09,727
+<font color="#ededed">You can possibly get in here and try and do something very similar with long and successful</font>
+
+125
+00:08:10,239 --> 00:08:14,335
+<font color="#cccccc">Function component</font>
+
+126
+00:08:15,103 --> 00:08:15,871
+<font color="#fcfcfc">Show</font>
+
+127
+00:08:16,383 --> 00:08:17,151
+<font color="#e8e8e8">Login</font>
+
+128
+00:08:17,919 --> 00:08:18,687
+<font color="#fcfcfc">Texas</font>
+
+129
+00:08:18,943 --> 00:08:19,967
+<font color="#fcfcfc">Message</font>
+
+130
+00:08:20,735 --> 00:08:21,759
+<font color="#cecece">Crocs</font>
+
+131
+00:08:23,295 --> 00:08:24,831
+<font color="#fbfbfb">And what we can do is if</font>
+
+132
+00:08:25,855 --> 00:08:26,623
+<font color="#fcfcfc">Crocs</font>
+
+133
+00:08:26,879 --> 00:08:27,647
+<font color="#f0f0f0">.</font>
+
+134
+00:08:28,415 --> 00:08:30,719
+<font color="#e9e9e9">Will do the same thing that we had earlier</font>
+
+135
+00:08:31,487 --> 00:08:33,279
+<font color="#e0e0e0">True success message</font>
+
+136
+00:08:34,815 --> 00:08:36,095
+<font color="#f0f0f0">Return</font>
+
+137
+00:08:37,119 --> 00:08:40,959
+<font color="#e3e3e3">This thing which is presenting here login successful message</font>
+
+138
+00:08:42,751 --> 00:08:43,775
+<font color="#f3f3f3">How do I Sweeten</font>
+
+139
+00:08:45,567 --> 00:08:47,615
+<font color="#cecece">Now I can use this so successful</font>
+
+140
+00:08:47,871 --> 00:08:49,407
+<font color="#d7d7d7">Show login text message</font>
+
+141
+00:08:49,663 --> 00:08:50,431
+<font color="#e6e6e6">Wikia</font>
+
+142
+00:08:54,015 --> 00:08:57,087
+<font color="#e2e2e2">Let me get this light enough I can see</font>
+
+143
+00:09:02,463 --> 00:09:03,999
+<font color="#dbdbdb">And show success message</font>
+
+144
+00:09:04,255 --> 00:09:05,791
+<font color="#d4d4d4">I want to get it from this date</font>
+
+145
+00:09:06,303 --> 00:09:07,839
+<font color="#e9e9e9">Is equal to</font>
+
+146
+00:09:08,607 --> 00:09:10,143
+<font color="#fcfcfc">This. State.</font>
+
+147
+00:09:10,655 --> 00:09:13,215
+<font color="#a6a6a6">Trusox is message and closing sentences</font>
+
+148
+00:09:13,471 --> 00:09:16,543
+<font color="#d1d1d1">And that's cool now I can remove all this stuff</font>
+
+149
+00:09:20,127 --> 00:09:23,711
+<font color="#e5e5e5">Logging right values login successful</font>
+
+150
+00:09:24,223 --> 00:09:26,527
+<font color="#fcfcfc">Invalid credentials</font>
+
+151
+00:09:27,295 --> 00:09:33,439
+<font color="#f8f8f8">What we look that is actually implementing the logic for the login button so</font>
+
+152
+00:09:33,695 --> 00:09:35,743
+<font color="#d8d8d8">We added deontic event</font>
+
+153
+00:09:35,999 --> 00:09:38,047
+<font color="#f2f2f2">And we actually added</font>
+
+154
+00:09:38,303 --> 00:09:44,447
+<font color="#e3e3e3">Messages based on whether they had couldn't attend station that we are performing</font>
+
+155
+00:09:44,703 --> 00:09:45,471
+<font color="#dfdfdf">Successful</font>
+
+156
+00:09:45,727 --> 00:09:46,751
+<font color="#bebebe">Or not</font>
+
+157
+00:09:47,263 --> 00:09:50,079
+<font color="#909090">We talked about a lot</font>

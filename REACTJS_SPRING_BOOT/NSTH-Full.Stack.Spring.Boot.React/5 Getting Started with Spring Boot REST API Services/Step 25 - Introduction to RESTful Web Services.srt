@@ -1,0 +1,659 @@
+﻿1
+00:00:04,096 --> 00:00:04,864
+<font color="#ebebeb">In this video</font>
+
+2
+00:00:05,120 --> 00:00:07,424
+<font color="#dbdbdb">You'd start with an important concept</font>
+
+3
+00:00:07,680 --> 00:00:08,704
+<font color="#d6d6d6">Call</font>
+
+4
+00:00:08,960 --> 00:00:09,728
+<font color="#e9e9e9">What is</font>
+
+5
+00:00:10,240 --> 00:00:11,264
+<font color="#cccccc">What is the best all about</font>
+
+6
+00:00:15,360 --> 00:00:16,384
+<font color="#ececec">Transfer</font>
+
+7
+00:00:16,640 --> 00:00:19,200
+<font color="#e1e1e1">Just going by Roy</font>
+
+8
+00:00:20,224 --> 00:00:23,552
+<font color="#dddddd">If you remember dry cleaning is the guy also</font>
+
+9
+00:00:23,808 --> 00:00:25,344
+<font color="#f0f0f0">HTTP protocol</font>
+
+10
+00:00:25,600 --> 00:00:28,160
+<font color="#9d9d9d">Sleeping apart</font>
+
+11
+00:00:28,928 --> 00:00:29,696
+<font color="#e2e2e2">Bad.</font>
+
+12
+00:00:29,952 --> 00:00:31,744
+<font color="#e3e3e3">They would want to make best</font>
+
+13
+00:00:34,304 --> 00:00:34,816
+<font color="#ededed">What is it</font>
+
+14
+00:00:35,840 --> 00:00:38,144
+<font color="#f6f6f6">Take a quick overview let's go to Google</font>
+
+15
+00:00:41,216 --> 00:00:43,264
+<font color="#ebebeb">I want to search for what is a web service</font>
+
+16
+00:00:43,520 --> 00:00:45,568
+<font color="#e5e5e5">The browser comes back with the response</font>
+
+17
+00:00:46,592 --> 00:00:47,360
+<font color="#f6f6f6">I can choose</font>
+
+18
+00:00:47,616 --> 00:00:48,384
+<font color="#efefef">One of these days</font>
+
+19
+00:00:50,432 --> 00:00:54,016
+<font color="#d7d7d7">Cricket and I can choose any of the link such a pleasant</font>
+
+20
+00:00:54,784 --> 00:00:55,808
+<font color="#a8a8a8">Hear ASL</font>
+
+21
+00:00:56,064 --> 00:00:56,832
+<font color="#f4f4f4">This is how we</font>
+
+22
+00:01:02,976 --> 00:01:07,840
+<font color="#bcbcbc">Things which were happening in the background please how was simple infraction</font>
+
+23
+00:01:08,096 --> 00:01:10,656
+<font color="#cccccc">Happens within the browser and any of</font>
+
+24
+00:01:10,912 --> 00:01:13,472
+<font color="#e2e2e2">Service of the websites you are visiting</font>
+
+25
+00:01:13,984 --> 00:01:15,008
+<font color="#c0c0c0">Example Google</font>
+
+26
+00:01:15,776 --> 00:01:16,544
+<font color="#d7d7d7">What happens is</font>
+
+27
+00:01:20,128 --> 00:01:21,920
+<font color="#fbfbfb">Request is being sent</font>
+
+28
+00:01:22,176 --> 00:01:22,688
+<font color="#cfcfcf">Today</font>
+
+29
+00:01:22,944 --> 00:01:24,224
+<font color="#bababa">Website server</font>
+
+30
+00:01:24,992 --> 00:01:28,832
+<font color="#d6d6d6">And the website to respond back with a response</font>
+
+31
+00:01:29,344 --> 00:01:31,904
+<font color="#ebebeb">Important thing that you need to talk about</font>
+
+32
+00:01:32,928 --> 00:01:33,440
+<font color="#fcfcfc">What is</font>
+
+33
+00:01:33,696 --> 00:01:35,744
+<font color="#fcfcfc">Format of this request</font>
+
+34
+00:01:36,000 --> 00:01:37,280
+<font color="#9c9c9c">Respond</font>
+
+35
+00:01:37,536 --> 00:01:39,328
+<font color="#fafafa">Request and response</font>
+
+36
+00:01:40,608 --> 00:01:42,912
+<font color="#a1a1a1">Define</font>
+
+37
+00:01:45,216 --> 00:01:45,984
+<font color="#fcfcfc">Hypertext</font>
+
+38
+00:01:46,496 --> 00:01:48,032
+<font color="#fcfcfc">Transfer protocol</font>
+
+39
+00:01:49,824 --> 00:01:51,104
+<font color="#f6f6f6">In a URL</font>
+
+40
+00:01:51,360 --> 00:01:52,384
+<font color="#d6d6d6">In the browser</font>
+
+41
+00:01:52,896 --> 00:01:53,664
+<font color="#adadad">Lipsense</font>
+
+42
+00:01:54,176 --> 00:01:55,200
+<font color="#d1d1d1">Agate request</font>
+
+43
+00:01:56,992 --> 00:01:59,040
+<font color="#e2e2e2">The server response back</font>
+
+44
+00:01:59,296 --> 00:02:00,064
+<font color="#f1f1f1">With a history</font>
+
+45
+00:02:00,320 --> 00:02:01,600
+<font color="#d1d1d1">ATP response</font>
+
+46
+00:02:02,112 --> 00:02:04,416
+<font color="#eaeaea">Containing the HTML</font>
+
+47
+00:02:07,232 --> 00:02:09,280
+<font color="#dfdfdf">Andy serwer is sending back</font>
+
+48
+00:02:09,792 --> 00:02:10,816
+<font color="#b7b7b7">Response</font>
+
+49
+00:02:11,328 --> 00:02:12,864
+<font color="#d2d2d2">HDPE response</font>
+
+50
+00:02:13,376 --> 00:02:15,168
+<font color="#e7e7e7">Containing the HTML</font>
+
+51
+00:02:15,936 --> 00:02:16,960
+<font color="#f1f1f1">The browser</font>
+
+52
+00:02:17,216 --> 00:02:18,496
+<font color="#c2c2c2">Looks like that response</font>
+
+53
+00:02:18,752 --> 00:02:20,032
+<font color="#fcfcfc">Dixie HTML</font>
+
+54
+00:02:20,288 --> 00:02:21,824
+<font color="#c5c5c5">And this place it on this</font>
+
+55
+00:02:22,592 --> 00:02:25,152
+<font color="#e9e9e9">Listen to the form I'm filling up with a list of them</font>
+
+56
+00:02:25,408 --> 00:02:27,712
+<font color="#d5d5d5">Details and submit button</font>
+
+57
+00:02:28,224 --> 00:02:29,248
+<font color="#a3a3a3">Emboss conductive</font>
+
+58
+00:02:29,504 --> 00:02:30,016
+<font color="#f4f4f4">Scenarios</font>
+
+59
+00:02:30,272 --> 00:02:31,040
+<font color="#fcfcfc">Typically</font>
+
+60
+00:02:31,296 --> 00:02:33,856
+<font color="#e7e7e7">Via creating a post request</font>
+
+61
+00:02:34,368 --> 00:02:35,392
+<font color="#d6d6d6">HDPE Define</font>
+
+62
+00:02:40,256 --> 00:02:41,536
+<font color="#ededed">Along with the response</font>
+
+63
+00:02:43,328 --> 00:02:44,864
+<font color="#d0d0d0">Saudi body</font>
+
+64
+00:02:45,376 --> 00:02:46,656
+<font color="#dfdfdf">Addition</font>
+
+65
+00:02:46,912 --> 00:02:48,192
+<font color="#dddddd">Request header</font>
+
+66
+00:02:48,448 --> 00:02:49,984
+<font color="#949494">Andy requestbody</font>
+
+67
+00:02:50,240 --> 00:02:52,288
+<font color="#dddddd">HDPE also defines</font>
+
+68
+00:02:52,544 --> 00:02:53,568
+<font color="#fcfcfc">Something called</font>
+
+69
+00:02:53,824 --> 00:02:54,336
+<font color="#e4e4e4">Request</font>
+
+70
+00:02:54,848 --> 00:02:55,616
+<font color="#dddddd">Methods</font>
+
+71
+00:02:55,872 --> 00:02:57,152
+<font color="#fcfcfc">You can indicate</font>
+
+72
+00:02:57,408 --> 00:02:59,200
+<font color="#dcdcdc">What chain you are doing</font>
+
+73
+00:03:01,504 --> 00:03:02,528
+<font color="#afafaf">Request methods</font>
+
+74
+00:03:03,040 --> 00:03:04,832
+<font color="#d1d1d1">Get I'm trying to get the D</font>
+
+75
+00:03:05,088 --> 00:03:05,856
+<font color="#d8d8d8">Dates of Summer</font>
+
+76
+00:03:07,392 --> 00:03:08,160
+<font color="#ebebeb">I'm trying to</font>
+
+77
+00:03:08,416 --> 00:03:09,440
+<font color="#fcfcfc">Create something</font>
+
+78
+00:03:10,208 --> 00:03:11,744
+<font color="#ededed">I'm trying to update</font>
+
+79
+00:03:12,256 --> 00:03:17,120
+<font color="#fcfcfc">HTTP response on the other hand will also include</font>
+
+80
+00:03:17,376 --> 00:03:19,424
+<font color="#e7e7e7">HTTP response</font>
+
+81
+00:03:19,680 --> 00:03:20,704
+<font color="#e7e7e7">Data School</font>
+
+82
+00:03:20,960 --> 00:03:22,240
+<font color="#c4c4c4">Was it successful</font>
+
+83
+00:03:22,496 --> 00:03:24,800
+<font color="#eeeeee">What is not found 404</font>
+
+84
+00:03:25,312 --> 00:03:26,592
+<font color="#fcfcfc">And things like that</font>
+
+85
+00:03:26,848 --> 00:03:28,128
+<font color="#acacac">Troy Fielding set</font>
+
+86
+00:03:28,384 --> 00:03:30,432
+<font color="#ebebeb">Why do we need to reinvent the wheel</font>
+
+87
+00:03:30,944 --> 00:03:31,968
+<font color="#dbdbdb">Make</font>
+
+88
+00:03:32,224 --> 00:03:33,504
+<font color="#818181">Yusuf hdb</font>
+
+89
+00:03:33,760 --> 00:03:36,832
+<font color="#b4b4b4">To develop our web services as well</font>
+
+90
+00:03:37,344 --> 00:03:38,368
+<font color="#fcfcfc">And that's weird</font>
+
+91
+00:03:38,624 --> 00:03:41,952
+<font color="#f9f9f9">The concept of restful web services</font>
+
+92
+00:03:44,000 --> 00:03:45,536
+<font color="#fcfcfc">Restful web services</font>
+
+93
+00:03:45,792 --> 00:03:46,304
+<font color="#cfcfcf">Tri</font>
+
+94
+00:03:46,560 --> 00:03:48,096
+<font color="#ededed">Define services</font>
+
+95
+00:03:48,352 --> 00:03:52,448
+<font color="#f5f5f5">Choosing the different concepts that are already present</font>
+
+96
+00:03:54,752 --> 00:03:56,288
+<font color="#e8e8e8">Most important apps</font>
+
+97
+00:03:56,544 --> 00:03:57,056
+<font color="#b4b4b4">Destruction</font>
+
+98
+00:03:57,312 --> 00:03:58,080
+<font color="#bdbdbd">Andreas</font>
+
+99
+00:03:58,592 --> 00:04:00,128
+<font color="#d8d8d8">Something called</font>
+
+100
+00:04:01,152 --> 00:04:02,688
+<font color="#d3d3d3">Anything</font>
+
+101
+00:04:02,944 --> 00:04:04,480
+<font color="#f6f6f6">That you'd want</font>
+
+102
+00:04:04,736 --> 00:04:06,528
+<font color="#fcfcfc">Exposed to the outside world</font>
+
+103
+00:04:06,784 --> 00:04:07,552
+<font color="#b1b1b1">Who You Are</font>
+
+104
+00:04:11,904 --> 00:04:13,184
+<font color="#9c9c9c">Education did users</font>
+
+105
+00:04:15,232 --> 00:04:16,000
+<font color="#e5e5e5">Who is using it</font>
+
+106
+00:04:18,047 --> 00:04:19,327
+<font color="#fafafa">What are the two deuce</font>
+
+107
+00:04:19,583 --> 00:04:25,727
+<font color="#e2e2e2">Also can be a resource a specific to do is a resource list of Truth is also a research</font>
+
+108
+00:04:29,823 --> 00:04:31,871
+<font color="#e9e9e9">We are always thinking about</font>
+
+109
+00:04:32,383 --> 00:04:33,151
+<font color="#f0f0f0">Resources</font>
+
+110
+00:04:33,919 --> 00:04:36,223
+<font color="#e4e4e4">What are the resources in my app</font>
+
+111
+00:04:36,479 --> 00:04:42,623
+<font color="#e2e2e2">Application how to do a user a list of to do what we do is we would assign a URI</font>
+
+112
+00:04:44,927 --> 00:04:45,439
+<font color="#fcfcfc">Resource</font>
+
+113
+00:04:45,951 --> 00:04:46,975
+<font color="#999999">For example</font>
+
+114
+00:04:47,487 --> 00:04:47,999
+<font color="#c3c3c3">DUI rates</font>
+
+115
+00:04:48,255 --> 00:04:48,767
+<font color="#dddddd">The resource</font>
+
+116
+00:04:49,023 --> 00:04:49,535
+<font color="#a6a6a6">Panda</font>
+
+117
+00:04:49,791 --> 00:04:50,815
+<font color="#c4c4c4">Is/user</font>
+
+118
+00:04:51,583 --> 00:04:52,863
+<font color="#dedede">You are right</font>
+
+119
+00:04:56,703 --> 00:04:57,983
+<font color="#afafaf">Flash user manga</font>
+
+120
+00:04:59,263 --> 00:05:00,287
+<font color="#d0d0d0">Do you want to eat</font>
+
+121
+00:05:00,543 --> 00:05:02,335
+<font color="#cacaca">First Resource that ranga has</font>
+
+122
+00:05:03,359 --> 00:05:04,895
+<font color="#dbdbdb">You are stronger</font>
+
+123
+00:05:12,575 --> 00:05:13,343
+<font color="#cacaca">Resort</font>
+
+124
+00:05:14,111 --> 00:05:14,623
+<font color="#dcdcdc">Wrist</font>
+
+125
+00:05:14,879 --> 00:05:16,159
+<font color="#f2f2f2">Does not worry about</font>
+
+126
+00:05:20,511 --> 00:05:21,279
+<font color="#f2f2f2">Is it HTML</font>
+
+127
+00:05:21,791 --> 00:05:22,559
+<font color="#eeeeee">Is it Jason</font>
+
+128
+00:05:23,071 --> 00:05:24,351
+<font color="#f7f7f7">That does not really matter</font>
+
+129
+00:05:24,607 --> 00:05:25,887
+<font color="#fcfcfc">The most important thing</font>
+
+130
+00:05:26,399 --> 00:05:28,959
+<font color="#e8e8e8">Is it fact that you define your resource</font>
+
+131
+00:05:29,727 --> 00:05:32,543
+<font color="#eaeaea">And perform the actions on the results</font>
+
+132
+00:05:36,639 --> 00:05:39,199
+<font color="#f0f0f0">Just like we discussed earlier if I want to create a resource</font>
+
+133
+00:05:39,711 --> 00:05:40,991
+<font color="#eeeeee">I would do a post</font>
+
+134
+00:05:41,247 --> 00:05:43,807
+<font color="#b9b9b9">2 / users if I wanted to eat something</font>
+
+135
+00:05:44,063 --> 00:05:44,831
+<font color="#dcdcdc">You would delete</font>
+
+136
+00:05:45,087 --> 00:05:46,879
+<font color="#e0e0e0">2 / user / 1</font>
+
+137
+00:05:47,903 --> 00:05:50,719
+<font color="#d6d6d6">Flash users get / user / 1</font>
+
+138
+00:05:50,975 --> 00:05:52,767
+<font color="#e0e0e0">Important thing about rest</font>
+
+139
+00:05:53,023 --> 00:05:53,791
+<font color="#cfcfcf">Is the fat</font>
+
+140
+00:05:55,071 --> 00:05:55,583
+<font color="#f0f0f0">You have to</font>
+
+141
+00:05:55,839 --> 00:06:00,703
+<font color="#ebebeb">Think in terms of resources</font>
+
+142
+00:06:00,959 --> 00:06:02,751
+<font color="#d7d7d7">Location that you would want to expose</font>
+
+143
+00:06:03,519 --> 00:06:04,799
+<font color="#f8f8f8">Other applications</font>
+
+144
+00:06:06,079 --> 00:06:06,847
+<font color="#dcdcdc">Second thing</font>
+
+145
+00:06:09,919 --> 00:06:12,479
+<font color="#eaeaea">If you want to do any operations on the resource</font>
+
+146
+00:06:12,735 --> 00:06:13,503
+<font color="#e2e2e2">You have to use</font>
+
+147
+00:06:13,759 --> 00:06:14,271
+<font color="#b7b7b7">Develops</font>
+
+148
+00:06:14,527 --> 00:06:17,087
+<font color="#d4d4d4">Picture quality specified by</font>
+
+149
+00:06:20,415 --> 00:06:21,951
+<font color="#e2e2e2">And things like that dress</font>
+
+150
+00:06:22,207 --> 00:06:26,047
+<font color="#fcfcfc">We don't really have any restriction on the data exchange format</font>
+
+151
+00:06:26,559 --> 00:06:32,703
+<font color="#e4e4e4">Why Jason is very popular race does not worry whether you using Json XML or whatever format</font>
+
+152
+00:06:32,959 --> 00:06:33,471
+<font color="#dfdfdf">I want to use</font>
+
+153
+00:06:33,727 --> 00:06:36,287
+<font color="#f6f6f6">Important thing is transport is always</font>
+
+154
+00:06:36,543 --> 00:06:37,311
+<font color="#d6d6d6">Http</font>
+
+155
+00:06:37,823 --> 00:06:40,383
+<font color="#dcdcdc">Left is completely built on top of it</font>
+
+156
+00:06:41,151 --> 00:06:44,479
+<font color="#d4d4d4">There's no standard service definition which is attached</font>
+
+157
+00:06:45,247 --> 00:06:51,391
+<font color="#dadada">That can be a drawback in some scenarios because when a client wants to consume a service</font>
+
+158
+00:06:51,647 --> 00:06:57,791
+<font color="#b7b7b7">Request format and response format to a service definition v w a d l</font>
+
+159
+00:06:58,559 --> 00:07:00,095
+<font color="#bfbfbf">Vacation</font>
+
+160
+00:07:00,351 --> 00:07:06,495
+<font color="#e0e0e0">Definition language Bible is one of the forms in which you can specify your dress. Services</font>
+
+161
+00:07:09,823 --> 00:07:12,639
+<font color="#f8f8f8">Swaggin swaggin is gaining a lot of popularity</font>
+
+162
+00:07:12,895 --> 00:07:14,943
+<font color="#d7d7d7">Andy would you Swagger in this course</font>
+
+163
+00:07:19,039 --> 00:07:22,879
+<font color="#f8f8f8">How do you perform actions on them</font>
+
+164
+00:07:23,135 --> 00:07:23,903
+<font color="#f6f6f6">Making best</font>
+
+165
+00:07:24,159 --> 00:07:24,927
+<font color="#e0e0e0">She was off</font>

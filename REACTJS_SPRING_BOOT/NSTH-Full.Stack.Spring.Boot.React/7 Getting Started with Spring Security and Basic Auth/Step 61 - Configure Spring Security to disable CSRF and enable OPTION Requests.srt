@@ -1,0 +1,535 @@
+﻿1
+00:00:01,792 --> 00:00:02,560
+<font color="#fcfcfc">Welcome</font>
+
+2
+00:00:04,608 --> 00:00:07,936
+<font color="#d9d9d9">Restart that Wendy added authorization headers</font>
+
+3
+00:00:08,192 --> 00:00:09,216
+<font color="#cdcdcd">To request</font>
+
+4
+00:00:09,472 --> 00:00:10,496
+<font color="#e1e1e1">What is happening</font>
+
+5
+00:00:10,752 --> 00:00:11,776
+<font color="#d4d4d4">What's something Colin</font>
+
+6
+00:00:12,032 --> 00:00:12,800
+<font color="#efefef">Options</font>
+
+7
+00:00:13,056 --> 00:00:14,080
+<font color="#e3e3e3">Method request</font>
+
+8
+00:00:17,920 --> 00:00:19,456
+<font color="#989898">4D results happened</font>
+
+9
+00:00:19,712 --> 00:00:21,504
+<font color="#dddddd">What happens if Venable you</font>
+
+10
+00:00:26,368 --> 00:00:27,648
+<font color="#f8f8f8">What happens is a</font>
+
+11
+00:00:27,904 --> 00:00:28,928
+<font color="#b6b6b6">PreFlight</font>
+
+12
+00:00:29,184 --> 00:00:29,696
+<font color="#e1e1e1">Request</font>
+
+13
+00:00:30,208 --> 00:00:32,000
+<font color="#dedede">The before sending the complete request</font>
+
+14
+00:00:32,512 --> 00:00:33,280
+<font color="#e7e7e7">What happens</font>
+
+15
+00:00:33,536 --> 00:00:37,888
+<font color="#f4f4f4">He's a request call options request is sent to check</font>
+
+16
+00:00:38,144 --> 00:00:39,936
+<font color="#f9f9f9">If you have the right permissions</font>
+
+17
+00:00:40,192 --> 00:00:41,216
+<font color="#f8f8f8">And what is happening</font>
+
+18
+00:00:41,472 --> 00:00:43,264
+<font color="#dadada">Is that options request</font>
+
+19
+00:00:43,520 --> 00:00:44,800
+<font color="#eaeaea">Is being denied</font>
+
+20
+00:00:45,056 --> 00:00:45,824
+<font color="#dadada">Right now</font>
+
+21
+00:00:46,080 --> 00:00:48,384
+<font color="#e1e1e1">What we do in the step is will fix this</font>
+
+22
+00:00:48,640 --> 00:00:50,944
+<font color="#d3d3d3">The other thing which will be working on in this Pacific</font>
+
+23
+00:00:51,200 --> 00:00:52,992
+<font color="#cecece">It's something called CS</font>
+
+24
+00:00:54,272 --> 00:00:55,040
+<font color="#8d8d8d">Cross-eyed</font>
+
+25
+00:00:55,296 --> 00:00:56,064
+<font color="#efefef">Request</font>
+
+26
+00:00:56,320 --> 00:00:56,832
+<font color="#fbfbfb">Forgery</font>
+
+27
+00:00:58,624 --> 00:00:59,392
+<font color="#f1f1f1">Focusing</font>
+
+28
+00:00:59,648 --> 00:01:02,208
+<font color="#d4d4d4">On how to connect with sling security</font>
+
+29
+00:01:04,768 --> 00:01:06,560
+<font color="#d9d9d9">Open up control safety</font>
+
+30
+00:01:06,816 --> 00:01:09,120
+<font color="#c6c6c6">350 Hotel Elvis to open up any</font>
+
+31
+00:01:09,632 --> 00:01:12,192
+<font color="#e0e0e0">Class which is already defined as part of</font>
+
+32
+00:01:16,032 --> 00:01:17,568
+<font color="#9b9b9b">Send typing WS</font>
+
+33
+00:01:17,824 --> 00:01:18,336
+<font color="#a3a3a3">CA</font>
+
+34
+00:01:21,664 --> 00:01:23,456
+<font color="#a5a5a5">Configurator</font>
+
+35
+00:01:27,808 --> 00:01:31,136
+<font color="#fcfcfc">Which contains the default security configuration</font>
+
+36
+00:01:31,392 --> 00:01:33,184
+<font color="#cdcdcd">Spring Security</font>
+
+37
+00:01:33,696 --> 00:01:36,512
+<font color="#eaeaea">Did I divide variety of methods which are present in here</font>
+
+38
+00:01:37,792 --> 00:01:40,096
+<font color="#ededed">Helpers configure only security</font>
+
+39
+00:01:40,352 --> 00:01:41,120
+<font color="#e9e9e9">That the</font>
+
+40
+00:01:41,632 --> 00:01:43,168
+<font color="#e2e2e2">Insecurities providing by the</font>
+
+41
+00:01:44,192 --> 00:01:49,568
+<font color="#e5e5e5">The specific method which we are interested in is configure HTTP security</font>
+
+42
+00:01:50,336 --> 00:01:51,360
+<font color="#f6f6f6">This is the method which</font>
+
+43
+00:01:51,872 --> 00:01:52,640
+<font color="#9b9b9b">He's president</font>
+
+44
+00:01:53,152 --> 00:01:53,920
+<font color="#f5f5f5">You can see that</font>
+
+45
+00:01:54,176 --> 00:01:57,248
+<font color="#fbfbfb">You can order this method to configure specific</font>
+
+46
+00:01:57,760 --> 00:01:59,552
+<font color="#cccccc">HTTP security</font>
+
+47
+00:02:00,064 --> 00:02:04,160
+<font color="#cfcfcf">You can see the default implementation of the specific method as well</font>
+
+48
+00:02:04,672 --> 00:02:10,816
+<font color="#d2d2d2">So what I do is I'll start with copying the default implementation of this method and let's override is to</font>
+
+49
+00:02:11,072 --> 00:02:12,608
+<font color="#f0f0f0">Solve problems with</font>
+
+50
+00:02:12,864 --> 00:02:13,632
+<font color="#cdcdcd">Options</font>
+
+51
+00:02:14,144 --> 00:02:14,656
+<font color="#959595">SLS</font>
+
+52
+00:02:14,912 --> 00:02:16,960
+<font color="#e1e1e1">Disable something called csrf</font>
+
+53
+00:02:17,216 --> 00:02:18,496
+<font color="#f9f9f9">OK Google create a new class</font>
+
+54
+00:02:19,776 --> 00:02:20,288
+<font color="#e5e5e5">Nucleus</font>
+
+55
+00:02:20,800 --> 00:02:22,080
+<font color="#ebebeb">And I cleaned it in the package</font>
+
+56
+00:02:22,592 --> 00:02:23,104
+<font color="#e5e5e5">.</font>
+
+57
+00:02:23,616 --> 00:02:24,128
+<font color="#fcfcfc">Basic</font>
+
+58
+00:02:25,408 --> 00:02:28,736
+<font color="#e6e6e6">Cited dogmatic. That's a package in which I'm creating it</font>
+
+59
+00:02:29,248 --> 00:02:29,760
+<font color="#dbdbdb">And</font>
+
+60
+00:02:31,040 --> 00:02:32,320
+<font color="#f6f6f6">Spring Security</font>
+
+61
+00:02:32,832 --> 00:02:33,856
+<font color="#ededed">Configuration</font>
+
+62
+00:02:34,112 --> 00:02:34,624
+<font color="#fcfcfc">Basic</font>
+
+63
+00:02:36,672 --> 00:02:37,440
+<font color="#eeeeee">LA Fitness</font>
+
+64
+00:02:37,952 --> 00:02:39,744
+<font color="#e1e1e1">What do you want to do if you would want to ask</font>
+
+65
+00:02:40,000 --> 00:02:40,512
+<font color="#d6d6d6">Staind</font>
+
+66
+00:02:40,768 --> 00:02:41,536
+<font color="#b4b4b4">WS</font>
+
+67
+00:02:41,792 --> 00:02:43,584
+<font color="#e2e2e2">CMM security configure</font>
+
+68
+00:02:43,840 --> 00:02:45,632
+<font color="#9b9b9b">Confederate control space</font>
+
+69
+00:02:46,400 --> 00:02:49,728
+<font color="#eaeaea">Is the method which we copied from</font>
+
+70
+00:02:50,496 --> 00:02:51,776
+<font color="#e1e1e1">It's the Moody</font>
+
+71
+00:02:52,032 --> 00:02:54,848
+<font color="#f1f1f1">Let's maximize this so that we can see the entire screen</font>
+
+72
+00:02:55,104 --> 00:02:56,384
+<font color="#e4e4e4">It's the movies line of code</font>
+
+73
+00:02:58,176 --> 00:02:59,712
+<font color="#e4e4e4">Consecration contains</font>
+
+74
+00:02:59,968 --> 00:03:01,760
+<font color="#c8c8c8">Spring configuration title answers</font>
+
+75
+00:03:02,016 --> 00:03:03,040
+<font color="#989898">Echo integration</font>
+
+76
+00:03:03,552 --> 00:03:04,832
+<font color="#fcfcfc">Let's enable</font>
+
+77
+00:03:05,088 --> 00:03:05,856
+<font color="#f0f0f0">Spring Security</font>
+
+78
+00:03:06,368 --> 00:03:06,880
+<font color="#d8d8d8">And it will</font>
+
+79
+00:03:07,392 --> 00:03:08,672
+<font color="#d6d6d6">Actually enable</font>
+
+80
+00:03:08,928 --> 00:03:09,952
+<font color="#ededed">Web security</font>
+
+81
+00:03:10,208 --> 00:03:11,232
+<font color="#fafafa">This is defined in</font>
+
+82
+00:03:11,488 --> 00:03:12,512
+<font color="#bababa">Insecurities</font>
+
+83
+00:03:12,768 --> 00:03:13,792
+<font color="#f5f5f5">Enable</font>
+
+84
+00:03:14,304 --> 00:03:15,840
+<font color="#eaeaea">Spring Security configuration</font>
+
+85
+00:03:16,096 --> 00:03:21,472
+<font color="#dfdfdf">So this is to enable spring configuration sadistic and a spring configuration that's what we're telling</font>
+
+86
+00:03:21,728 --> 00:03:26,080
+<font color="#d4d4d4">By adding a configuration and network security configuration enable web security</font>
+
+87
+00:03:26,336 --> 00:03:27,360
+<font color="#c7c7c7">It's okay Daddy</font>
+
+88
+00:03:27,872 --> 00:03:28,896
+<font color="#fcfcfc">Configuration file</font>
+
+89
+00:03:30,176 --> 00:03:31,456
+<font color="#f9f9f9">Spring Security configuration</font>
+
+90
+00:03:31,968 --> 00:03:34,016
+<font color="#cacaca">Let's do that enable Spring Security</font>
+
+91
+00:03:34,528 --> 00:03:35,040
+<font color="#f5f5f5">Enough</font>
+
+92
+00:03:35,296 --> 00:03:37,856
+<font color="#eeeeee">You can go ahead and customize this</font>
+
+93
+00:03:38,368 --> 00:03:39,648
+<font color="#bbbbbb">Aladdin</font>
+
+94
+00:03:39,904 --> 00:03:40,672
+<font color="#e8e8e8">Override</font>
+
+95
+00:03:41,184 --> 00:03:42,464
+<font color="#dddddd">Annotation to set</font>
+
+96
+00:03:42,720 --> 00:03:44,768
+<font color="#e9e9e9">That we are actually or I do</font>
+
+97
+00:03:45,280 --> 00:03:45,792
+<font color="#b3b3b3">The method</font>
+
+98
+00:03:47,328 --> 00:03:49,888
+<font color="#efefef">His mode of a convention is not really needed</font>
+
+99
+00:03:50,144 --> 00:03:51,680
+<font color="#f9f9f9">What are the things I would start doing</font>
+
+100
+00:03:51,936 --> 00:03:54,240
+<font color="#d4d4d4">I don't really want to allow form login</font>
+
+101
+00:03:55,264 --> 00:03:56,544
+<font color="#bdbdbd">Disable form login</font>
+
+102
+00:03:57,312 --> 00:03:59,104
+<font color="#f3f3f3">The other thing I would want to disable</font>
+
+103
+00:03:59,360 --> 00:03:59,872
+<font color="#adadad">Thesaurus</font>
+
+104
+00:04:00,384 --> 00:04:01,920
+<font color="#e2e2e2">Csrf Woodforest</font>
+
+105
+00:04:02,176 --> 00:04:03,200
+<font color="#dfdfdf">Opposed</font>
+
+106
+00:04:03,456 --> 00:04:04,480
+<font color="#bfbfbf">Put request</font>
+
+107
+00:04:04,736 --> 00:04:07,808
+<font color="#e3e3e3">They want me to start having something called a csrf token</font>
+
+108
+00:04:08,064 --> 00:04:14,208
+<font color="#e4e4e4">I can later point in time we'll be using JWT Json web token so the option to choose to prevent cross-site</font>
+
+109
+00:04:14,720 --> 00:04:15,488
+<font color="#838383">Pooja dataquest</font>
+
+110
+00:04:15,744 --> 00:04:16,256
+<font color="#8c8c8c">You still use</font>
+
+111
+00:04:16,512 --> 00:04:20,095
+<font color="#b2b2b2">JWT token tobillo use the csrf token so I disabled it</font>
+
+112
+00:04:20,351 --> 00:04:23,423
+<font color="#f1f1f1">The other thing I would want to do is I would want I love Dupree</font>
+
+113
+00:04:23,679 --> 00:04:28,287
+<font color="#e5e5e5">Flight request I would want to allow pre-flight request to all the URL</font>
+
+114
+00:04:28,799 --> 00:04:30,335
+<font color="#d2d2d2">Pre-flight request</font>
+
+115
+00:04:30,591 --> 00:04:32,895
+<font color="#e8e8e8">Is an options request</font>
+
+116
+00:04:33,407 --> 00:04:34,431
+<font color="#c3c3c3">How to say</font>
+
+117
+00:04:34,687 --> 00:04:35,199
+<font color="#fcfcfc">Mattress</font>
+
+118
+00:04:40,575 --> 00:04:42,111
+<font color="#d9d9d9">To any options method</font>
+
+119
+00:04:42,879 --> 00:04:48,511
+<font color="#ebebeb">Any URL how do you spell any URL</font>
+
+120
+00:04:49,791 --> 00:04:51,327
+<font color="#bdbdbd">What I would want to do is</font>
+
+121
+00:04:51,583 --> 00:04:52,863
+<font color="#fafafa">Put anything matching this</font>
+
+122
+00:04:53,375 --> 00:04:55,679
+<font color="#ececec">When any options request comes to any URL</font>
+
+123
+00:04:55,935 --> 00:04:58,751
+<font color="#f6f6f6">What do you want to do you want to meet everybody</font>
+
+124
+00:04:59,007 --> 00:05:01,823
+<font color="#e0e0e0">So we would want to enable all the options requests</font>
+
+125
+00:05:02,079 --> 00:05:07,199
+<font color="#eaeaea">Without authentication and all the other request I love them to use</font>
+
+126
+00:05:07,455 --> 00:05:08,479
+<font color="#b9b9b9">Https important</font>
+
+127
+00:05:10,015 --> 00:05:13,343
+<font color="#e9e9e9">This might look complex but actually it's very simple be disabled</font>
+
+128
+00:05:13,855 --> 00:05:14,623
+<font color="#ececec">Thesaurus</font>
+
+129
+00:05:23,583 --> 00:05:24,607
+<font color="#c0c0c0">855</font>
+
+130
+00:05:25,631 --> 00:05:26,399
+<font color="#f5f5f5">Basically</font>
+
+131
+00:05:26,655 --> 00:05:29,727
+<font color="#e7e7e7">I didn't a little bit of Spring Security configuration</font>
+
+132
+00:05:30,239 --> 00:05:32,543
+<font color="#cdcdcd">Toby disable csrf V alarm</font>
+
+133
+00:05:37,407 --> 00:05:39,199
+<font color="#fcfcfc">We just wanted to use HTTP basic</font>
+
+134
+00:05:39,967 --> 00:05:41,759
+<font color="#cccccc">I thought you was my next</font>

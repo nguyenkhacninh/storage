@@ -1,0 +1,799 @@
+﻿1
+00:00:02,816 --> 00:00:03,328
+<font color="#fcfcfc">Welcome</font>
+
+2
+00:00:05,120 --> 00:00:06,912
+<font color="#c3c3c3">Bearded configuration to allow</font>
+
+3
+00:00:07,168 --> 00:00:07,936
+<font color="#ededed">Options</font>
+
+4
+00:00:08,192 --> 00:00:08,704
+<font color="#efefef">Request</font>
+
+5
+00:00:12,544 --> 00:00:15,104
+<font color="#f3f3f3">Important things that I would recommend you to do this</font>
+
+6
+00:00:15,616 --> 00:00:17,152
+<font color="#f5f5f5">Make sure that you stop</font>
+
+7
+00:00:18,176 --> 00:00:18,688
+<font color="#b4b4b4">Died</font>
+
+8
+00:00:18,944 --> 00:00:20,480
+<font color="#c0c0c0">Your back and compete</font>
+
+9
+00:00:20,736 --> 00:00:23,040
+<font color="#f9f9f9">To make sure that you are resetting the entire</font>
+
+10
+00:00:23,296 --> 00:00:25,344
+<font color="#f5f5f5">Restful web services web application</font>
+
+11
+00:00:25,600 --> 00:00:28,928
+<font color="#e4e4e4">This would ensure that the entire security configuration is refreshed</font>
+
+12
+00:00:29,184 --> 00:00:29,696
+<font color="#fcfcfc">Enough</font>
+
+13
+00:00:29,952 --> 00:00:32,000
+<font color="#f0f0f0">You can go over to the front end</font>
+
+14
+00:00:32,256 --> 00:00:32,768
+<font color="#fcfcfc">Antique</font>
+
+15
+00:00:33,280 --> 00:00:34,048
+<font color="#afafaf">Nick welcome message</font>
+
+16
+00:00:34,816 --> 00:00:35,328
+<font color="#bdbdbd">Uxie</font>
+
+17
+00:00:35,584 --> 00:00:36,352
+<font color="#e3e3e3">That the</font>
+
+18
+00:00:36,608 --> 00:00:38,400
+<font color="#e2e2e2">Request is now succeeding</font>
+
+19
+00:00:39,424 --> 00:00:41,472
+<font color="#e8e8e8">Thank you. Cancel completely</font>
+
+20
+00:00:42,240 --> 00:00:43,264
+<font color="#fcfcfc">Close the browser</font>
+
+21
+00:00:44,032 --> 00:00:45,824
+<font color="#f6f6f6">Came back again to the screen</font>
+
+22
+00:00:46,080 --> 00:00:48,640
+<font color="#cccccc">And now thank you to get ready</font>
+
+23
+00:00:48,896 --> 00:00:51,456
+<font color="#bebebe">I saw that they were to request that were being sent</font>
+
+24
+00:00:51,968 --> 00:00:54,272
+<font color="#ebebeb">First one is the options request</font>
+
+25
+00:00:54,528 --> 00:00:55,296
+<font color="#f5f5f5">And the second one</font>
+
+26
+00:00:55,552 --> 00:00:56,832
+<font color="#f1f1f1">Is a get request</font>
+
+27
+00:00:57,344 --> 00:01:00,928
+<font color="#fcfcfc">Authorization request</font>
+
+28
+00:01:01,184 --> 00:01:04,000
+<font color="#f7f7f7">The first time the authorization request is sent</font>
+
+29
+00:01:04,256 --> 00:01:05,280
+<font color="#e6e6e6">What happens is a</font>
+
+30
+00:01:05,536 --> 00:01:06,816
+<font color="#f2f2f2">Pre-flight request</font>
+
+31
+00:01:07,072 --> 00:01:09,120
+<font color="#d7d7d7">STD is called the options request</font>
+
+32
+00:01:09,632 --> 00:01:11,936
+<font color="#f4f4f4">And that's what we enable in the previous step</font>
+
+33
+00:01:12,192 --> 00:01:13,984
+<font color="#cacaca">And once we decided</font>
+
+34
+00:01:14,240 --> 00:01:19,616
+<font color="#f2f2f2">The next request was also successfully get request went through fine and we got the response that the expected</font>
+
+35
+00:01:19,872 --> 00:01:22,688
+<font color="#d1d1d1">Baby shooting the screen right now</font>
+
+36
+00:01:23,200 --> 00:01:23,968
+<font color="#eeeeee">That's cool</font>
+
+37
+00:01:25,504 --> 00:01:26,528
+<font color="#dadada">If you go to police</font>
+
+38
+00:01:28,576 --> 00:01:29,344
+<font color="#ececec">Address</font>
+
+39
+00:01:29,856 --> 00:01:31,136
+<font color="#e1e1e1">Visors that are coming up</font>
+
+40
+00:01:31,904 --> 00:01:34,976
+<font color="#d2d2d2">You know why it's coming up right let's go to tadoussac</font>
+
+41
+00:01:35,232 --> 00:01:36,768
+<font color="#e6e6e6">Let's go to home and Toulouse</font>
+
+42
+00:01:37,024 --> 00:01:39,328
+<font color="#dedede">What is happening music with his failing</font>
+
+43
+00:01:39,840 --> 00:01:40,608
+<font color="#c8c8c8">Heather's</font>
+
+44
+00:01:41,120 --> 00:01:42,656
+<font color="#cfcfcf">It is 4 / 1</font>
+
+45
+00:01:43,168 --> 00:01:44,192
+<font color="#f7f7f7">Not authorized</font>
+
+46
+00:01:45,472 --> 00:01:45,984
+<font color="#cfcfcf">Why</font>
+
+47
+00:01:46,240 --> 00:01:47,520
+<font color="#dbdbdb">Why am I getting this</font>
+
+48
+00:01:48,032 --> 00:01:50,592
+<font color="#fcfcfc">It's because the only fixed</font>
+
+49
+00:01:50,848 --> 00:01:52,896
+<font color="#e2e2e2">The Welcome Facebook</font>
+
+50
+00:01:53,152 --> 00:01:55,200
+<font color="#d4d4d4">Specific method to send a header in</font>
+
+51
+00:01:56,224 --> 00:01:56,992
+<font color="#fcfcfc">Is that good</font>
+
+52
+00:01:57,504 --> 00:01:59,040
+<font color="#ebebeb">Yep it's good in the sense that</font>
+
+53
+00:01:59,296 --> 00:02:01,088
+<font color="#b2b2b2">Let's play secret Quest is working but</font>
+
+54
+00:02:01,600 --> 00:02:03,904
+<font color="#969696">It's not letting genderly across the board</font>
+
+55
+00:02:04,672 --> 00:02:08,000
+<font color="#eeeeee">How do we make sure that whatever we are doing here happens for</font>
+
+56
+00:02:08,256 --> 00:02:08,768
+<font color="#d9d9d9">Every</font>
+
+57
+00:02:09,024 --> 00:02:09,792
+<font color="#efefef">Request</font>
+
+58
+00:02:10,560 --> 00:02:12,096
+<font color="#f2f2f2">What you can do is Instagram</font>
+
+59
+00:02:12,352 --> 00:02:13,376
+<font color="#bdbdbd">Adding bahadur</font>
+
+60
+00:02:13,632 --> 00:02:14,912
+<font color="#e2e2e2">Every request</font>
+
+61
+00:02:15,168 --> 00:02:18,240
+<font color="#e8e8e8">Please try and intercept request and add the header</font>
+
+62
+00:02:18,752 --> 00:02:22,080
+<font color="#f1f1f1">How do you define a interceptor</font>
+
+63
+00:02:22,336 --> 00:02:25,152
+<font color="#d8d8d8">What do you want to do if you would want to intercept the request</font>
+
+64
+00:02:25,408 --> 00:02:30,016
+<font color="#e0e0e0">And every request would want to add a authentication header</font>
+
+65
+00:02:30,784 --> 00:02:32,064
+<font color="#dcdcdc">How do we do that with that videos</font>
+
+66
+00:02:32,576 --> 00:02:35,136
+<font color="#f7f7f7">If you go to the APA documentation of axios</font>
+
+67
+00:02:35,392 --> 00:02:38,976
+<font color="#eeeeee">You would see that it's very very easy to intercept request</font>
+
+68
+00:02:39,232 --> 00:02:41,280
+<font color="#bcbcbc">Our sponsors</font>
+
+69
+00:02:41,792 --> 00:02:43,072
+<font color="#f0f0f0">So what do we disagree</font>
+
+70
+00:02:43,328 --> 00:02:43,840
+<font color="#fcfcfc">Create</font>
+
+71
+00:02:44,096 --> 00:02:45,632
+<font color="#e8e8e8">Would be executed</font>
+
+72
+00:02:46,144 --> 00:02:46,912
+<font color="#fcfcfc">Before</font>
+
+73
+00:02:47,168 --> 00:02:47,936
+<font color="#8f8f8f">Behind</font>
+
+74
+00:02:48,192 --> 00:02:49,472
+<font color="#e3e3e3">Bite then</font>
+
+75
+00:02:50,496 --> 00:02:53,568
+<font color="#e2e2e2">Any specific instance what we are interested in</font>
+
+76
+00:02:53,824 --> 00:02:55,616
+<font color="#efefef">Is intercepting the request</font>
+
+77
+00:02:55,872 --> 00:02:58,176
+<font color="#e9e9e9">So what we can do is we can define a</font>
+
+78
+00:02:58,432 --> 00:02:59,200
+<font color="#fcfcfc">Function</font>
+
+79
+00:02:59,456 --> 00:03:01,760
+<font color="#f0f0f0">So we can define a function which defines</font>
+
+80
+00:03:02,272 --> 00:03:03,552
+<font color="#fcfcfc">What should be done</font>
+
+81
+00:03:03,808 --> 00:03:09,952
+<font color="#e7e7e7">So inside the Quan Viet I want to add a header so we can define a function saying I would want to add</font>
+
+82
+00:03:10,208 --> 00:03:12,512
+<font color="#e4e4e4">Syndication head that I would want to pick that data</font>
+
+83
+00:03:19,168 --> 00:03:22,752
+<font color="#dcdcdc">That request. Use and Define a function</font>
+
+84
+00:03:23,008 --> 00:03:25,312
+<font color="#fcfcfc">Defining what needs to be done</font>
+
+85
+00:03:25,568 --> 00:03:26,592
+<font color="#e8e8e8">On this request</font>
+
+86
+00:03:27,104 --> 00:03:30,432
+<font color="#f1f1f1">As you can see in here you can also intercept the response</font>
+
+87
+00:03:30,944 --> 00:03:33,248
+<font color="#f1f1f1">And Define what needs to be done</font>
+
+88
+00:03:33,504 --> 00:03:34,784
+<font color="#fcfcfc">We did that spawns</font>
+
+89
+00:03:35,296 --> 00:03:36,832
+<font color="#c0c0c0">Set up</font>
+
+90
+00:03:37,600 --> 00:03:38,368
+<font color="#fcfcfc">Axios</font>
+
+91
+00:03:39,392 --> 00:03:40,160
+<font color="#fcfcfc">Interceptor</font>
+
+92
+00:03:40,416 --> 00:03:40,928
+<font color="#d6d6d6">It's not</font>
+
+93
+00:03:41,440 --> 00:03:44,000
+<font color="#bababa">Created in Hallowell service because then this would</font>
+
+94
+00:03:44,256 --> 00:03:47,328
+<font color="#d8d8d8">Be completely to be hella Well Service what we'll do is we'll go to the office</font>
+
+95
+00:03:47,584 --> 00:03:48,352
+<font color="#b8b8b8">Butt isolation</font>
+
+96
+00:03:49,888 --> 00:03:51,680
+<font color="#ebebeb">So we already have an authentication Service</font>
+
+97
+00:03:51,936 --> 00:03:54,240
+<font color="#f5f5f5">Let's go there</font>
+
+98
+00:03:54,496 --> 00:03:55,776
+<font color="#a5a5a5">Chocolate syrup</font>
+
+99
+00:03:56,032 --> 00:03:56,800
+<font color="#ebebeb">Axios</font>
+
+100
+00:03:57,568 --> 00:03:58,336
+<font color="#c2c2c2">Interceptor</font>
+
+101
+00:03:59,104 --> 00:04:00,896
+<font color="#ebebeb">What do you want to do you would want to set up an</font>
+
+102
+00:04:01,152 --> 00:04:02,176
+<font color="#d4d4d4">Does a pepper axios</font>
+
+103
+00:04:02,944 --> 00:04:07,808
+<font color="#e7e7e7">Before I'm able to use axios in here I'd need to do it in Port right let's do an import</font>
+
+104
+00:04:08,576 --> 00:04:09,088
+<font color="#fcfcfc">Axios</font>
+
+105
+00:04:09,856 --> 00:04:10,368
+<font color="#e9e9e9">From</font>
+
+106
+00:04:13,440 --> 00:04:15,232
+<font color="#d5d5d5">Oh yeah I can sit axios</font>
+
+107
+00:04:16,512 --> 00:04:17,024
+<font color="#b4b4b4">.</font>
+
+108
+00:04:17,536 --> 00:04:18,815
+<font color="#fcfcfc">Interceptors</font>
+
+109
+00:04:19,071 --> 00:04:21,887
+<font color="#ececec">You can see that there is something called interceptors where you can actually</font>
+
+110
+00:04:22,143 --> 00:04:23,423
+<font color="#fcfcfc">Set up a few things</font>
+
+111
+00:04:24,191 --> 00:04:27,519
+<font color="#d0d0d0">So what do you want to do this we want to set an Interceptor on this request</font>
+
+112
+00:04:28,031 --> 00:04:29,567
+<font color="#b1b1b1">Friend request comes in</font>
+
+113
+00:04:29,823 --> 00:04:30,847
+<font color="#fcfcfc">What do you want to do</font>
+
+114
+00:04:31,615 --> 00:04:33,151
+<font color="#bfbfbf">Used to use my third and</font>
+
+115
+00:04:33,407 --> 00:04:33,919
+<font color="#e8e8e8">Set up</font>
+
+116
+00:04:34,175 --> 00:04:36,479
+<font color="#ededed">What we should do in the specific method</font>
+
+117
+00:04:36,735 --> 00:04:38,783
+<font color="#e2e2e2">What do you need to send to the youth</font>
+
+118
+00:04:39,039 --> 00:04:41,599
+<font color="#f4f4f4">He's an amateur amateur definition</font>
+
+119
+00:04:41,855 --> 00:04:42,879
+<font color="#fcfcfc">You can see that</font>
+
+120
+00:04:43,135 --> 00:04:45,183
+<font color="#d0d0d0">Sensores de config as a</font>
+
+121
+00:04:45,695 --> 00:04:46,207
+<font color="#eaeaea">Input</font>
+
+122
+00:04:46,975 --> 00:04:52,095
+<font color="#e9e9e9">You can just go and fix whatever it is the existing config of the request is the input</font>
+
+123
+00:04:56,191 --> 00:04:56,959
+<font color="#a6a6a6">If you look at</font>
+
+124
+00:04:57,727 --> 00:04:59,263
+<font color="#e6e6e6">Axios. Get request</font>
+
+125
+00:04:59,519 --> 00:05:01,567
+<font color="#b9b9b9">We stand this configuration earlier</font>
+
+126
+00:05:02,335 --> 00:05:04,383
+<font color="#dddddd">That's exactly what we're doing in here with the candy</font>
+
+127
+00:05:04,895 --> 00:05:05,663
+<font color="#c6c6c6">Old country</font>
+
+128
+00:05:05,919 --> 00:05:12,063
+<font color="#e4e4e4">And you would want to add a header to this what he'll do you want to add whatever values we have Spotify</font>
+
+129
+00:05:12,319 --> 00:05:12,831
+<font color="#a3a3a3">Find</font>
+
+130
+00:05:13,599 --> 00:05:15,647
+<font color="#ededed">Let's copy these three things from here</font>
+
+131
+00:05:15,903 --> 00:05:19,231
+<font color="#f0f0f0">And over here what do you want to do this we would want to use this basic</font>
+
+132
+00:05:19,487 --> 00:05:20,255
+<font color="#e8e8e8">How do we do that</font>
+
+133
+00:05:22,559 --> 00:05:23,071
+<font color="#f0f0f0">.</font>
+
+134
+00:05:24,095 --> 00:05:24,607
+<font color="#afafaf">The.</font>
+
+135
+00:05:25,119 --> 00:05:26,399
+<font color="#fcfcfc">Authorization</font>
+
+136
+00:05:27,167 --> 00:05:28,959
+<font color="#f9f9f9">So you want to set the authorization header</font>
+
+137
+00:05:29,471 --> 00:05:30,239
+<font color="#c9c9c9">Do you have what</font>
+
+138
+00:05:30,495 --> 00:05:31,007
+<font color="#c9c9c9">Use</font>
+
+139
+00:05:31,263 --> 00:05:31,775
+<font color="#e5e5e5">This</font>
+
+140
+00:05:32,031 --> 00:05:33,055
+<font color="#d0d0d0">Basic water.</font>
+
+141
+00:05:34,079 --> 00:05:35,871
+<font color="#f8f8f8">One of the things we should be careful about</font>
+
+142
+00:05:36,127 --> 00:05:37,151
+<font color="#e0e0e0">Is B12 do this</font>
+
+143
+00:05:37,407 --> 00:05:39,199
+<font color="#dadada">Only when user is logged in</font>
+
+144
+00:05:39,711 --> 00:05:42,527
+<font color="#ececec">If user is not loading I don't really want to</font>
+
+145
+00:05:42,783 --> 00:05:46,367
+<font color="#dbdbdb">So I say this. Is user login</font>
+
+146
+00:05:46,623 --> 00:05:47,135
+<font color="#fafafa">Then</font>
+
+147
+00:05:47,391 --> 00:05:47,903
+<font color="#cacaca">Do this</font>
+
+148
+00:05:50,463 --> 00:05:53,791
+<font color="#cfcfcf">Adding in a intercept US Weekly the simple method</font>
+
+149
+00:05:54,047 --> 00:05:54,815
+<font color="#d9d9d9">Which ads</font>
+
+150
+00:05:55,327 --> 00:05:56,863
+<font color="#fcfcfc">Authorization header</font>
+
+151
+00:05:57,375 --> 00:05:58,399
+<font color="#b5b5b5">Request</font>
+
+152
+00:05:58,655 --> 00:06:01,471
+<font color="#dddddd">I took this actual thing would intercept every request</font>
+
+153
+00:06:01,727 --> 00:06:04,031
+<font color="#fafafa">I need to add this authorization header</font>
+
+154
+00:06:04,287 --> 00:06:10,431
+<font color="#e0e0e0">This matter once it's updated the convict should return the country back so they should be</font>
+
+155
+00:06:10,687 --> 00:06:11,967
+<font color="#a9a9a9">Return back to lips</font>
+
+156
+00:06:12,223 --> 00:06:13,759
+<font color="#cccccc">Return Decon feedback from</font>
+
+157
+00:06:14,015 --> 00:06:14,783
+<font color="#aaaaaa">Hiiraan</font>
+
+158
+00:06:15,039 --> 00:06:16,575
+<font color="#d4d4d4">Do you want to call this method</font>
+
+159
+00:06:16,831 --> 00:06:19,391
+<font color="#f2f2f2">Set up axios interceptors when you want to call this</font>
+
+160
+00:06:19,647 --> 00:06:20,927
+<font color="#e4e4e4">You want to call it typically</font>
+
+161
+00:06:21,695 --> 00:06:23,231
+<font color="#c3c3c3">Login X of Wands</font>
+
+162
+00:06:23,487 --> 00:06:29,631
+<font color="#f0f0f0">You have successfully logs in then what I would want to do is set up the axios interceptor</font>
+
+163
+00:06:33,215 --> 00:06:34,239
+<font color="#b2b2b2">Interceptors</font>
+
+164
+00:06:34,495 --> 00:06:36,543
+<font color="#d5d5d5">What is happening in time</font>
+
+165
+00:06:37,055 --> 00:06:37,567
+<font color="#d4d4d4">BFF</font>
+
+166
+00:06:38,079 --> 00:06:39,103
+<font color="#f4f4f4">Axios interceptors</font>
+
+167
+00:06:39,359 --> 00:06:41,151
+<font color="#bababa">And the address interceptors</font>
+
+168
+00:06:41,407 --> 00:06:43,455
+<font color="#adadad">Simple interest</font>
+
+169
+00:06:43,967 --> 00:06:44,735
+<font color="#bbbbbb">Seat in action</font>
+
+170
+00:06:44,991 --> 00:06:45,759
+<font color="#acacac">Let's go</font>
+
+171
+00:06:46,783 --> 00:06:47,295
+<font color="#fcfcfc">Home</font>
+
+172
+00:06:49,855 --> 00:06:51,135
+<font color="#cfcfcf">It's not really working</font>
+
+173
+00:06:52,159 --> 00:06:53,183
+<font color="#dddddd">I'm still seeing</font>
+
+174
+00:06:53,439 --> 00:06:54,719
+<font color="#cfcfcf">Empty listing here</font>
+
+175
+00:06:54,975 --> 00:06:55,487
+<font color="#eaeaea">Why</font>
+
+176
+00:06:55,743 --> 00:06:57,535
+<font color="#bebebe">USAA login</font>
+
+177
+00:06:57,791 --> 00:06:58,815
+<font color="#e5e5e5">So in 28 minutes</font>
+
+178
+00:06:59,327 --> 00:06:59,839
+<font color="#f4f4f4">Dummy</font>
+
+179
+00:07:00,607 --> 00:07:01,119
+<font color="#9d9d9d">Jogging</font>
+
+180
+00:07:01,887 --> 00:07:03,423
+<font color="#c7c7c7">And now if you go to the truth</font>
+
+181
+00:07:03,679 --> 00:07:05,215
+<font color="#dcdcdc">UTD to do Seacrest</font>
+
+182
+00:07:05,471 --> 00:07:06,239
+<font color="#9d9d9d">Succeeds</font>
+
+183
+00:07:06,751 --> 00:07:08,543
+<font color="#dfdfdf">We are able to now see all the two deuce</font>
+
+184
+00:07:08,799 --> 00:07:09,311
+<font color="#a4a4a4">And</font>
+
+185
+00:07:09,567 --> 00:07:12,895
+<font color="#cdcdcd">We can also try to add data to do and try and save the details</font>
+
+186
+00:07:13,663 --> 00:07:15,455
+<font color="#cacaca">Suntrans 3 for example</font>
+
+187
+00:07:16,223 --> 00:07:18,015
+<font color="#f9f9f9">You can also try and create</font>
+
+188
+00:07:18,271 --> 00:07:19,039
+<font color="#f9f9f9">And delete</font>
+
+189
+00:07:20,831 --> 00:07:21,855
+<font color="#dcdcdc">And the previous step</font>
+
+190
+00:07:27,231 --> 00:07:30,303
+<font color="#f1f1f1">Now created an Interceptor but still it's kind of</font>
+
+191
+00:07:30,559 --> 00:07:33,887
+<font color="#e4e4e4">Hard-coded because the user ID and password are hard coded in</font>
+
+192
+00:07:34,911 --> 00:07:35,935
+<font color="#f8f8f8">Next two steps</font>
+
+193
+00:07:36,191 --> 00:07:37,983
+<font color="#fafafa">Let's look at how to eliminate</font>
+
+194
+00:07:38,751 --> 00:07:42,335
+<font color="#dddddd">Hardcore Henry don't really want to hardcore the username and password in here</font>
+
+195
+00:07:42,591 --> 00:07:48,735
+<font color="#ededed">Where do you want to pick it up from think about it what would be the best place to pick the username and password from best place to</font>
+
+196
+00:07:48,991 --> 00:07:50,783
+<font color="#eeeeee">The username and password from would be</font>
+
+197
+00:07:51,039 --> 00:07:55,135
+<font color="#d9d9d9">When are user logs in right when the user logs in his entering the username and password</font>
+
+198
+00:07:55,647 --> 00:07:56,927
+<font color="#e3e3e3">Beacon big.</font>
+
+199
+00:07:58,719 --> 00:08:00,255
+<font color="#b6b6b6">Wendia sending the request</font>
+
+200
+00:08:01,535 --> 00:08:04,095
+<font color="#fcfcfc">See how we can do that in the next few steps</font>

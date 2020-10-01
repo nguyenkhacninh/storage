@@ -1,0 +1,531 @@
+﻿1
+00:00:02,560 --> 00:00:03,328
+<font color="#f8f8f8">Welcome</font>
+
+2
+00:00:04,096 --> 00:00:05,888
+<font color="#dcdcdc">Then come to the section on</font>
+
+3
+00:00:06,144 --> 00:00:07,424
+<font color="#a9a9a9">JWT</font>
+
+4
+00:00:07,936 --> 00:00:08,704
+<font color="#f7f7f7">Jason</font>
+
+5
+00:00:09,728 --> 00:00:10,240
+<font color="#e6e6e6">Dokkan</font>
+
+6
+00:00:11,008 --> 00:00:12,032
+<font color="#c3c3c3">GWT is also called</font>
+
+7
+00:00:12,288 --> 00:00:12,800
+<font color="#d2d2d2">Chart</font>
+
+8
+00:00:13,056 --> 00:00:15,104
+<font color="#ededed">So that's what we would be using to refer to this</font>
+
+9
+00:00:15,360 --> 00:00:16,640
+<font color="#878787">Trump</font>
+
+10
+00:00:18,176 --> 00:00:19,456
+<font color="#dbdbdb">Before we start with jot</font>
+
+11
+00:00:20,224 --> 00:00:20,736
+<font color="#f4f4f4">Start with</font>
+
+12
+00:00:22,016 --> 00:00:24,832
+<font color="#f0f0f0">Indication we have been using basic authentication until enough</font>
+
+13
+00:00:25,856 --> 00:00:26,368
+<font color="#f4f4f4">We saw that</font>
+
+14
+00:00:26,624 --> 00:00:29,696
+<font color="#d9d9d9">Hispano basic authentication what we send is a</font>
+
+15
+00:00:30,208 --> 00:00:31,744
+<font color="#c3c3c3">Base64 encoded</font>
+
+16
+00:00:32,000 --> 00:00:33,536
+<font color="#fcfcfc">Username and password</font>
+
+17
+00:00:34,048 --> 00:00:37,376
+<font color="#d9d9d9">Important thing about basic authentication is there is noise</font>
+
+18
+00:00:37,632 --> 00:00:38,912
+<font color="#a8a8a8">Violation</font>
+
+19
+00:00:39,424 --> 00:00:45,312
+<font color="#e1e1e1">What happens if there is no expiration time it's invisible to get access to the basic authentication token</font>
+
+20
+00:00:45,568 --> 00:00:46,592
+<font color="#e5e5e5">Value</font>
+
+21
+00:00:47,104 --> 00:00:49,408
+<font color="#ececec">Then he can use it for a limited time</font>
+
+22
+00:00:49,664 --> 00:00:50,688
+<font color="#999999">And the other thing is</font>
+
+23
+00:00:50,944 --> 00:00:56,832
+<font color="#dedede">Basic authentication token does not have any user details on them doesn't have any authorization.</font>
+
+24
+00:00:57,600 --> 00:00:59,648
+<font color="#fafafa">User ID and password</font>
+
+25
+00:00:59,904 --> 00:01:00,672
+<font color="#fcfcfc">And that's right</font>
+
+26
+00:01:00,928 --> 00:01:02,464
+<font color="#e4e4e4">They were a number of atoms</font>
+
+27
+00:01:03,488 --> 00:01:05,280
+<font color="#eaeaea">And create custom</font>
+
+28
+00:01:05,536 --> 00:01:07,840
+<font color="#cbcbcb">Token-based Authentication</font>
+
+29
+00:01:09,888 --> 00:01:13,216
+<font color="#e1e1e1">The discussion token-based authentication systems Define</font>
+
+30
+00:01:13,728 --> 00:01:15,264
+<font color="#e5e5e5">Output is a token</font>
+
+31
+00:01:15,520 --> 00:01:17,824
+<font color="#f4f4f4">It's some kind of a hashed value</font>
+
+32
+00:01:19,360 --> 00:01:21,408
+<font color="#cccccc">These tokens contain</font>
+
+33
+00:01:21,664 --> 00:01:22,688
+<font color="#cccccc">The use of details</font>
+
+34
+00:01:23,200 --> 00:01:24,736
+<font color="#fafafa">The user authorization</font>
+
+35
+00:01:25,248 --> 00:01:26,528
+<font color="#f3f3f3">And any other details which</font>
+
+36
+00:01:27,552 --> 00:01:29,344
+<font color="#fcfcfc">Temperature talking to each other</font>
+
+37
+00:01:30,112 --> 00:01:33,184
+<font color="#efefef">Custom structure</font>
+
+38
+00:01:33,440 --> 00:01:34,464
+<font color="#eeeeee">And because of it</font>
+
+39
+00:01:34,720 --> 00:01:37,024
+<font color="#f1f1f1">There might be security floss</font>
+
+40
+00:01:37,280 --> 00:01:40,608
+<font color="#e0e0e0">Order. Of time what happened was we evolved</font>
+
+41
+00:01:41,888 --> 00:01:42,400
+<font color="#afafaf">Carmen</font>
+
+42
+00:01:42,656 --> 00:01:43,424
+<font color="#cacaca">Token</font>
+
+43
+00:01:43,680 --> 00:01:44,192
+<font color="#d1d1d1">Standard</font>
+
+44
+00:01:44,704 --> 00:01:45,472
+<font color="#fcfcfc">Which is called</font>
+
+45
+00:01:46,496 --> 00:01:47,008
+<font color="#f2f2f2">Jason</font>
+
+46
+00:01:48,544 --> 00:01:49,824
+<font color="#dbdbdb">The awesome thing about chart</font>
+
+47
+00:01:50,080 --> 00:01:52,640
+<font color="#e4e4e4">Is that it can contain user authorizations</font>
+
+48
+00:01:52,896 --> 00:01:54,176
+<font color="#f8f8f8">And a number of other details</font>
+
+49
+00:01:55,712 --> 00:01:56,992
+<font color="#c5c5c5">Standard part</font>
+
+50
+00:01:57,248 --> 00:01:58,272
+<font color="#c4c4c4">Which is Define</font>
+
+51
+00:01:59,296 --> 00:02:02,624
+<font color="#dddddd">Diddy's apart where you can extend and add your custom ink</font>
+
+52
+00:02:03,392 --> 00:02:04,672
+<font color="#fcfcfc">If you go to the website</font>
+
+53
+00:02:04,928 --> 00:02:06,208
+<font color="#c0c0c0">Jw.org</font>
+
+54
+00:02:06,464 --> 00:02:07,744
+<font color="#f2f2f2">This is built by Dion</font>
+
+55
+00:02:09,280 --> 00:02:13,632
+<font color="#d3d3d3">You see that Jason Republicans are an open industry standard method</font>
+
+56
+00:02:13,888 --> 00:02:15,424
+<font color="#dbdbdb">40 Pleasanton claims</font>
+
+57
+00:02:15,936 --> 00:02:16,448
+<font color="#fafafa">Between</font>
+
+58
+00:02:16,704 --> 00:02:19,520
+<font color="#f6f6f6">Two parties talking to each other</font>
+
+59
+00:02:19,776 --> 00:02:20,288
+<font color="#b9b9b9">And</font>
+
+60
+00:02:20,544 --> 00:02:21,312
+<font color="#fcfcfc">You don't want to know</font>
+
+61
+00:02:21,568 --> 00:02:23,104
+<font color="#fcfcfc">What are the claims</font>
+
+62
+00:02:23,360 --> 00:02:25,408
+<font color="#fcfcfc">What are the authorizations</font>
+
+63
+00:02:25,664 --> 00:02:27,200
+<font color="#b7b7b7">At a specific use of hats</font>
+
+64
+00:02:27,456 --> 00:02:28,480
+<font color="#f6f6f6">You can use</font>
+
+65
+00:02:29,504 --> 00:02:32,832
+<font color="#efefef">You might be wondering what is present in the jail</font>
+
+66
+00:02:33,088 --> 00:02:34,880
+<font color="#f7f7f7">Beauty what is present in the jar token</font>
+
+67
+00:02:35,904 --> 00:02:36,416
+<font color="#fcfcfc">Look at it</font>
+
+68
+00:02:37,696 --> 00:02:42,048
+<font color="#e1e1e1">So what do you think on the left hand side is the encoded the final token</font>
+
+69
+00:02:42,304 --> 00:02:44,352
+<font color="#e0e0e0">On the right hand side what is present</font>
+
+70
+00:02:45,888 --> 00:02:48,192
+<font color="#ececec">Information which is present in that</font>
+
+71
+00:02:50,496 --> 00:02:52,032
+<font color="#dcdcdc">Contains a header</font>
+
+72
+00:02:52,288 --> 00:02:53,056
+<font color="#fcfcfc">A payload</font>
+
+73
+00:02:54,336 --> 00:02:55,104
+<font color="#d7d7d7">Peak Nature Park</font>
+
+74
+00:02:55,872 --> 00:03:00,736
+<font color="#c4c4c4">I think we should present in the Hayden are typically the algorithm bought algorithm are you using</font>
+
+75
+00:03:01,760 --> 00:03:02,784
+<font color="#efefef">Hashing</font>
+
+76
+00:03:03,296 --> 00:03:04,064
+<font color="#f4f4f4">So if you look at</font>
+
+77
+00:03:04,320 --> 00:03:06,368
+<font color="#dbdbdb">Here</font>
+
+78
+00:03:06,624 --> 00:03:09,952
+<font color="#d3d3d3">Examples that will be will be using HS 512</font>
+
+79
+00:03:10,720 --> 00:03:12,000
+<font color="#e1e1e1">And you see that this</font>
+
+80
+00:03:12,256 --> 00:03:14,560
+<font color="#d6d6d6">The algorithm hsv-2</font>
+
+81
+00:03:15,072 --> 00:03:16,864
+<font color="#b6b6b6">American pain Society</font>
+
+82
+00:03:17,376 --> 00:03:17,888
+<font color="#bbbbbb">Spend it</font>
+
+83
+00:03:18,144 --> 00:03:18,656
+<font color="#b4b4b4">Yout</font>
+
+84
+00:03:18,912 --> 00:03:19,936
+<font color="#d9d9d9">Hdwt</font>
+
+85
+00:03:20,192 --> 00:03:21,728
+<font color="#c2c2c2">Pandora contains</font>
+
+86
+00:03:21,984 --> 00:03:24,032
+<font color="#ececec">A few predefined elements</font>
+
+87
+00:03:30,176 --> 00:03:30,944
+<font color="#fcfcfc">The name is</font>
+
+88
+00:03:31,200 --> 00:03:32,480
+<font color="#fcfcfc">The name of the person</font>
+
+89
+00:03:32,736 --> 00:03:37,600
+<font color="#eaeaea">You can have additional things this admin to indicate that this guy is an admin</font>
+
+90
+00:03:38,112 --> 00:03:39,904
+<font color="#e4e4e4">The I-80 here indicate</font>
+
+91
+00:03:40,160 --> 00:03:41,952
+<font color="#f8f8f8">Creation time of the token</font>
+
+92
+00:03:42,464 --> 00:03:46,048
+<font color="#f4f4f4">In addition to this you can add custom Define stuff as well</font>
+
+93
+00:03:46,560 --> 00:03:51,168
+<font color="#f1f1f1">You might add what are the authorizations that a specific user has</font>
+
+94
+00:03:51,680 --> 00:03:53,984
+<font color="#efefef">The last part of the JWT</font>
+
+95
+00:03:54,240 --> 00:03:56,032
+<font color="#e9e9e9">The verify signature</font>
+
+96
+00:03:56,288 --> 00:03:57,056
+<font color="#fbfbfb">It contains</font>
+
+97
+00:03:57,312 --> 00:03:58,336
+<font color="#e3e3e3">EBay 64</font>
+
+98
+00:03:58,592 --> 00:04:00,384
+<font color="#d3d3d3">Encoded</font>
+
+99
+00:04:00,640 --> 00:04:01,664
+<font color="#fcfcfc">And also</font>
+
+100
+00:04:01,920 --> 00:04:05,504
+<font color="#ececec">The last and also one of the most important parts of Girard</font>
+
+101
+00:04:05,760 --> 00:04:07,040
+<font color="#9f9f9f">Is UEFI 12 bit</font>
+
+102
+00:04:07,296 --> 00:04:07,808
+<font color="#ededed">Secret</font>
+
+103
+00:04:08,576 --> 00:04:10,112
+<font color="#d2d2d2">This kind of yogurt</font>
+
+104
+00:04:10,368 --> 00:04:11,136
+<font color="#fcfcfc">Secret</font>
+
+105
+00:04:11,392 --> 00:04:11,904
+<font color="#ababab">Cream</font>
+
+106
+00:04:12,160 --> 00:04:13,952
+<font color="#f0f0f0">What is providing the JWT</font>
+
+107
+00:04:14,208 --> 00:04:15,488
+<font color="#d8d8d8">They can have a secret</font>
+
+108
+00:04:16,256 --> 00:04:18,559
+<font color="#e4e4e4">Which should not be revealed to anyone</font>
+
+109
+00:04:19,839 --> 00:04:21,375
+<font color="#f0f0f0">Make sure.</font>
+
+110
+00:04:21,631 --> 00:04:25,983
+<font color="#eeeeee">When you decode it only do guys who know the secret would be with decode</font>
+
+111
+00:04:26,239 --> 00:04:27,263
+<font color="#f1f1f1">Properly</font>
+
+112
+00:04:27,775 --> 00:04:31,359
+<font color="#f7f7f7">You can also do base64 encoding on</font>
+
+113
+00:04:32,383 --> 00:04:32,895
+<font color="#d7d7d7">Secret</font>
+
+114
+00:04:34,175 --> 00:04:35,711
+<font color="#dbdbdb">So what do you think in here</font>
+
+115
+00:04:35,967 --> 00:04:38,271
+<font color="#e3e3e3">The most important parts</font>
+
+116
+00:04:38,527 --> 00:04:39,551
+<font color="#c0c0c0">Off the chart</font>
+
+117
+00:04:39,807 --> 00:04:43,391
+<font color="#ededed">Typically what do you do in web applications</font>
+
+118
+00:04:43,647 --> 00:04:44,415
+<font color="#dcdcdc">Example</font>
+
+119
+00:04:47,487 --> 00:04:48,511
+<font color="#ececec">Application what do you do</font>
+
+120
+00:04:49,279 --> 00:04:52,863
+<font color="#fbfbfb">When user logs in with a user ID password</font>
+
+121
+00:04:53,375 --> 00:04:54,655
+<font color="#acacac">We would send a request</font>
+
+122
+00:04:54,911 --> 00:04:55,679
+<font color="#9c9c9c">City Cellar</font>
+
+123
+00:04:55,935 --> 00:04:56,959
+<font color="#dadada">And you would get</font>
+
+124
+00:04:57,215 --> 00:04:58,751
+<font color="#fcfcfc">JWT token back</font>
+
+125
+00:04:59,007 --> 00:05:01,311
+<font color="#efefef">And for all the subsequent request</font>
+
+126
+00:05:01,567 --> 00:05:03,103
+<font color="#dadada">We would be using jot</font>
+
+127
+00:05:03,359 --> 00:05:07,199
+<font color="#e0e0e0">Body JWT token as part of the</font>
+
+128
+00:05:07,967 --> 00:05:11,551
+<font color="#dcdcdc">There would be an expiration time also on the jar tokens</font>
+
+129
+00:05:14,879 --> 00:05:18,207
+<font color="#f4f4f4">You have to send a request to something called a refresh token</font>
+
+130
+00:05:19,743 --> 00:05:21,791
+<font color="#cccccc">Are you asking these key for the new token</font>
+
+131
+00:05:22,303 --> 00:05:24,607
+<font color="#efefef">Alexa set let's look at how to implement it</font>
+
+132
+00:05:25,375 --> 00:05:26,655
+<font color="#e3e3e3">How to get defendant pill</font>
+
+133
+00:05:27,423 --> 00:05:29,471
+<font color="#e1e1e1">I'll see you in the next step</font>

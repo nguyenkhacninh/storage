@@ -1,0 +1,451 @@
+﻿1
+00:00:03,072 --> 00:00:03,584
+<font color="#e9e9e9">Back</font>
+
+2
+00:00:03,840 --> 00:00:04,608
+<font color="#fcfcfc">As you can see</font>
+
+3
+00:00:04,864 --> 00:00:11,008
+<font color="#ececec">Beer making progress towards the end of the course what are the most important things that is remaining is</font>
+
+4
+00:00:15,616 --> 00:00:17,152
+<font color="#d6d6d6">The subsequent steps</font>
+
+5
+00:00:17,408 --> 00:00:19,456
+<font color="#e8e8e8">Data service</font>
+
+6
+00:00:19,712 --> 00:00:22,272
+<font color="#f2f2f2">A few things that we can improve</font>
+
+7
+00:00:22,784 --> 00:00:23,808
+<font color="#cbcbcb">Something is</font>
+
+8
+00:00:24,320 --> 00:00:26,112
+<font color="#f2f2f2">Burn is repeating</font>
+
+9
+00:00:26,368 --> 00:00:29,952
+<font color="#f3f3f3">A number of times if I would want to change, Dev server to a cube</font>
+
+10
+00:00:30,464 --> 00:00:34,560
+<font color="#f1f1f1">Then I will need to change all this stuff if you create a constant</font>
+
+11
+00:00:34,816 --> 00:00:37,376
+<font color="#cccccc">And use it everywhere you could make it easy</font>
+
+12
+00:00:37,632 --> 00:00:38,656
+<font color="#cecece">And to do that</font>
+
+13
+00:00:44,800 --> 00:00:47,360
+<font color="#fafafa">We have the token names and things</font>
+
+14
+00:00:47,616 --> 00:00:49,408
+<font color="#e0e0e0">I couldn't find a few places</font>
+
+15
+00:00:49,664 --> 00:00:51,968
+<font color="#eaeaea">Let's fix that</font>
+
+16
+00:00:52,224 --> 00:00:55,040
+<font color="#d5d5d5">Let's do a small change in the distance component</font>
+
+17
+00:00:55,296 --> 00:00:57,856
+<font color="#ececec">One of the things I have observed just now is the fact that</font>
+
+18
+00:00:58,112 --> 00:01:01,952
+<font color="#f0f0f0">Yeah actually reversing the target date and is completed</font>
+
+19
+00:01:02,208 --> 00:01:04,256
+<font color="#cecece">Actually diverse</font>
+
+20
+00:01:05,536 --> 00:01:07,584
+<font color="#e2e2e2">Closest Target and then he's</font>
+
+21
+00:01:07,840 --> 00:01:08,608
+<font color="#d3d3d3">Is completed</font>
+
+22
+00:01:09,376 --> 00:01:11,680
+<font color="#e4e4e4">I just interchange these two columns</font>
+
+23
+00:01:14,496 --> 00:01:17,568
+<font color="#bcbcbc">Is present in the retarded is completed shows</font>
+
+24
+00:01:17,824 --> 00:01:19,360
+<font color="#afafaf">That's cool that's good</font>
+
+25
+00:01:19,616 --> 00:01:22,944
+<font color="#c2c2c2">To the authentication Service</font>
+
+26
+00:01:23,200 --> 00:01:25,248
+<font color="#b5b5b5">Avakin do that dispensing export</font>
+
+27
+00:01:25,760 --> 00:01:26,528
+<font color="#f9f9f9">Constant</font>
+
+28
+00:01:27,040 --> 00:01:27,808
+<font color="#d9d9d9">And give it a name</font>
+
+29
+00:01:28,576 --> 00:01:29,600
+<font color="#bdbdbd">Tootsie user</font>
+
+30
+00:01:30,880 --> 00:01:31,392
+<font color="#e3e3e3">Session</font>
+
+31
+00:01:32,160 --> 00:01:33,184
+<font color="#fcfcfc">Attribute</font>
+
+32
+00:01:34,464 --> 00:01:37,792
+<font color="#bababa">What's what should we name for that it's authenticated user</font>
+
+33
+00:01:38,048 --> 00:01:40,608
+<font color="#f7f7f7">I can use this token everywhere</font>
+
+34
+00:01:43,936 --> 00:01:48,032
+<font color="#dcdcdc">Can also make use of this for making use of this in the specific</font>
+
+35
+00:01:49,056 --> 00:01:52,640
+<font color="#fbfbfb">Galaxy place where we were using authenticated user with</font>
+
+36
+00:01:53,664 --> 00:01:54,432
+<font color="#fcfcfc">Username</font>
+
+37
+00:01:57,248 --> 00:02:01,600
+<font color="#e8e8e8">This would ensure that if you'd wanted change the attribute name is</font>
+
+38
+00:02:01,856 --> 00:02:02,624
+<font color="#eaeaea">Present at</font>
+
+39
+00:02:02,880 --> 00:02:03,648
+<font color="#e6e6e6">Just one place</font>
+
+40
+00:02:04,672 --> 00:02:05,952
+<font color="#f6f6f6">Let's do a quick</font>
+
+41
+00:02:06,208 --> 00:02:08,256
+<font color="#fcfcfc">Search for authenticated user</font>
+
+42
+00:02:08,768 --> 00:02:10,816
+<font color="#ececec">And this is the only place which it's being</font>
+
+43
+00:02:14,656 --> 00:02:19,264
+<font color="#e8e8e8">Stop this is a URL that we have been using until now</font>
+
+44
+00:02:19,520 --> 00:02:24,640
+<font color="#dadada">This specific thing is used in multiple places we are using it's a notification Service as well as</font>
+
+45
+00:02:24,896 --> 00:02:27,456
+<font color="#e8e8e8">Did using it in the true data service</font>
+
+46
+00:02:27,712 --> 00:02:30,528
+<font color="#fcfcfc">What are the best practices is to create a separate file</font>
+
+47
+00:02:30,784 --> 00:02:32,064
+<font color="#c4c4c4">50 Constance</font>
+
+48
+00:02:32,320 --> 00:02:36,160
+<font color="#d7d7d7">It starts with us call</font>
+
+49
+00:02:37,184 --> 00:02:38,208
+<font color="#bcbcbc">Constance</font>
+
+50
+00:02:39,232 --> 00:02:39,744
+<font color="#f0f0f0">.</font>
+
+51
+00:02:41,536 --> 00:02:42,304
+<font color="#ebebeb">And in here</font>
+
+52
+00:02:42,816 --> 00:02:44,096
+<font color="#f8f8f8">I can say export</font>
+
+53
+00:02:44,352 --> 00:02:45,120
+<font color="#fcfcfc">Constant</font>
+
+54
+00:02:46,144 --> 00:02:46,656
+<font color="#e3e3e3">API</font>
+
+55
+00:02:46,912 --> 00:02:47,680
+<font color="#c7c7c7">URS</font>
+
+56
+00:02:48,192 --> 00:02:50,752
+<font color="#d0d0d0">Is equal to and Ice to localhost</font>
+
+57
+00:02:52,544 --> 00:02:55,360
+<font color="#e1e1e1">Localhost</font>
+
+58
+00:02:56,384 --> 00:02:59,968
+<font color="#f6f6f6">Enough what I would want to do is make use of this constant</font>
+
+59
+00:03:00,224 --> 00:03:02,528
+<font color="#cacaca">Everywhere inside of the hard coded stuff</font>
+
+60
+00:03:03,040 --> 00:03:04,064
+<font color="#dedede">Debate I can do that</font>
+
+61
+00:03:04,320 --> 00:03:04,832
+<font color="#888888">Eastbay</font>
+
+62
+00:03:05,088 --> 00:03:08,928
+<font color="#d0d0d0">I'm putting it into here for API URL</font>
+
+63
+00:03:09,696 --> 00:03:10,976
+<font color="#e9e9e9">From God.</font>
+
+64
+00:03:11,232 --> 00:03:13,536
+<font color="#cccccc">Slashdot.org Constance</font>
+
+65
+00:03:14,048 --> 00:03:17,376
+<font color="#e1e1e1">What we can do if we can replace this</font>
+
+66
+00:03:17,632 --> 00:03:18,912
+<font color="#bfbfbf">Except this would want to use</font>
+
+67
+00:03:19,424 --> 00:03:23,776
+<font color="#d7d7d7">APA urltv we can create a variable and use it in his passing dollar</font>
+
+68
+00:03:24,544 --> 00:03:25,312
+<font color="#fcfcfc">Open please</font>
+
+69
+00:03:25,568 --> 00:03:28,384
+<font color="#bababa">And with that</font>
+
+70
+00:03:28,640 --> 00:03:30,688
+<font color="#eaeaea">I have to change this</font>
+
+71
+00:03:30,944 --> 00:03:31,712
+<font color="#f9f9f9">Backtick</font>
+
+72
+00:03:31,968 --> 00:03:33,760
+<font color="#dadada">Taking out Tuesday quotes</font>
+
+73
+00:03:36,320 --> 00:03:37,088
+<font color="#fbfbfb">Sufficient</font>
+
+74
+00:03:37,600 --> 00:03:38,368
+<font color="#b7b7b7">Total</font>
+
+75
+00:03:38,880 --> 00:03:39,904
+<font color="#dadada">Do this</font>
+
+76
+00:03:40,160 --> 00:03:40,672
+<font color="#fcfcfc">Everywhere</font>
+
+77
+00:03:41,184 --> 00:03:44,256
+<font color="#e5e5e5">Turn up over here also what you want to do</font>
+
+78
+00:03:45,792 --> 00:03:46,304
+<font color="#fcfcfc">Backtick</font>
+
+79
+00:03:47,840 --> 00:03:51,168
+<font color="#fbfbfb">The API URL used inside the Authentication</font>
+
+80
+00:03:51,424 --> 00:03:51,936
+<font color="#fcfcfc">Service</font>
+
+81
+00:03:55,776 --> 00:04:01,152
+<font color="#d0d0d0">Data service as well</font>
+
+82
+00:04:01,664 --> 00:04:02,688
+<font color="#ececec">Cottages</font>
+
+83
+00:04:03,968 --> 00:04:04,992
+<font color="#c3c3c3">Best it out here</font>
+
+84
+00:04:06,016 --> 00:04:08,576
+<font color="#b9b9b9">Important that you are and this would be</font>
+
+85
+00:04:09,088 --> 00:04:09,600
+<font color="#c9c9c9">Darling</font>
+
+86
+00:04:10,624 --> 00:04:11,648
+<font color="#d2d2d2">API URL</font>
+
+87
+00:04:13,184 --> 00:04:16,000
+<font color="#e8e8e8">We are already using so that's cool</font>
+
+88
+00:04:23,679 --> 00:04:25,215
+<font color="#cfcfcf">Fully delete</font>
+
+89
+00:04:30,079 --> 00:04:30,591
+<font color="#dadada">Tactics</font>
+
+90
+00:04:30,847 --> 00:04:31,359
+<font color="#e1e1e1">So that's cool</font>
+
+91
+00:04:31,615 --> 00:04:33,151
+<font color="#cecece">Do we just need to replace t</font>
+
+92
+00:04:34,687 --> 00:04:35,967
+<font color="#adadad">Video chats</font>
+
+93
+00:04:36,479 --> 00:04:36,991
+<font color="#f7f7f7">Easy</font>
+
+94
+00:04:37,247 --> 00:04:39,551
+<font color="#e0e0e0">Now let's see if samples</font>
+
+95
+00:04:40,575 --> 00:04:41,855
+<font color="#e0e0e0">I think I'm files fine</font>
+
+96
+00:04:42,367 --> 00:04:44,415
+<font color="#f4f4f4">Before we do anything let's do a lockout</font>
+
+97
+00:04:44,671 --> 00:04:45,439
+<font color="#dbdbdb">And lips</font>
+
+98
+00:04:45,695 --> 00:04:46,463
+<font color="#cbcbcb">Login</font>
+
+99
+00:04:46,975 --> 00:04:47,487
+<font color="#c0c0c0">Login</font>
+
+100
+00:04:47,743 --> 00:04:50,303
+<font color="#c9c9c9">Let's do get one, cities works</font>
+
+101
+00:04:50,559 --> 00:04:51,839
+<font color="#b3b3b3">True Lux</font>
+
+102
+00:04:52,351 --> 00:04:53,119
+<font color="#f7f7f7">Contrite</font>
+
+103
+00:04:53,631 --> 00:04:57,215
+<font color="#ebebeb">I didn't delete as well almost everything</font>
+
+104
+00:04:57,471 --> 00:04:58,239
+<font color="#fafafa">Would be working</font>
+
+105
+00:04:58,495 --> 00:04:59,775
+<font color="#fcfcfc">As expected</font>
+
+106
+00:05:00,031 --> 00:05:01,823
+<font color="#f5f5f5">What we did was</font>
+
+107
+00:05:02,079 --> 00:05:06,175
+<font color="#d8d8d8">Fixed two important things one is the history of things to do</font>
+
+108
+00:05:06,431 --> 00:05:10,015
+<font color="#d9d9d9">Which was not right for spite of this course and</font>
+
+109
+00:05:20,255 --> 00:05:25,887
+<font color="#e5e5e5">We struck repeated multiple places and we created a constant for it and created a constant</font>
+
+110
+00:05:26,143 --> 00:05:31,007
+<font color="#8e8e8e">38.</font>
+
+111
+00:05:31,263 --> 00:05:33,823
+<font color="#cecece">Have you started making use of the APA</font>
+
+112
+00:05:34,079 --> 00:05:34,847
+<font color="#fcfcfc">Everywhere</font>
+
+113
+00:05:36,127 --> 00:05:38,175
+<font color="#f2f2f2">I see you in the next</font>

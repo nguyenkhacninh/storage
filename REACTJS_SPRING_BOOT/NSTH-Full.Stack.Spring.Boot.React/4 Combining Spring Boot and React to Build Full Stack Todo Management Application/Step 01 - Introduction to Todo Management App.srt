@@ -1,0 +1,91 @@
+﻿1
+00:00:01,792 --> 00:00:02,304
+<font color="#fafafa">Welcome</font>
+
+2
+00:00:08,704 --> 00:00:11,008
+<font color="#d5d5d5">We focused on the counter example</font>
+
+3
+00:00:11,520 --> 00:00:12,544
+<font color="#dcdcdc">We use the counter</font>
+
+4
+00:00:12,800 --> 00:00:14,592
+<font color="#f9f9f9">Example to understand</font>
+
+5
+00:00:14,848 --> 00:00:17,664
+<font color="#c0c0c0">Basic components day6 State and props</font>
+
+6
+00:00:18,432 --> 00:00:20,736
+<font color="#e7e7e7">Vegetable management application</font>
+
+7
+00:00:20,992 --> 00:00:22,784
+<font color="#e4e4e4">Keep focusing on the components back</font>
+
+8
+00:00:23,040 --> 00:00:23,808
+<font color="#fcfcfc">Along with</font>
+
+9
+00:00:24,320 --> 00:00:26,112
+<font color="#f8f8f8">Adding in new features</font>
+
+10
+00:00:26,624 --> 00:00:31,488
+<font color="#f4f4f4">Will add routing to the application how do you navigate from one page to another page</font>
+
+11
+00:00:32,000 --> 00:00:33,792
+<font color="#ededed">When you start, login page</font>
+
+12
+00:00:34,048 --> 00:00:37,120
+<font color="#e4e4e4">And you pick up a new would want to go to the welcome page how do you do that</font>
+
+13
+00:00:39,936 --> 00:00:41,728
+<font color="#f9f9f9">How do you implement forms</font>
+
+14
+00:00:41,984 --> 00:00:43,776
+<font color="#fcfcfc">Invalidation with react</font>
+
+15
+00:00:44,288 --> 00:00:45,824
+<font color="#e8e8e8">How do you call rest API</font>
+
+16
+00:00:46,592 --> 00:00:48,128
+<font color="#e6e6e6">What do you want to look at</font>
+
+17
+00:00:48,384 --> 00:00:51,968
+<font color="#f1f1f1">Authentication how do you implement authentication in the backing</font>
+
+18
+00:00:52,992 --> 00:00:54,016
+<font color="#fcfcfc">How do you actually</font>
+
+19
+00:00:54,272 --> 00:00:56,576
+<font color="#b3b3b3">Studio. Indication tokens in different thing</font>
+
+20
+00:00:56,832 --> 00:00:58,880
+<font color="#f0f0f0">And use them when you make you a rest API call</font>
+
+21
+00:00:59,648 --> 00:01:03,744
+<font color="#e0e0e0">I'm excited to bring the section to you where you start with the basics</font>
+
+22
+00:01:04,000 --> 00:01:05,280
+<font color="#f9f9f9">I'll get through management applique</font>
+
+23
+00:01:06,048 --> 00:01:07,072
+<font color="#f1f1f1">I see you in the next to you</font>

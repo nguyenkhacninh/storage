@@ -1,0 +1,407 @@
+﻿1
+00:00:01,280 --> 00:00:05,376
+<font color="#e9e9e9">Welcome to this video where we are going to discuss.</font>
+
+2
+00:00:06,400 --> 00:00:07,680
+<font color="#f3f3f3">What do you want to understand</font>
+
+3
+00:00:07,936 --> 00:00:10,752
+<font color="#eeeeee">Is what is the problem that Java persistence API</font>
+
+4
+00:00:11,008 --> 00:00:11,776
+<font color="#e0e0e0">He's trying to solve</font>
+
+5
+00:00:12,544 --> 00:00:14,848
+<font color="#dedede">What were the alternatives to Japan</font>
+
+6
+00:00:16,128 --> 00:00:20,992
+<font color="#ededed">And how does Java persistence API solve that problem that's basically what we would want to understand</font>
+
+7
+00:00:21,760 --> 00:00:27,904
+<font color="#eaeaea">Capitol steps will be little bit of theory if you are a handsome guy then it might be a little boring for you but I think it's</font>
+
+8
+00:00:28,160 --> 00:00:28,672
+<font color="#d6d6d6">It's important to end</font>
+
+9
+00:00:29,696 --> 00:00:30,464
+<font color="#a1a1a1">Sourpuss</font>
+
+10
+00:00:31,488 --> 00:00:33,024
+<font color="#efefef">What is the problem</font>
+
+11
+00:00:34,560 --> 00:00:35,328
+<font color="#fcfcfc">Think about it</font>
+
+12
+00:00:36,352 --> 00:00:39,424
+<font color="#e9e9e9">The programming language we are using his job to take data from java</font>
+
+13
+00:00:39,680 --> 00:00:40,704
+<font color="#cdcdcd">What do you want to do it</font>
+
+14
+00:00:41,216 --> 00:00:41,728
+<font color="#c2c2c2">Indy database</font>
+
+15
+00:00:42,240 --> 00:00:46,336
+<font color="#e8e8e8">How are databases designed in databases are typically relational database</font>
+
+16
+00:00:46,592 --> 00:00:49,664
+<font color="#dcdcdc">Right now it is there a lot of Big Data another step nosql stuffing</font>
+
+17
+00:00:49,920 --> 00:00:50,944
+<font color="#bfbfbf">She's coming to pick you up</font>
+
+18
+00:00:51,968 --> 00:00:55,296
+<font color="#eeeeee">You know for the most part we use relational database</font>
+
+19
+00:00:58,112 --> 00:00:58,624
+<font color="#a8a8a8">Tables</font>
+
+20
+00:00:59,136 --> 00:01:00,672
+<font color="#d1d1d1">In Java side we have objects</font>
+
+21
+00:01:00,928 --> 00:01:02,464
+<font color="#bbbbbb">Quantitative aside we have tables</font>
+
+22
+00:01:02,976 --> 00:01:06,048
+<font color="#dfdfdf">How to restore data from objects to table</font>
+
+23
+00:01:08,864 --> 00:01:09,888
+<font color="#f9f9f9">Is using auditory</font>
+
+24
+00:01:11,168 --> 00:01:12,960
+<font color="#adadad">WW2 tinted Concepts</font>
+
+25
+00:01:13,472 --> 00:01:14,752
+<font color="#dcdcdc">Heather on the database</font>
+
+26
+00:01:15,008 --> 00:01:18,080
+<font color="#e7e7e7">We use something called normalization oriented programming</font>
+
+27
+00:01:18,336 --> 00:01:19,616
+<font color="#e6e6e6">Typically consists of corn</font>
+
+28
+00:01:20,640 --> 00:01:21,408
+<font color="#fcfcfc">Encapsulation</font>
+
+29
+00:01:22,432 --> 00:01:22,944
+<font color="#fcfcfc">Interfaces</font>
+
+30
+00:01:23,200 --> 00:01:24,992
+<font color="#f5f5f5">Polymorphism and things like that</font>
+
+31
+00:01:25,760 --> 00:01:29,344
+<font color="#e7e7e7">Hello baby talk about relational databases we're talking about things like tables</font>
+
+32
+00:01:29,600 --> 00:01:31,136
+<font color="#f2f2f2">Foreign Keys primary keys</font>
+
+33
+00:01:34,720 --> 00:01:36,256
+<font color="#dfdfdf">Villages of mismatched</font>
+
+34
+00:01:36,512 --> 00:01:37,024
+<font color="#c9c9c9">Between this</font>
+
+35
+00:01:37,280 --> 00:01:41,376
+<font color="#e9e9e9">Do there is a mismatch between how we design objects and how we design tables</font>
+
+36
+00:01:41,888 --> 00:01:44,448
+<font color="#f7f7f7">But we would want to establish a relation</font>
+
+37
+00:01:48,288 --> 00:01:50,848
+<font color="#f0f0f0">Let's consider a few examples</font>
+
+38
+00:01:52,384 --> 00:01:55,968
+<font color="#dbdbdb">I have a very simple example here have employees</font>
+
+39
+00:01:56,224 --> 00:01:58,784
+<font color="#dfdfdf">Slight so you have an employee who can have multiple tasks.</font>
+
+40
+00:02:01,600 --> 00:02:04,416
+<font color="#d6d6d6">And what you would want to think about is what</font>
+
+41
+00:02:04,672 --> 00:02:06,208
+<font color="#eaeaea">Possible mismatches</font>
+
+42
+00:02:06,464 --> 00:02:07,744
+<font color="#eaeaea">When you are trying to map</font>
+
+43
+00:02:08,000 --> 00:02:09,280
+<font color="#fcfcfc">This problem statement</font>
+
+44
+00:02:09,536 --> 00:02:10,816
+<font color="#e7e7e7">Two objects</font>
+
+45
+00:02:11,584 --> 00:02:12,096
+<font color="#ececec">Tables</font>
+
+46
+00:02:12,608 --> 00:02:14,144
+<font color="#e6e6e6">Let's look at the first example</font>
+
+47
+00:02:17,984 --> 00:02:18,496
+<font color="#f9f9f9">Basic</font>
+
+48
+00:02:20,032 --> 00:02:22,080
+<font color="#f0f0f0">Object is made up of field</font>
+
+49
+00:02:22,592 --> 00:02:23,872
+<font color="#f4f4f4">Table is made up of</font>
+
+50
+00:02:24,128 --> 00:02:24,640
+<font color="#fcfcfc">Columns</font>
+
+51
+00:02:24,896 --> 00:02:25,920
+<font color="#aaaaaa">How to rename the</font>
+
+52
+00:02:26,944 --> 00:02:28,480
+<font color="#d3d3d3">Different from how we name the columns</font>
+
+53
+00:02:28,992 --> 00:02:32,320
+<font color="#c2c2c2">Example using VLC and getting the table to columnist</font>
+
+54
+00:02:33,600 --> 00:02:36,672
+<font color="#cbcbcb">You recalling its Target date in the table</font>
+
+55
+00:02:36,928 --> 00:02:38,208
+<font color="#cfcfcf">Target_date</font>
+
+56
+00:02:38,464 --> 00:02:38,976
+<font color="#e3e3e3">Either</font>
+
+57
+00:02:40,256 --> 00:02:41,536
+<font color="#fafafa">This is kind of a basic</font>
+
+58
+00:02:41,792 --> 00:02:45,632
+<font color="#f5f5f5">Tibial example let's think about relationships between tables</font>
+
+59
+00:02:46,144 --> 00:02:46,912
+<font color="#c4c4c4">Relationships</font>
+
+60
+00:02:47,168 --> 00:02:48,960
+<font color="#cdcdcd">Employee can have multiple tasks</font>
+
+61
+00:02:49,216 --> 00:02:53,312
+<font color="#e1e1e1">And it's asking have multiple employees associated with a child wasn't it in Java</font>
+
+62
+00:02:53,824 --> 00:02:54,336
+<font color="#fcfcfc">Employee</font>
+
+63
+00:02:54,592 --> 00:02:56,896
+<font color="#f3f3f3">We'll put a list of tasks to him</font>
+
+64
+00:02:57,152 --> 00:02:58,688
+<font color="#dedede">Play Casting have a list of tasks</font>
+
+65
+00:02:59,200 --> 00:03:00,480
+<font color="#fcfcfc">This is how we put it</font>
+
+66
+00:03:01,504 --> 00:03:04,576
+<font color="#ebebeb">A task is associated with the list of employees this is how we</font>
+
+67
+00:03:04,832 --> 00:03:05,600
+<font color="#e9e9e9">Recognize that</font>
+
+68
+00:03:05,856 --> 00:03:06,368
+<font color="#8e8e8e">Indy</font>
+
+69
+00:03:06,624 --> 00:03:07,392
+<font color="#e8e8e8">Java world</font>
+
+70
+00:03:08,928 --> 00:03:12,000
+<font color="#f7f7f7">How do we do that in table typically irritable employee</font>
+
+71
+00:03:12,256 --> 00:03:12,768
+<font color="#b4b4b4">Dusk</font>
+
+72
+00:03:15,584 --> 00:03:17,888
+<font color="#f1f1f1">I'm sure the relationship in there</font>
+
+73
+00:03:22,240 --> 00:03:23,776
+<font color="#f0f0f0">Classes on objects</font>
+
+74
+00:03:24,032 --> 00:03:26,080
+<font color="#f9f9f9">How do you take data from here</font>
+
+75
+00:03:26,336 --> 00:03:27,360
+<font color="#c4c4c4">Storage in the table</font>
+
+76
+00:03:32,736 --> 00:03:36,832
+<font color="#eeeeee">So here we have employees two kinds of employees full-time employees and part-time employees</font>
+
+77
+00:03:37,600 --> 00:03:40,160
+<font color="#d3d3d3">Freedom employees have a salary part-time employees have</font>
+
+78
+00:03:40,416 --> 00:03:44,768
+<font color="#ececec">You can see that these accident employee</font>
+
+79
+00:03:45,024 --> 00:03:47,584
+<font color="#e6e6e6">But when we talk about tables we just have one table</font>
+
+80
+00:03:48,096 --> 00:03:52,448
+<font color="#f5f5f5">We have an employee type to distinguish between full-time employee and part-time employee</font>
+
+81
+00:03:52,704 --> 00:03:56,544
+<font color="#ebebeb">And restore the values of Department playing hourly rates</font>
+
+82
+00:03:57,056 --> 00:03:58,592
+<font color="#dfdfdf">This is one of the attributes</font>
+
+83
+00:04:03,712 --> 00:04:06,528
+<font color="#ebebeb">The data from these three classes has to be stored</font>
+
+84
+00:04:07,808 --> 00:04:08,832
+<font color="#a8a8a8">One table</font>
+
+85
+00:04:09,856 --> 00:04:11,648
+<font color="#eeeeee">We were looking at a few examples of fall</font>
+
+86
+00:04:13,952 --> 00:04:15,232
+<font color="#f0f0f0">What we were talking about</font>
+
+87
+00:04:15,488 --> 00:04:16,512
+<font color="#e7e7e7">Is the fact that how we</font>
+
+88
+00:04:16,768 --> 00:04:20,351
+<font color="#e5e5e5">Design objects Is this different from how we design our table</font>
+
+89
+00:04:20,863 --> 00:04:21,375
+<font color="#cecece">And that</font>
+
+90
+00:04:21,631 --> 00:04:22,655
+<font color="#fcfcfc">Really the problem</font>
+
+91
+00:04:22,911 --> 00:04:24,447
+<font color="#d8d8d8">That all persistence</font>
+
+92
+00:04:24,703 --> 00:04:25,215
+<font color="#adadad">Free books</font>
+
+93
+00:04:25,471 --> 00:04:26,751
+<font color="#e4e4e4">Have been trying to solve</font>
+
+94
+00:04:27,263 --> 00:04:28,799
+<font color="#cecece">Play framework Switch reviews</font>
+
+95
+00:04:29,055 --> 00:04:29,823
+<font color="#cfcfcf">To solve</font>
+
+96
+00:04:30,079 --> 00:04:31,103
+<font color="#aeaeae">The persistence problem</font>
+
+97
+00:04:31,359 --> 00:04:31,871
+<font color="#fcfcfc">What</font>
+
+98
+00:04:32,127 --> 00:04:32,895
+<font color="#eaeaea">Jtbc</font>
+
+99
+00:04:33,151 --> 00:04:34,175
+<font color="#fcfcfc">Spring jdbc</font>
+
+100
+00:04:34,431 --> 00:04:35,199
+<font color="#dcdcdc">And my back</font>
+
+101
+00:04:36,735 --> 00:04:38,271
+<font color="#a3a3a3">We'll look at Hot Dogs flavors</font>
+
+102
+00:04:38,527 --> 00:04:41,343
+<font color="#dcdcdc">Try to solve the problem of object relational in pee</font>

@@ -1,0 +1,811 @@
+﻿1
+00:00:00,256 --> 00:00:00,768
+<font color="#fcfcfc">Welcome</font>
+
+2
+00:00:02,304 --> 00:00:07,680
+<font color="#e2e2e2">Created a number of resources and all these resources web-based</font>
+
+3
+00:00:10,752 --> 00:00:14,080
+<font color="#fcfcfc">This data is stored as a static</font>
+
+4
+00:00:14,336 --> 00:00:15,360
+<font color="#c7c7c7">To do list</font>
+
+5
+00:00:15,616 --> 00:00:17,408
+<font color="#fcfcfc">And it's time to change that</font>
+
+6
+00:00:17,664 --> 00:00:18,432
+<font color="#f1f1f1">Let's take this</font>
+
+7
+00:00:18,688 --> 00:00:20,224
+<font color="#fcfcfc">And put all the data</font>
+
+8
+00:00:20,480 --> 00:00:21,760
+<font color="#c4c4c4">In the database</font>
+
+9
+00:00:22,784 --> 00:00:25,344
+<font color="#e8e8e8">You would be using H to as the in-memory database</font>
+
+10
+00:00:28,160 --> 00:00:29,440
+<font color="#a4a4a4">Spring data</font>
+
+11
+00:00:29,952 --> 00:00:30,720
+<font color="#a7a7a7">If you knew</font>
+
+12
+00:00:30,976 --> 00:00:32,256
+<font color="#c9c9c9">2 GPA</font>
+
+13
+00:00:32,512 --> 00:00:33,536
+<font color="#fcfcfc">Spring data jpa</font>
+
+14
+00:00:33,792 --> 00:00:36,608
+<font color="#dedede">I would really recommend you to look at the section</font>
+
+15
+00:00:36,864 --> 00:00:38,144
+<font color="#f0f0f0">Introduction to GPS</font>
+
+16
+00:00:38,912 --> 00:00:40,192
+<font color="#b3b3b3">We have a section in the appendix</font>
+
+17
+00:00:40,448 --> 00:00:43,008
+<font color="#fcfcfc">Introducing you to JPS spring data jpa</font>
+
+18
+00:00:43,520 --> 00:00:47,872
+<font color="#fbfbfb">What is H2 what are the advantages of H2 and all that fun stuff</font>
+
+19
+00:00:48,640 --> 00:00:51,200
+<font color="#f4f4f4">That section is a prerequisite</font>
+
+20
+00:00:51,456 --> 00:00:54,784
+<font color="#d6d6d6">To be able to understand what's happening in the background with this</font>
+
+21
+00:00:55,296 --> 00:00:56,064
+<font color="#cdcdcd">Specific step</font>
+
+22
+00:00:56,320 --> 00:00:57,600
+<font color="#eaeaea">And the subsequent steps</font>
+
+23
+00:00:57,856 --> 00:01:00,416
+<font color="#ebebeb">Where we use GPS to connect</font>
+
+24
+00:01:00,672 --> 00:01:01,696
+<font color="#bbbbbb">The To Do List</font>
+
+25
+00:01:02,208 --> 00:01:04,000
+<font color="#b2b2b2">Or database</font>
+
+26
+00:01:04,256 --> 00:01:08,096
+<font color="#f2f2f2">What are the things that we would do is first let's start this over</font>
+
+27
+00:01:08,864 --> 00:01:10,400
+<font color="#f7f7f7">Do you need to make a few changes</font>
+
+28
+00:01:10,656 --> 00:01:12,192
+<font color="#dadada">Stop the server</font>
+
+29
+00:01:12,448 --> 00:01:17,568
+<font color="#f0f0f0">Create a to-do jpa resource</font>
+
+30
+00:01:17,824 --> 00:01:18,848
+<font color="#ededed">So we would let this</font>
+
+31
+00:01:19,104 --> 00:01:22,432
+<font color="#bcbcbc">Resort</font>
+
+32
+00:01:22,688 --> 00:01:24,480
+<font color="#d5d5d5">GPA results</font>
+
+33
+00:01:24,736 --> 00:01:29,088
+<font color="#f3f3f3">And you would happen GPA to each of the URL</font>
+
+34
+00:01:29,344 --> 00:01:30,624
+<font color="#d3d3d3">That's the approach that we would be</font>
+
+35
+00:01:31,136 --> 00:01:32,416
+<font color="#cbcbcb">Taking wheel creator</font>
+
+36
+00:01:32,672 --> 00:01:33,184
+<font color="#fcfcfc">Batman</font>
+
+37
+00:01:34,208 --> 00:01:37,536
+<font color="#eeeeee">GPS or exposing a new set of URS</font>
+
+38
+00:01:40,608 --> 00:01:42,144
+<font color="#e3e3e3">Do the new set of uri's</font>
+
+39
+00:01:42,656 --> 00:01:44,448
+<font color="#fcfcfc">Let's focus</font>
+
+40
+00:01:44,704 --> 00:01:46,752
+<font color="#f9f9f9">On getting the database up and running</font>
+
+41
+00:01:47,008 --> 00:01:51,360
+<font color="#f8f8f8">Populating database with some initial set of data</font>
+
+42
+00:01:52,128 --> 00:01:53,408
+<font color="#f3f3f3">The awesome thing</font>
+
+43
+00:01:53,664 --> 00:01:54,176
+<font color="#e8e8e8">With</font>
+
+44
+00:01:54,432 --> 00:01:59,296
+<font color="#e8e8e8">Jpa hibernate spring data jpa and springboard combination with H2</font>
+
+45
+00:01:59,552 --> 00:02:00,320
+<font color="#e6e6e6">Is it bad that</font>
+
+46
+00:02:00,576 --> 00:02:02,368
+<font color="#dadada">As soon as you create an entity</font>
+
+47
+00:02:02,624 --> 00:02:03,392
+<font color="#e1e1e1">Create</font>
+
+48
+00:02:03,904 --> 00:02:05,696
+<font color="#d6d6d6">Database in memory</font>
+
+49
+00:02:06,208 --> 00:02:06,976
+<font color="#fcfcfc">Automatically</font>
+
+50
+00:02:07,232 --> 00:02:08,768
+<font color="#e5e5e5">Let's see that in action</font>
+
+51
+00:02:09,280 --> 00:02:10,304
+<font color="#a0a0a0">In the specific step</font>
+
+52
+00:02:10,560 --> 00:02:11,584
+<font color="#b2b2b2">Let's get started</font>
+
+53
+00:02:13,632 --> 00:02:16,960
+<font color="#e1e1e1">Irritation I would need to add is at entity</font>
+
+54
+00:02:17,984 --> 00:02:18,752
+<font color="#dadada">Control space</font>
+
+55
+00:02:19,008 --> 00:02:20,800
+<font color="#f8f8f8">And this would become</font>
+
+56
+00:02:21,312 --> 00:02:27,456
+<font color="#f0f0f0">Entity which should be stored into the database needs to have a primary</font>
+
+57
+00:02:28,480 --> 00:02:29,504
+<font color="#fcfcfc">I need to add</font>
+
+58
+00:02:30,784 --> 00:02:33,344
+<font color="#d8d8d8">IID annotation control space</font>
+
+59
+00:02:34,112 --> 00:02:34,624
+<font color="#cbcbcb">Hugo</font>
+
+60
+00:02:35,136 --> 00:02:36,672
+<font color="#d2d2d2">This becomes did</font>
+
+61
+00:02:36,928 --> 00:02:39,744
+<font color="#e5e5e5">What are the other important things is ID fields</font>
+
+62
+00:02:43,072 --> 00:02:45,120
+<font color="#ececec">It's not adjusted to have a primitive</font>
+
+63
+00:02:45,376 --> 00:02:45,888
+<font color="#fcfcfc">Because</font>
+
+64
+00:02:46,656 --> 00:02:48,960
+<font color="#f0f0f0">Typically indicates</font>
+
+65
+00:02:49,216 --> 00:02:50,496
+<font color="#f3f3f3">That's an entity</font>
+
+66
+00:02:50,752 --> 00:02:52,544
+<font color="#d3d3d3">Is naughty attitude to the database</font>
+
+67
+00:02:52,800 --> 00:02:57,920
+<font color="#f6f6f6">And when you use that entity and save it to the database that means it has to be inserted</font>
+
+68
+00:02:58,432 --> 00:03:00,480
+<font color="#eeeeee">So what are you doing this weekend making this long</font>
+
+69
+00:03:00,736 --> 00:03:04,320
+<font color="#eeeeee">I thought you wait this long you should see a few compilation errors</font>
+
+70
+00:03:04,832 --> 00:03:05,600
+<font color="#c6c6c6">Text exam</font>
+
+71
+00:03:07,136 --> 00:03:08,416
+<font color="#dddddd">We'll start with</font>
+
+72
+00:03:08,672 --> 00:03:10,208
+<font color="#d2d2d2">Can you get ID to Long</font>
+
+73
+00:03:11,232 --> 00:03:12,256
+<font color="#b4b4b4">State ID</font>
+
+74
+00:03:14,816 --> 00:03:17,376
+<font color="#bdbdbd">Utility to hardcore and service has an error</font>
+
+75
+00:03:17,632 --> 00:03:18,400
+<font color="#bdbdbd">Let's go there</font>
+
+76
+00:03:19,936 --> 00:03:22,752
+<font color="#cbcbcb">Exactly this is Daddy's giving the competition</font>
+
+77
+00:03:23,008 --> 00:03:24,800
+<font color="#d8d8d8">Lucid change the account</font>
+
+78
+00:03:25,568 --> 00:03:26,080
+<font color="#e4e4e4">Oolong</font>
+
+79
+00:03:26,592 --> 00:03:29,408
+<font color="#d4d4d4">Once you change your contact log everything should come by</font>
+
+80
+00:03:30,432 --> 00:03:32,224
+<font color="#b7b7b7">No I go back to t22 service now</font>
+
+81
+00:03:32,736 --> 00:03:36,064
+<font color="#eeeeee">Wakulla focus on it will add a fact that</font>
+
+82
+00:03:38,880 --> 00:03:42,976
+<font color="#f8f8f8">It could be auto-generated I don't want to set the value of the ID</font>
+
+83
+00:03:43,744 --> 00:03:47,072
+<font color="#d8d8d8">Whatever on YouTube is created you won't make it auto generated</font>
+
+84
+00:03:47,584 --> 00:03:49,120
+<font color="#e7e7e7">The way you can do that is by</font>
+
+85
+00:03:49,376 --> 00:03:50,400
+<font color="#fcfcfc">Adding an addition</font>
+
+86
+00:03:50,912 --> 00:03:51,424
+<font color="#fcfcfc">Call</font>
+
+87
+00:03:51,680 --> 00:03:52,448
+<font color="#cccccc">Generators</font>
+
+88
+00:03:52,960 --> 00:03:53,472
+<font color="#d2d2d2">Value</font>
+
+89
+00:03:53,728 --> 00:03:54,752
+<font color="#f0f0f0">What happens if</font>
+
+90
+00:03:55,264 --> 00:03:58,592
+<font color="#f8f8f8">A sequence would be created and the sequence would be used</font>
+
+91
+00:03:59,104 --> 00:04:04,736
+<font color="#c0c0c0">To set values into the I know you add a new ID</font>
+
+92
+00:04:04,992 --> 00:04:06,272
+<font color="#eaeaea">Insecta value for it</font>
+
+93
+00:04:07,552 --> 00:04:08,576
+<font color="#d6d6d6">Beehive</font>
+
+94
+00:04:08,832 --> 00:04:10,624
+<font color="#fcfcfc">The entire entity</font>
+
+95
+00:04:10,880 --> 00:04:11,648
+<font color="#cecece">Straight up</font>
+
+96
+00:04:12,160 --> 00:04:17,536
+<font color="#f1f1f1">If you're wondering how did we get all these annotations identity at idea generated value</font>
+
+97
+00:04:18,047 --> 00:04:20,351
+<font color="#fcfcfc">The answer is when we were creating this project</font>
+
+98
+00:04:20,863 --> 00:04:23,935
+<font color="#fafafa">We already added in a couple of dependencies</font>
+
+99
+00:04:31,615 --> 00:04:33,407
+<font color="#dadada">Data jpa and that's how we get this</font>
+
+100
+00:04:33,663 --> 00:04:35,967
+<font color="#adadad">NBA also directed hitch to</font>
+
+101
+00:04:36,479 --> 00:04:39,039
+<font color="#fcfcfc">That's how we have all different books</font>
+
+102
+00:04:39,551 --> 00:04:40,063
+<font color="#cecece">Teepee</font>
+
+103
+00:04:40,319 --> 00:04:43,391
+<font color="#f1f1f1">Hibernate and spring data jpa</font>
+
+104
+00:04:44,671 --> 00:04:50,303
+<font color="#dedede">Always seemed like a lot of bad words are really recommend you to check out the section on jpa</font>
+
+105
+00:04:50,815 --> 00:04:51,583
+<font color="#bfbfbf">Indy appendix</font>
+
+106
+00:04:54,911 --> 00:05:00,031
+<font color="#fbfbfb">And what I want to do is I would want to add in a few more things</font>
+
+107
+00:05:00,287 --> 00:05:05,151
+<font color="#dcdcdc">Whatever you want to do is I want to be able to see the sequel which is being generated to what I lose</font>
+
+108
+00:05:05,407 --> 00:05:08,223
+<font color="#dfdfdf">GPS that shows equal is equal to 2</font>
+
+109
+00:05:08,735 --> 00:05:12,063
+<font color="#cecece">The other thing I would want anybody something call H2 control</font>
+
+110
+00:05:12,575 --> 00:05:15,903
+<font color="#e2e2e2">Sprint outage to consult. Enable is equal to</font>
+
+111
+00:05:16,927 --> 00:05:19,743
+<font color="#dfdfdf">To make sure that you have Buddha settings enabled</font>
+
+112
+00:05:21,279 --> 00:05:24,351
+<font color="#dcdcdc">The application to start the application now and you'd see</font>
+
+113
+00:05:24,607 --> 00:05:28,191
+<font color="#f2f2f2">And there's some new information which would be printed</font>
+
+114
+00:05:28,447 --> 00:05:28,959
+<font color="#e6e6e6">In</font>
+
+115
+00:05:29,215 --> 00:05:30,495
+<font color="#ebebeb">Start a blog</font>
+
+116
+00:05:30,751 --> 00:05:31,775
+<font color="#d8d8d8">UT</font>
+
+117
+00:05:32,031 --> 00:05:34,079
+<font color="#dcdcdc">Data table is being created to do</font>
+
+118
+00:05:34,335 --> 00:05:38,175
+<font color="#f1f1f1">And a sequence is being created called hibernate sequence</font>
+
+119
+00:05:38,431 --> 00:05:41,503
+<font color="#f7f7f7">Now you might be wondering how can I check the data in this table</font>
+
+120
+00:05:42,271 --> 00:05:44,063
+<font color="#f6f6f6">This is a in memory database</font>
+
+121
+00:05:44,319 --> 00:05:46,367
+<font color="#eeeeee">You can do that is by going to URI</font>
+
+122
+00:05:46,623 --> 00:05:50,207
+<font color="#efefef">SATA d h 2 - console</font>
+
+123
+00:05:50,975 --> 00:05:52,767
+<font color="#e3e3e3">So if you go to that specific URI</font>
+
+124
+00:05:53,023 --> 00:05:56,351
+<font color="#dfdfdf">You see your page like this what are the important things to make sure is the</font>
+
+125
+00:05:56,607 --> 00:06:00,191
+<font color="#c5c5c5">Database URL that's too meme</font>
+
+126
+00:06:01,215 --> 00:06:06,591
+<font color="#f2f2f2">This is a common mistake sometimes the default value which concept is a little different from this</font>
+
+127
+00:06:06,847 --> 00:06:11,967
+<font color="#e2e2e2">Make sure that you edited and have a hitch to</font>
+
+128
+00:06:14,271 --> 00:06:16,319
+<font color="#f1f1f1">UCD to do table</font>
+
+129
+00:06:16,575 --> 00:06:20,415
+<font color="#e3e3e3">And you can text a friend to do you see that there is no daytime</font>
+
+130
+00:06:20,927 --> 00:06:22,975
+<font color="#ececec">Let's quickly population data in here</font>
+
+131
+00:06:23,231 --> 00:06:24,767
+<font color="#e2e2e2">But you can populate data</font>
+
+132
+00:06:25,023 --> 00:06:25,535
+<font color="#adadad">He's</font>
+
+133
+00:06:26,815 --> 00:06:29,631
+<font color="#d9d9d9">Adding a new musical five</font>
+
+134
+00:06:32,447 --> 00:06:34,495
+<font color="#f4f4f4">Coming up the other approach would be controlling</font>
+
+135
+00:06:34,751 --> 00:06:39,871
+<font color="#ebebeb">Create a new text document and you can save it</font>
+
+136
+00:06:48,831 --> 00:06:50,111
+<font color="#b9b9b9">Dortmund results</font>
+
+137
+00:06:50,879 --> 00:06:52,159
+<font color="#bcbcbc">Today's click finish</font>
+
+138
+00:06:58,047 --> 00:06:59,071
+<font color="#dddddd">Good dick to do</font>
+
+139
+00:06:59,327 --> 00:07:01,887
+<font color="#f9f9f9">The Java class</font>
+
+140
+00:07:02,399 --> 00:07:05,215
+<font color="#dcdcdc">Cleveland enter data into the specific table</font>
+
+141
+00:07:05,727 --> 00:07:06,495
+<font color="#fcfcfc">Insert</font>
+
+142
+00:07:08,287 --> 00:07:10,335
+<font color="#d1d1d1">And this Friday column names</font>
+
+143
+00:07:10,847 --> 00:07:11,359
+<font color="#cbcbcb">Let's</font>
+
+144
+00:07:12,383 --> 00:07:13,663
+<font color="#ababab">Calamansi set ID</font>
+
+145
+00:07:15,455 --> 00:07:18,015
+<font color="#f8f8f8">Username description target-date username</font>
+
+146
+00:07:18,783 --> 00:07:19,807
+<font color="#fcfcfc">Description</font>
+
+147
+00:07:20,831 --> 00:07:22,367
+<font color="#e4e4e4">Target date with Target</font>
+
+148
+00:07:23,647 --> 00:07:24,415
+<font color="#f6f6f6">_</font>
+
+149
+00:07:25,695 --> 00:07:27,999
+<font color="#f1f1f1">If you have something in common</font>
+
+150
+00:07:28,511 --> 00:07:29,535
+<font color="#eeeeee">Music apps</font>
+
+151
+00:07:30,047 --> 00:07:31,071
+<font color="#e9e9e9">Any database</font>
+
+152
+00:07:31,583 --> 00:07:32,095
+<font color="#f1f1f1">Typically</font>
+
+153
+00:07:32,351 --> 00:07:33,375
+<font color="#fcfcfc">What we would do is</font>
+
+154
+00:07:33,631 --> 00:07:34,655
+<font color="#c7c7c7">Use_</font>
+
+155
+00:07:34,911 --> 00:07:35,935
+<font color="#e9e9e9">Did you understand that</font>
+
+156
+00:07:37,471 --> 00:07:38,239
+<font color="#ececec">The bean</font>
+
+157
+00:07:38,495 --> 00:07:39,519
+<font color="#d5d5d5">You would have to have a good date</font>
+
+158
+00:07:39,775 --> 00:07:43,359
+<font color="#9d9d9d">End</font>
+
+159
+00:07:44,127 --> 00:07:46,431
+<font color="#d4d4d4">Set the table would be created</font>
+
+160
+00:07:47,455 --> 00:07:50,015
+<font color="#cbcbcb">Easy undercut</font>
+
+161
+00:07:52,319 --> 00:07:55,135
+<font color="#f2f2f2">What values do I want to populate into this</font>
+
+162
+00:07:56,159 --> 00:07:57,439
+<font color="#f4f4f4">Use the ID</font>
+
+163
+00:07:58,463 --> 00:08:01,279
+<font color="#e8e8e8">I'm going to start with a large ID value</font>
+
+164
+00:08:05,119 --> 00:08:06,911
+<font color="#fcfcfc">And I don't want to conflict with it</font>
+
+165
+00:08:07,423 --> 00:08:09,215
+<font color="#f8f8f8">That's the reason why I would use a large</font>
+
+166
+00:08:10,751 --> 00:08:11,263
+<font color="#bdbdbd">Ibis</font>
+
+167
+00:08:11,519 --> 00:08:13,055
+<font color="#dfdfdf">Between 13</font>
+
+168
+00:08:13,567 --> 00:08:19,711
+<font color="#f3f3f3">The username is in 28 minutes are not really allowed in</font>
+
+169
+00:08:20,991 --> 00:08:21,759
+<font color="#dfdfdf">And I said</font>
+
+170
+00:08:23,295 --> 00:08:24,063
+<font color="#c8c8c8">Jpa</font>
+
+171
+00:08:27,903 --> 00:08:28,415
+<font color="#c4c4c4">58</font>
+
+172
+00:08:29,951 --> 00:08:31,231
+<font color="#efefef">Easton</font>
+
+173
+00:08:32,511 --> 00:08:33,791
+<font color="#989898">What does n equal in in here</font>
+
+174
+00:08:34,047 --> 00:08:35,071
+<font color="#c0c0c0">15 suit</font>
+
+175
+00:08:35,583 --> 00:08:36,607
+<font color="#fcfcfc">And you can insert</font>
+
+176
+00:08:36,863 --> 00:08:37,887
+<font color="#fcfcfc">Multiple</font>
+
+177
+00:08:38,143 --> 00:08:38,655
+<font color="#cfcfcf">To do list</font>
+
+178
+00:08:40,447 --> 00:08:44,543
+<font color="#e3e3e3">Need to change the ideas typically one of the six</font>
+
+179
+00:08:48,127 --> 00:08:49,151
+<font color="#dedede">Any good show</font>
+
+180
+00:08:54,527 --> 00:08:56,831
+<font color="#d7d7d7">Username would remain the same on GPS</font>
+
+181
+00:08:58,367 --> 00:08:58,879
+<font color="#b0b0b0">Test</font>
+
+182
+00:08:59,647 --> 00:09:00,671
+<font color="#e4e4e4">Data GPS</font>
+
+183
+00:09:00,927 --> 00:09:01,439
+<font color="#dadada">End</font>
+
+184
+00:09:01,695 --> 00:09:03,231
+<font color="#ececec">Makeup services</font>
+
+185
+00:09:04,767 --> 00:09:06,303
+<font color="#c4c4c4">Now we have the</font>
+
+186
+00:09:06,559 --> 00:09:07,071
+<font color="#fafafa">Data</font>
+
+187
+00:09:07,583 --> 00:09:08,351
+<font color="#fafafa">Let's save this</font>
+
+188
+00:09:09,631 --> 00:09:10,655
+<font color="#f3f3f3">And let's wait for</font>
+
+189
+00:09:11,935 --> 00:09:13,471
+<font color="#e8e8e8">Application to start and pick it up</font>
+
+190
+00:09:14,495 --> 00:09:15,519
+<font color="#f3f3f3">If you go today</font>
+
+191
+00:09:17,055 --> 00:09:17,823
+<font color="#868686">Pancake run</font>
+
+192
+00:09:18,847 --> 00:09:21,151
+<font color="#d0d0d0">Actually take you back because it still has to be started</font>
+
+193
+00:09:21,919 --> 00:09:23,967
+<font color="#e8e8e8">Are you safe through again antique run</font>
+
+194
+00:09:24,479 --> 00:09:27,807
+<font color="#dddddd">Enough you'll see that the data is populated</font>
+
+195
+00:09:29,599 --> 00:09:32,927
+<font color="#efefef">We made it to do object and entity</font>
+
+196
+00:09:35,999 --> 00:09:36,511
+<font color="#dadada">JP</font>
+
+197
+00:09:36,767 --> 00:09:39,327
+<font color="#ececec">And we populated some data for it</font>
+
+198
+00:09:39,839 --> 00:09:41,631
+<font color="#f3f3f3">Andy was able to see all this stuff</font>
+
+199
+00:09:41,887 --> 00:09:43,167
+<font color="#545454">In H2 console</font>
+
+200
+00:09:43,679 --> 00:09:44,959
+<font color="#d2d2d2">Academy questions about</font>
+
+201
+00:09:45,215 --> 00:09:48,031
+<font color="#dfdfdf">What's happening how is this working so easily</font>
+
+202
+00:09:48,543 --> 00:09:50,847
+<font color="#dbdbdb">To check out the section in the appendix on GPS</font>
+
+203
+00:09:51,359 --> 00:09:53,151
+<font color="#c8c8c8">I see you in the next</font>

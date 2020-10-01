@@ -1,0 +1,567 @@
+﻿1
+00:00:01,024 --> 00:00:01,536
+<font color="#909090">Alaikum</font>
+
+2
+00:00:01,792 --> 00:00:05,376
+<font color="#e5e5e5">Back in the sentence let's look at a couple of tips</font>
+
+3
+00:00:05,632 --> 00:00:06,144
+<font color="#fcfcfc">First one</font>
+
+4
+00:00:06,400 --> 00:00:06,912
+<font color="#fcfcfc">Is that</font>
+
+5
+00:00:12,288 --> 00:00:18,432
+<font color="#eeeeee">With the current state what do they mean so if I have a state in here right or counter is</font>
+
+6
+00:00:19,456 --> 00:00:20,992
+<font color="#e8e8e8">I would want to add</font>
+
+7
+00:00:22,016 --> 00:00:22,528
+<font color="#c8c8c8">Pink</font>
+
+8
+00:00:22,784 --> 00:00:26,112
+<font color="#f5f5f5">To Discount asset to this date I would want to add another value</font>
+
+9
+00:00:26,368 --> 00:00:27,392
+<font color="#fcfcfc">How do you separate</font>
+
+10
+00:00:27,648 --> 00:00:29,440
+<font color="#e1e1e1">Different values you do scum</font>
+
+11
+00:00:29,696 --> 00:00:30,720
+<font color="#c3c3c3">M20</font>
+
+12
+00:00:30,976 --> 00:00:31,488
+<font color="#bcbcbc">End</font>
+
+13
+00:00:31,744 --> 00:00:33,792
+<font color="#f8f8f8">It's just a second counter</font>
+
+14
+00:00:34,816 --> 00:00:35,328
+<font color="#c9c9c9">Android</font>
+
+15
+00:00:36,096 --> 00:00:38,912
+<font color="#e6e6e6">Sodium sulfate is Countess England second counter hundred</font>
+
+16
+00:00:39,168 --> 00:00:43,264
+<font color="#e6e6e6">Incrementing the counter and only sitting the value of</font>
+
+17
+00:00:43,520 --> 00:00:44,288
+<font color="#fcfcfc">Counter</font>
+
+18
+00:00:44,544 --> 00:00:46,080
+<font color="#fafafa">What happened to the second counter</font>
+
+19
+00:00:46,592 --> 00:00:51,968
+<font color="#eeeeee">Will it become zero what would happen is that the second counter value will not be modified at all.</font>
+
+20
+00:00:52,224 --> 00:00:58,368
+<font color="#dfdfdf">What are adjectives of passing in here</font>
+
+21
+00:01:02,464 --> 00:01:06,304
+<font color="#f0f0f0">And updated remains as he's</font>
+
+22
+00:01:06,816 --> 00:01:07,840
+<font color="#d9d9d9">David want to see</font>
+
+23
+00:01:08,352 --> 00:01:09,888
+<font color="#ebebeb">The value of the second counter</font>
+
+24
+00:01:10,144 --> 00:01:11,168
+<font color="#e2e2e2">What I lose count</font>
+
+25
+00:01:11,680 --> 00:01:12,704
+<font color="#c6c6c6">II</font>
+
+26
+00:01:15,520 --> 00:01:17,824
+<font color="#d6d6d6">Conceited second contest remains hundred</font>
+
+27
+00:01:20,896 --> 00:01:23,200
+<font color="#d5d5d5">Setstate is actually emerge</font>
+
+28
+00:01:23,456 --> 00:01:24,480
+<font color="#eaeaea">That's number one</font>
+
+29
+00:01:24,736 --> 00:01:29,088
+<font color="#e0e0e0">Tell if I would want to update the second counter as well I can say second counter</font>
+
+30
+00:01:30,880 --> 00:01:31,904
+<font color="#bebebe">And say this.</font>
+
+31
+00:01:32,928 --> 00:01:33,440
+<font color="#f0f0f0">.</font>
+
+32
+00:01:34,208 --> 00:01:34,976
+<font color="#d5d5d5">Second</font>
+
+33
+00:01:35,232 --> 00:01:36,000
+<font color="#b1b1b1">Counter</font>
+
+34
+00:01:40,352 --> 00:01:41,632
+<font color="#f7f7f7">All of them get updated</font>
+
+35
+00:01:42,400 --> 00:01:42,912
+<font color="#fcfcfc">That's</font>
+
+36
+00:01:43,424 --> 00:01:43,936
+<font color="#f4f4f4">Number one</font>
+
+37
+00:01:44,448 --> 00:01:45,728
+<font color="#e2e2e2">Let's get rid of tea</font>
+
+38
+00:01:45,984 --> 00:01:46,752
+<font color="#dfdfdf">Second countdown</font>
+
+39
+00:01:48,032 --> 00:01:48,800
+<font color="#fcfcfc">Cool</font>
+
+40
+00:01:49,312 --> 00:01:51,616
+<font color="#9d9d9d">Checking account the result of the equation of</font>
+
+41
+00:01:54,944 --> 00:01:56,736
+<font color="#f7f7f7">The second thing I would want to talk about</font>
+
+42
+00:01:57,504 --> 00:01:59,040
+<font color="#d3d3d3">Arrow function</font>
+
+43
+00:01:59,808 --> 00:02:00,320
+<font color="#d6d6d6">Typically</font>
+
+44
+00:02:00,576 --> 00:02:01,088
+<font color="#f6f6f6">Vanderburgh</font>
+
+45
+00:02:01,344 --> 00:02:03,392
+<font color="#fcfcfc">Videos functional programming in Java</font>
+
+46
+00:02:03,648 --> 00:02:06,208
+<font color="#f1f1f1">We have a Lambda expression</font>
+
+47
+00:02:06,464 --> 00:02:08,512
+<font color="#f8f8f8">And similar to that in JavaScript</font>
+
+48
+00:02:08,768 --> 00:02:12,096
+<font color="#e9e9e9">We have something called Arrow function</font>
+
+49
+00:02:15,936 --> 00:02:19,264
+<font color="#ececec">All typing note aluminum command prompt or terminal</font>
+
+50
+00:02:19,520 --> 00:02:20,544
+<font color="#e0e0e0">And typing note</font>
+
+51
+00:02:21,056 --> 00:02:23,616
+<font color="#e4e4e4">Give Dallas zip code in here</font>
+
+52
+00:02:26,944 --> 00:02:30,528
+<font color="#e5e5e5">And you can also type in the same code</font>
+
+53
+00:02:31,296 --> 00:02:33,088
+<font color="#f9f9f9">Let's create a simple list and</font>
+
+54
+00:02:33,344 --> 00:02:35,136
+<font color="#f5f5f5">How can you create a list where</font>
+
+55
+00:02:36,160 --> 00:02:36,672
+<font color="#fcfcfc">List</font>
+
+56
+00:02:36,928 --> 00:02:37,696
+<font color="#fcfcfc">Is equal to</font>
+
+57
+00:02:37,952 --> 00:02:39,744
+<font color="#e7e7e7">One, two, three, four</font>
+
+58
+00:02:40,512 --> 00:02:42,048
+<font color="#f7f7f7">This is how you Define exemplary</font>
+
+59
+00:02:42,304 --> 00:02:43,072
+<font color="#eaeaea">No</font>
+
+60
+00:02:43,328 --> 00:02:46,144
+<font color="#cdcdcd">Whenever you would want to do something around this</font>
+
+61
+00:02:46,656 --> 00:02:48,192
+<font color="#fcfcfc">Using functional programming</font>
+
+62
+00:02:48,448 --> 00:02:51,008
+<font color="#eeeeee">If that would want to look around this and print</font>
+
+63
+00:02:51,264 --> 00:02:55,616
+<font color="#d3d3d3">Double D values in JavaScript is by saying list</font>
+
+64
+00:02:55,872 --> 00:02:56,384
+<font color="#e5e5e5">.</font>
+
+65
+00:02:56,896 --> 00:03:00,992
+<font color="#eaeaea">But it is very similar to the first method which is present in Java functional programming</font>
+
+66
+00:03:01,248 --> 00:03:03,040
+<font color="#dbdbdb">Do you think this bad footage</font>
+
+67
+00:03:03,552 --> 00:03:04,576
+<font color="#ebebeb">Eat</font>
+
+68
+00:03:04,832 --> 00:03:05,344
+<font color="#dfdfdf">Value</font>
+
+69
+00:03:05,856 --> 00:03:08,160
+<font color="#d1d1d1">40 text which is present in here</font>
+
+70
+00:03:08,672 --> 00:03:09,952
+<font color="#e8e8e8">Cancel. Log</font>
+
+71
+00:03:12,000 --> 00:03:13,024
+<font color="#b4b4b4">Into</font>
+
+72
+00:03:15,072 --> 00:03:17,120
+<font color="#c3c3c3">So what do you defending here is X</font>
+
+73
+00:03:17,888 --> 00:03:22,752
+<font color="#fbfbfb">This is equal to and greater sign this is called the arrow function</font>
+
+74
+00:03:23,264 --> 00:03:24,032
+<font color="#bebebe">So X</font>
+
+75
+00:03:24,800 --> 00:03:25,312
+<font color="#dfdfdf">Arrow</font>
+
+76
+00:03:26,080 --> 00:03:27,360
+<font color="#fcfcfc">What should we do</font>
+
+77
+00:03:27,872 --> 00:03:30,176
+<font color="#d4d4d4">Be very careful about decent exit list</font>
+
+78
+00:03:30,432 --> 00:03:32,480
+<font color="#d7d7d7">. for each e caps</font>
+
+79
+00:03:35,552 --> 00:03:37,600
+<font color="#cdcdcd">Closing (here in between.</font>
+
+80
+00:03:41,696 --> 00:03:42,720
+<font color="#fcfcfc">OBX</font>
+
+81
+00:03:46,048 --> 00:03:47,840
+<font color="#acacac">And it prints to 4</font>
+
+82
+00:03:49,888 --> 00:03:56,032
+<font color="#ededed">Saddle function is what we are going to look at right now and look at how it simplifies</font>
+
+83
+00:03:56,544 --> 00:03:57,056
+<font color="#cccccc">The need</font>
+
+84
+00:03:57,568 --> 00:03:58,848
+<font color="#f9f9f9">To do a binding</font>
+
+85
+00:03:59,616 --> 00:04:01,664
+<font color="#e7e7e7">This isn't normal function</font>
+
+86
+00:04:01,920 --> 00:04:04,224
+<font color="#e1e1e1">Write how do I make it an arrow function</font>
+
+87
+00:04:04,736 --> 00:04:05,760
+<font color="#dfdfdf">What did I need to do</font>
+
+88
+00:04:06,528 --> 00:04:08,832
+<font color="#f3f3f3">Do a simple change in this</font>
+
+89
+00:04:09,344 --> 00:04:10,112
+<font color="#fcfcfc">Go here</font>
+
+90
+00:04:10,624 --> 00:04:12,160
+<font color="#d3d3d3">Give me set vendor</font>
+
+91
+00:04:12,672 --> 00:04:13,696
+<font color="#fcfcfc">Is equal to</font>
+
+92
+00:04:13,952 --> 00:04:16,512
+<font color="#f6f6f6">This indicates that this method no parameters</font>
+
+93
+00:04:18,047 --> 00:04:18,559
+<font color="#fcfcfc">Then</font>
+
+94
+00:04:19,327 --> 00:04:19,839
+<font color="#fcfcfc">Do this</font>
+
+95
+00:04:20,607 --> 00:04:23,167
+<font color="#f8f8f8">What is the advantage of doing this let's save this</font>
+
+96
+00:04:24,191 --> 00:04:24,959
+<font color="#fcfcfc">And actually</font>
+
+97
+00:04:25,471 --> 00:04:25,983
+<font color="#959595">UK</font>
+
+98
+00:04:26,239 --> 00:04:29,311
+<font color="#dadada">Be cool to see if it's working fine yet it's running</font>
+
+99
+00:04:29,567 --> 00:04:30,591
+<font color="#cbcbcb">Fine in the browser</font>
+
+100
+00:04:31,359 --> 00:04:33,151
+<font color="#ebebeb">The advantage of doing this is</font>
+
+101
+00:04:33,407 --> 00:04:37,503
+<font color="#efefef">Do not need to do this binding Arrow functions alone</font>
+
+102
+00:04:38,015 --> 00:04:41,343
+<font color="#e4e4e4">You don't really need to do this blinding so if you see right now</font>
+
+103
+00:04:42,367 --> 00:04:43,903
+<font color="#e4e4e4">I think at the air</font>
+
+104
+00:04:44,159 --> 00:04:45,183
+<font color="#c1c1c1">Can you</font>
+
+105
+00:04:47,999 --> 00:04:53,887
+<font color="#e5e5e5">Because I've actually change render method to an aromatic not the increment method isn't that funny</font>
+
+106
+00:04:54,911 --> 00:04:55,935
+<font color="#b4b4b4">Dizzy kind of things which</font>
+
+107
+00:04:56,191 --> 00:04:59,007
+<font color="#f6f6f6">Happens when you record a lot of stuff in a single day</font>
+
+108
+00:04:59,263 --> 00:05:00,287
+<font color="#959595">Titanoboa</font>
+
+109
+00:05:00,543 --> 00:05:02,079
+<font color="#ededed">Can you be inclement weather</font>
+
+110
+00:05:02,591 --> 00:05:04,127
+<font color="#cccccc">Arrow function</font>
+
+111
+00:05:04,639 --> 00:05:05,663
+<font color="#ececec">Let's see what happened</font>
+
+112
+00:05:06,431 --> 00:05:07,199
+<font color="#dbdbdb">Cool enough</font>
+
+113
+00:05:07,455 --> 00:05:08,223
+<font color="#fcfcfc">This works</font>
+
+114
+00:05:08,479 --> 00:05:10,271
+<font color="#fcfcfc">The a dysfunction</font>
+
+115
+00:05:10,527 --> 00:05:11,295
+<font color="#e6e6e6">Penguins</font>
+
+116
+00:05:11,551 --> 00:05:12,319
+<font color="#cdcdcd">The need</font>
+
+117
+00:05:12,575 --> 00:05:14,879
+<font color="#bebebe">Subaru of binding</font>
+
+118
+00:05:15,135 --> 00:05:16,671
+<font color="#eaeaea">Can you use an adverb function</font>
+
+119
+00:05:16,927 --> 00:05:21,791
+<font color="#ededed">You don't really need to bind the disagreeable because the disbanding happens automatically</font>
+
+120
+00:05:22,815 --> 00:05:24,607
+<font color="#c8c8c8">After this course is concerned</font>
+
+121
+00:05:24,863 --> 00:05:26,655
+<font color="#c4c4c4">He would continue using</font>
+
+122
+00:05:27,423 --> 00:05:29,215
+<font color="#a6a6a6">Choose your baby cactuses have</font>
+
+123
+00:05:29,471 --> 00:05:32,543
+<font color="#fcfcfc">Things I've done in react documentation as of today</font>
+
+124
+00:05:32,799 --> 00:05:34,847
+<font color="#f6f6f6">So let's continue doing it</font>
+
+125
+00:05:35,103 --> 00:05:36,895
+<font color="#c3c3c3">Deep traditional way witches</font>
+
+126
+00:05:37,407 --> 00:05:39,711
+<font color="#e9e9e9">Defining normal class</font>
+
+127
+00:05:39,967 --> 00:05:40,735
+<font color="#929292">Metal</font>
+
+128
+00:05:40,991 --> 00:05:42,783
+<font color="#efefef">So we continue doing that</font>
+
+129
+00:05:43,039 --> 00:05:44,831
+<font color="#f5f5f5">And we continue doing bindings</font>
+
+130
+00:05:45,087 --> 00:05:47,135
+<font color="#c7c7c7">Throughout this course so be careful with that</font>
+
+131
+00:05:47,647 --> 00:05:49,439
+<font color="#fcfcfc">The idea behind this</font>
+
+132
+00:05:50,207 --> 00:05:52,511
+<font color="#e2e2e2">Give you a couple of pics the first one</font>
+
+133
+00:05:52,767 --> 00:05:53,535
+<font color="#fcfcfc">What's that</font>
+
+134
+00:05:53,791 --> 00:05:55,583
+<font color="#c4c4c4">60 is a merge</font>
+
+135
+00:05:59,167 --> 00:05:59,679
+<font color="#acacac">With</font>
+
+136
+00:05:59,935 --> 00:06:01,983
+<font color="#f2f2f2">The existing state second thing</font>
+
+137
+00:06:02,239 --> 00:06:07,359
+<font color="#e2e2e2">Is it 55 in Arrow function then you don't really need to bind this variable to it</font>
+
+138
+00:06:07,615 --> 00:06:10,943
+<font color="#e6e6e6">Disclaimer is in this course you would continue to use</font>
+
+139
+00:06:11,199 --> 00:06:12,479
+<font color="#e2e2e2">Normal class</font>
+
+140
+00:06:12,991 --> 00:06:14,527
+<font color="#fdfdfd">Es6 methods</font>
+
+141
+00:06:15,039 --> 00:06:19,391
+<font color="#ebebeb">I'm having a lot of fun creating the school and I'm sure you are having a lot of fun too</font>
+
+142
+00:06:19,647 --> 00:06:21,951
+<font color="#e9e9e9">I'll see you in the next</font>

@@ -1,0 +1,339 @@
+﻿1
+00:00:02,048 --> 00:00:03,072
+<font color="#eeeeee">Graco</font>
+
+2
+00:00:03,328 --> 00:00:04,352
+<font color="#cacaca">A few steps</font>
+
+3
+00:00:04,864 --> 00:00:11,008
+<font color="#e7e7e7">We talked about lot of different things about component you can Define of you using it</font>
+
+4
+00:00:11,264 --> 00:00:12,800
+<font color="#d9d9d9">Baloubet how you can write</font>
+
+5
+00:00:13,056 --> 00:00:13,824
+<font color="#fcfcfc">Logic</font>
+
+6
+00:00:14,336 --> 00:00:16,384
+<font color="#f3f3f3">Basically how you combined events</font>
+
+7
+00:00:16,640 --> 00:00:18,176
+<font color="#f9f9f9">What happens on the screen</font>
+
+8
+00:00:18,432 --> 00:00:19,712
+<font color="#c8c8c8">Look at how you can stay</font>
+
+9
+00:00:19,968 --> 00:00:20,992
+<font color="#cacaca">Little bit two options</font>
+
+10
+00:00:21,504 --> 00:00:22,528
+<font color="#ebebeb">We can believe that</font>
+
+11
+00:00:26,624 --> 00:00:29,440
+<font color="#e2e2e2">Create Styles inside your JavaScript as well</font>
+
+12
+00:00:29,952 --> 00:00:34,048
+<font color="#e0e0e0">A basic look at this state you stayed for the counter</font>
+
+13
+00:00:34,560 --> 00:00:37,632
+<font color="#c0c0c0">And believe that the fact that the state has to be initialized</font>
+
+14
+00:00:37,888 --> 00:00:38,656
+<font color="#fcfcfc">Inside</font>
+
+15
+00:00:39,168 --> 00:00:45,312
+<font color="#cdcdcd">The Constructor and later when we would want updates if you'd call this set statement</font>
+
+16
+00:00:45,568 --> 00:00:49,920
+<font color="#e4e4e4">Emerge to the set set method would always do a March of the</font>
+
+17
+00:00:50,176 --> 00:00:51,456
+<font color="#a8a8a8">Allstate values</font>
+
+18
+00:00:52,224 --> 00:00:53,504
+<font color="#fcfcfc">The existing state</font>
+
+19
+00:00:54,016 --> 00:00:55,296
+<font color="#d1d1d1">Glockenspiel</font>
+
+20
+00:00:55,552 --> 00:00:56,576
+<font color="#cccccc">What's props</font>
+
+21
+00:00:57,088 --> 00:00:57,600
+<font color="#9e9e9e">To be bit</font>
+
+22
+00:01:00,928 --> 00:01:02,464
+<font color="#f7f7f7">And have you considered default</font>
+
+23
+00:01:02,720 --> 00:01:04,512
+<font color="#ececec">Properties</font>
+
+24
+00:01:04,768 --> 00:01:05,792
+<font color="#d0d0d0">Second space</font>
+
+25
+00:01:06,048 --> 00:01:07,840
+<font color="#bdbdbd">Example of constraints</font>
+
+26
+00:01:08,096 --> 00:01:08,864
+<font color="#c5c5c5">On a property</font>
+
+27
+00:01:10,400 --> 00:01:11,424
+<font color="#fcfcfc">Let's look at</font>
+
+28
+00:01:11,680 --> 00:01:13,216
+<font color="#ececec">Important tool</font>
+
+29
+00:01:13,984 --> 00:01:16,544
+<font color="#f3f3f3">Unplugging related to react</font>
+
+30
+00:01:16,800 --> 00:01:19,616
+<font color="#fcfcfc">If you Google for react developer tools</font>
+
+31
+00:01:20,128 --> 00:01:20,640
+<font color="#bbbbbb">Cute and up</font>
+
+32
+00:01:20,896 --> 00:01:21,920
+<font color="#5c5c5c">WhatsApp login</font>
+
+33
+00:01:22,432 --> 00:01:24,480
+<font color="#e1e1e1">Fendi website Chrome. Google.com</font>
+
+34
+00:01:25,248 --> 00:01:28,832
+<font color="#dadada">Zurich menu to use the Chrome browser so instantly Chrome plugin</font>
+
+35
+00:01:29,600 --> 00:01:31,392
+<font color="#e6e6e6">They're going to put two salsa has</font>
+
+36
+00:01:31,648 --> 00:01:32,672
+<font color="#f6f6f6">Firefox plugin</font>
+
+37
+00:01:35,488 --> 00:01:37,536
+<font color="#dbdbdb">I've already installed it on my Chrome</font>
+
+38
+00:01:37,792 --> 00:01:39,584
+<font color="#dadada">Remove from chrome</font>
+
+39
+00:01:40,096 --> 00:01:43,168
+<font color="#e3e3e3">If you have not insulted you would see I install battery in here</font>
+
+40
+00:01:43,424 --> 00:01:43,936
+<font color="#efefef">You go ahead</font>
+
+41
+00:01:44,192 --> 00:01:47,008
+<font color="#f6f6f6">Instant and restart your Chrome browser</font>
+
+42
+00:01:47,264 --> 00:01:49,824
+<font color="#d6d6d6">Launch OBD2 do application</font>
+
+43
+00:01:50,336 --> 00:01:53,664
+<font color="#d5d5d5">When's your lunch ready to react location what you'd be able to do</font>
+
+44
+00:01:54,432 --> 00:01:56,992
+<font color="#e4e4e4">Go to the reactor if you right click</font>
+
+45
+00:01:57,760 --> 00:01:58,528
+<font color="#dbdbdb">Inspect</font>
+
+46
+00:01:59,296 --> 00:01:59,808
+<font color="#fcfcfc">And then</font>
+
+47
+00:02:00,064 --> 00:02:00,832
+<font color="#a2a2a2">What year</font>
+
+48
+00:02:01,344 --> 00:02:02,368
+<font color="#eaeaea">Go to react</font>
+
+49
+00:02:02,880 --> 00:02:05,184
+<font color="#f1f1f1">So if you actually zoom out a little bit</font>
+
+50
+00:02:05,952 --> 00:02:06,720
+<font color="#b9b9b9">UTI</font>
+
+51
+00:02:06,976 --> 00:02:07,744
+<font color="#c1c1c1">Clytia</font>
+
+52
+00:02:08,768 --> 00:02:09,792
+<font color="#d5d5d5">Or you can</font>
+
+53
+00:02:10,304 --> 00:02:13,376
+<font color="#dddddd">Use this ad which is present in here and go to the reactor</font>
+
+54
+00:02:19,776 --> 00:02:21,824
+<font color="#cbcbcb">Dragon drop the w212</font>
+
+55
+00:02:22,848 --> 00:02:24,896
+<font color="#eaeaea">So that I can see what's behind it</font>
+
+56
+00:02:25,408 --> 00:02:28,736
+<font color="#e9e9e9">And you can see all the elements which are present</font>
+
+57
+00:02:29,248 --> 00:02:30,528
+<font color="#ebebeb">You can see the props</font>
+
+58
+00:02:31,040 --> 00:02:32,064
+<font color="#fcfcfc">And you can see</font>
+
+59
+00:02:32,320 --> 00:02:32,832
+<font color="#f7f7f7">The Deep</font>
+
+60
+00:02:33,088 --> 00:02:34,368
+<font color="#d4d4d4">Affected this deep</font>
+
+61
+00:02:35,648 --> 00:02:36,416
+<font color="#fcfcfc">Children</font>
+
+62
+00:02:37,184 --> 00:02:38,720
+<font color="#d2d2d2">Property call</font>
+
+63
+00:02:38,976 --> 00:02:40,000
+<font color="#e6e6e6">Class name</font>
+
+64
+00:02:40,256 --> 00:02:41,280
+<font color="#fcfcfc">You can see</font>
+
+65
+00:02:41,536 --> 00:02:43,840
+<font color="#fcfcfc">The fact that there are three counters</font>
+
+66
+00:02:44,096 --> 00:02:46,400
+<font color="#e2e2e2">You can see the props and estate</font>
+
+67
+00:02:50,752 --> 00:02:54,592
+<font color="#e6e6e6">So if I actually do class 1 you can see that the state changed</font>
+
+68
+00:02:54,848 --> 00:02:58,176
+<font color="#f2f2f2">You can see that that's reflected by a yellow highlight</font>
+
+69
+00:02:59,456 --> 00:03:01,760
+<font color="#e4e4e4">This is useful in debugging staff</font>
+
+70
+00:03:02,016 --> 00:03:03,808
+<font color="#e7e7e7">Whatever you see something is not working</font>
+
+71
+00:03:04,064 --> 00:03:07,136
+<font color="#ededed">You want to see what is the thoughts of a specific react component</font>
+
+72
+00:03:07,392 --> 00:03:12,000
+<font color="#ebebeb">What is the state of the components you can use this plugin</font>
+
+73
+00:03:13,024 --> 00:03:14,304
+<font color="#eaeaea">Awesome plugin</font>
+
+74
+00:03:14,816 --> 00:03:16,608
+<font color="#d4d4d4">When you highlight of component</font>
+
+75
+00:03:16,864 --> 00:03:18,656
+<font color="#c6c6c6">Highlighter element</font>
+
+76
+00:03:18,912 --> 00:03:21,472
+<font color="#d8d8d8">You can see the entire tree so they've</font>
+
+77
+00:03:24,032 --> 00:03:24,544
+<font color="#b1b1b1">Hundred</font>
+
+78
+00:03:24,800 --> 00:03:27,104
+<font color="#a2a2a2">Accounter Android SD card</font>
+
+79
+00:03:27,616 --> 00:03:28,128
+<font color="#b5b5b5">You can also</font>
+
+80
+00:03:29,152 --> 00:03:31,200
+<font color="#cecece">Where is the code for that specific</font>
+
+81
+00:03:31,968 --> 00:03:34,016
+<font color="#f1f1f1">Component is present</font>
+
+82
+00:03:37,088 --> 00:03:38,368
+<font color="#cfcfcf">Is a very useful plugin</font>
+
+83
+00:03:38,624 --> 00:03:43,232
+<font color="#eaeaea">If you want to debug stuff or you don't understand more about how react works</font>
+
+84
+00:03:43,488 --> 00:03:45,536
+<font color="#898989">Time to commute to Clarendon.</font>
+
+85
+00:03:45,792 --> 00:03:47,840
+<font color="#f0f0f0">And I'll see you in the next step</font>

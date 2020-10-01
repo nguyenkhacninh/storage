@@ -1,0 +1,375 @@
+﻿1
+00:00:02,304 --> 00:00:02,816
+<font color="#191919">Rakem</font>
+
+2
+00:00:03,584 --> 00:00:04,352
+<font color="#d3d3d3">Previous step</font>
+
+3
+00:00:04,608 --> 00:00:07,168
+<font color="#e5e5e5">We started with creating the counter component</font>
+
+4
+00:00:07,680 --> 00:00:09,216
+<font color="#bbbbbb">This is the view we have right now</font>
+
+5
+00:00:09,728 --> 00:00:10,240
+<font color="#d4d4d4">Intercept</font>
+
+6
+00:00:10,496 --> 00:00:12,544
+<font color="#fbfbfb">Let's go ahead and add a button</font>
+
+7
+00:00:12,800 --> 00:00:14,592
+<font color="#f2f2f2">And show up</font>
+
+8
+00:00:14,848 --> 00:00:15,360
+<font color="#bfbfbf">Count</font>
+
+9
+00:00:19,968 --> 00:00:22,528
+<font color="#d8d8d8">You sure that's all you need to do is set button</font>
+
+10
+00:00:23,552 --> 00:00:25,088
+<font color="#8e8e8e">I just</font>
+
+11
+00:00:25,344 --> 00:00:26,880
+<font color="#d3d3d3">I had code</font>
+
+12
+00:00:27,136 --> 00:00:30,464
+<font color="#afafaf">Plus one to it right now let's see how it appears</font>
+
+13
+00:00:30,720 --> 00:00:33,280
+<font color="#ababab">Tibetan + 1</font>
+
+14
+00:00:33,792 --> 00:00:35,072
+<font color="#f1f1f1">It's plasma</font>
+
+15
+00:00:35,328 --> 00:00:37,120
+<font color="#dedede">Important things to understand</font>
+
+16
+00:00:37,376 --> 00:00:41,472
+<font color="#c2c2c2">56 is equal to. So if you use captive</font>
+
+17
+00:00:44,032 --> 00:00:45,312
+<font color="#929292">It says device not Define</font>
+
+18
+00:00:45,824 --> 00:00:47,104
+<font color="#c3c3c3">All history of elements</font>
+
+19
+00:00:47,360 --> 00:00:48,640
+<font color="#fcfcfc">Should be small</font>
+
+20
+00:00:49,664 --> 00:00:50,944
+<font color="#c8c8c8">Weather today</font>
+
+21
+00:00:51,456 --> 00:00:52,736
+<font color="#b9b9b9">Any formal events</font>
+
+22
+00:00:53,248 --> 00:00:54,784
+<font color="#fcfcfc">All of them should be</font>
+
+23
+00:00:55,040 --> 00:00:56,064
+<font color="#e5e5e5">Small case</font>
+
+24
+00:00:56,576 --> 00:00:59,392
+<font color="#e2e2e2">Olympic custom companies that we create</font>
+
+25
+00:00:59,648 --> 00:01:01,952
+<font color="#f6f6f6">Can use the initial calculator</font>
+
+26
+00:01:02,464 --> 00:01:07,328
+<font color="#e3e3e3">Let's focus on actually adding a counter as well</font>
+
+27
+00:01:08,864 --> 00:01:10,400
+<font color="#f0f0f0">Define a Spanish</font>
+
+28
+00:01:10,656 --> 00:01:11,424
+<font color="#c4c4c4">Just do</font>
+
+29
+00:01:11,680 --> 00:01:12,448
+<font color="#fcfcfc">Differentiate</font>
+
+30
+00:01:12,960 --> 00:01:17,312
+<font color="#d4d4d4">It's Sunday but until that we can started differently</font>
+
+31
+00:01:17,568 --> 00:01:18,080
+<font color="#d8d8d8">Is evil</font>
+
+32
+00:01:18,336 --> 00:01:21,408
+<font color="#f2f2f2">What do you want to do this when this button is clicked</font>
+
+33
+00:01:24,480 --> 00:01:26,272
+<font color="#e4e4e4">One of the things that I don't really like</font>
+
+34
+00:01:26,784 --> 00:01:29,344
+<font color="#e1e1e1">How about it right now because I don't like the styling of it</font>
+
+35
+00:01:29,600 --> 00:01:34,720
+<font color="#f6f6f6">I want to add a little bit of styling CSS to this Pacific counter how can I do that</font>
+
+36
+00:01:35,232 --> 00:01:39,840
+<font color="#eeeeee">I can do that is by creating a CSS file for that specific</font>
+
+37
+00:01:42,656 --> 00:01:43,424
+<font color="#bfbfbf">Counter</font>
+
+38
+00:01:44,448 --> 00:01:45,216
+<font color="#d4d4d4">CSS</font>
+
+39
+00:01:45,472 --> 00:01:48,800
+<font color="#e8e8e8">Took Outlet CSS and I can add Styles in here</font>
+
+40
+00:01:49,056 --> 00:01:55,200
+<font color="#dbdbdb">Imported into the way I can import a CSS file</font>
+
+41
+00:01:55,456 --> 00:01:58,784
+<font color="#d7d7d7">I just need to say import. /</font>
+
+42
+00:01:59,040 --> 00:01:59,808
+<font color="#c2c2c2">Counter</font>
+
+43
+00:02:00,064 --> 00:02:00,576
+<font color="#f0f0f0">.</font>
+
+44
+00:02:00,832 --> 00:02:01,600
+<font color="#ebebeb">CSS</font>
+
+45
+00:02:02,112 --> 00:02:02,880
+<font color="#ebebeb">Check weather</font>
+
+46
+00:02:03,392 --> 00:02:05,440
+<font color="#d9d9d9">DCS is working with sticky button</font>
+
+47
+00:02:05,696 --> 00:02:08,512
+<font color="#dddddd">And add a little bit of CS2 / tulips</font>
+
+48
+00:02:08,768 --> 00:02:09,536
+<font color="#b0b0b0">Just say</font>
+
+49
+00:02:10,304 --> 00:02:11,328
+<font color="#cbcbcb">Font size</font>
+
+50
+00:02:13,376 --> 00:02:14,912
+<font color="#cdcdcd">100 PX</font>
+
+51
+00:02:16,448 --> 00:02:18,496
+<font color="#dcdcdc">You can see it's fun size</font>
+
+52
+00:02:19,264 --> 00:02:20,288
+<font color="#9c9c9c">100 pics</font>
+
+53
+00:02:20,544 --> 00:02:26,688
+<font color="#d0d0d0">This is looking like we have to do with glitter and glue</font>
+
+54
+00:02:26,944 --> 00:02:27,968
+<font color="#e9e9e9">Inside</font>
+
+55
+00:02:32,064 --> 00:02:32,576
+<font color="#eeeeee">Better</font>
+
+56
+00:02:33,088 --> 00:02:34,368
+<font color="#ececec">A lot of background</font>
+
+57
+00:02:35,136 --> 00:02:35,648
+<font color="#ededed">Color</font>
+
+58
+00:02:36,416 --> 00:02:38,976
+<font color="#e5e5e5">It's pekid green let's keep it simple</font>
+
+59
+00:02:40,512 --> 00:02:41,792
+<font color="#cbcbcb">How to make the font size</font>
+
+60
+00:02:42,560 --> 00:02:43,584
+<font color="#fcfcfc">16 pixels</font>
+
+61
+00:02:44,608 --> 00:02:45,376
+<font color="#bcbcbc">Allied</font>
+
+62
+00:02:45,632 --> 00:02:46,400
+<font color="#d1d1d1">Batting</font>
+
+63
+00:02:51,008 --> 00:02:53,824
+<font color="#f2f2f2">Let's have a fun color of white</font>
+
+64
+00:02:54,080 --> 00:02:55,360
+<font color="#c1c1c1">End</font>
+
+65
+00:02:55,616 --> 00:02:56,128
+<font color="#fcfcfc">Have</font>
+
+66
+00:02:56,896 --> 00:02:58,944
+<font color="#d2d2d2">Elijah battle</font>
+
+67
+00:03:00,224 --> 00:03:01,248
+<font color="#b0b0b0">100 pixels</font>
+
+68
+00:03:01,504 --> 00:03:04,064
+<font color="#a5a5a5">Expert on CSS and trying to just</font>
+
+69
+00:03:04,320 --> 00:03:08,928
+<font color="#eaeaea">Get this thing a little better looking enough I have plus one</font>
+
+70
+00:03:09,184 --> 00:03:15,328
+<font color="#e3e3e3">I've been a little better so this times that we are adding working fine to apple juice the button</font>
+
+71
+00:03:17,120 --> 00:03:17,888
+<font color="#e9e9e9">Let's actually</font>
+
+72
+00:03:18,656 --> 00:03:19,936
+<font color="#f2f2f2">Add a class</font>
+
+73
+00:03:21,216 --> 00:03:21,984
+<font color="#eeeeee">To this</font>
+
+74
+00:03:22,240 --> 00:03:22,752
+<font color="#fcfcfc">Call</font>
+
+75
+00:03:25,056 --> 00:03:25,824
+<font color="#d3d3d3">Comment</font>
+
+76
+00:03:26,336 --> 00:03:32,480
+<font color="#cecece">I'm thinking about sex as if you'd want to add a class-divided attribute to use is class</font>
+
+77
+00:03:32,736 --> 00:03:33,248
+<font color="#fcfcfc">Name</font>
+
+78
+00:03:37,600 --> 00:03:42,208
+<font color="#dcdcdc">Always suggested thing to use is class name and at the reason why you would see that</font>
+
+79
+00:03:42,464 --> 00:03:46,560
+<font color="#e4e4e4">In all the gay sex with me. Auntie love you would be using class name</font>
+
+80
+00:03:46,816 --> 00:03:52,192
+<font color="#e5e5e5">Took to add a class on to anything that you need to do is look last name is equal to count enough</font>
+
+81
+00:03:52,704 --> 00:03:56,288
+<font color="#d7d7d7">To access to the account that we need to do is say. Count</font>
+
+82
+00:03:57,312 --> 00:04:00,384
+<font color="#cccccc">Play whatever you want in here just to</font>
+
+83
+00:04:00,640 --> 00:04:03,200
+<font color="#c9c9c9">Check if it's looking that safe and fun size</font>
+
+84
+00:04:04,480 --> 00:04:05,248
+<font color="#efefef">50</font>
+
+85
+00:04:05,504 --> 00:04:06,528
+<font color="#e5e5e5">PX</font>
+
+86
+00:04:07,296 --> 00:04:08,576
+<font color="#e7e7e7">I see what would happen</font>
+
+87
+00:04:10,880 --> 00:04:13,696
+<font color="#e5e5e5">A little bit of padding to it as well</font>
+
+88
+00:04:14,464 --> 00:04:19,327
+<font color="#efefef">Turn off I have a button and I have account which is displayed along</font>
+
+89
+00:04:20,351 --> 00:04:21,375
+<font color="#f5f5f5">What should we do next</font>
+
+90
+00:04:21,887 --> 00:04:25,215
+<font color="#eaeaea">What do you need to do next is benefits plus one button is clicked</font>
+
+91
+00:04:25,471 --> 00:04:27,263
+<font color="#a3a3a3">Dude want to incriminate</font>
+
+92
+00:04:27,775 --> 00:04:29,567
+<font color="#d9d9d9">The value of discount</font>
+
+93
+00:04:29,823 --> 00:04:34,943
+<font color="#f1f1f1">How do we do that that's where an important concept comes into picture</font>
+
+94
+00:04:35,199 --> 00:04:36,991
+<font color="#eaeaea">I see you in the next day</font>

@@ -1,0 +1,191 @@
+﻿1
+00:00:01,792 --> 00:00:02,560
+<font color="#cccccc">Welcome back</font>
+
+2
+00:00:03,328 --> 00:00:09,472
+<font color="#e3e3e3">Let's connect different a33 jpa repository methods that you have created</font>
+
+3
+00:00:09,728 --> 00:00:11,264
+<font color="#f6f6f6">Last step</font>
+
+4
+00:00:11,520 --> 00:00:12,544
+<font color="#d6d6d6">How do you connected them</font>
+
+5
+00:00:13,056 --> 00:00:14,336
+<font color="#d0d0d0">Should be easy right</font>
+
+6
+00:00:14,848 --> 00:00:16,896
+<font color="#ededed">Let's talk with connecting the delete</font>
+
+7
+00:00:18,944 --> 00:00:19,968
+<font color="#cdcdcd">Just Betty blessing</font>
+
+8
+00:00:23,808 --> 00:00:25,344
+<font color="#f0f0f0">Logout and login again</font>
+
+9
+00:00:28,928 --> 00:00:29,440
+<font color="#fcfcfc">Delete</font>
+
+10
+00:00:29,696 --> 00:00:30,720
+<font color="#f7f7f7">You can see that</font>
+
+11
+00:00:30,976 --> 00:00:35,584
+<font color="#eaeaea">It's deleted successfully and I'm able to see the updated data so if you look at the</font>
+
+12
+00:00:35,840 --> 00:00:40,448
+<font color="#e3e3e3">Network that you would see that the request is going to take us and</font>
+
+13
+00:00:41,216 --> 00:00:44,032
+<font color="#d8d8d8">If you go to the office to cancel and Uber select * from to do</font>
+
+14
+00:00:45,312 --> 00:00:46,848
+<font color="#fcfcfc">Connect again</font>
+
+15
+00:00:47,872 --> 00:00:49,920
+<font color="#dadada">Flagstaff</font>
+
+16
+00:00:50,944 --> 00:00:51,968
+<font color="#e7e7e7">Coyote</font>
+
+17
+00:00:52,224 --> 00:00:54,528
+<font color="#f5f5f5">The first to do was actually deleted</font>
+
+18
+00:00:54,784 --> 00:00:58,112
+<font color="#fcfcfc">Let's do something similar on the update</font>
+
+19
+00:00:58,624 --> 00:01:04,768
+<font color="#cecece">And as well so I'm doing both of them let's go to</font>
+
+20
+00:01:05,024 --> 00:01:11,168
+<font color="#e5e5e5">Application log out and come back whenever we make a change and come back</font>
+
+21
+00:01:12,192 --> 00:01:13,472
+<font color="#d2d2d2">Dummy</font>
+
+22
+00:01:13,728 --> 00:01:14,496
+<font color="#c2c2c2">Toulouse</font>
+
+23
+00:01:16,032 --> 00:01:16,544
+<font color="#fcfcfc">Update</font>
+
+24
+00:01:20,640 --> 00:01:22,176
+<font color="#c7c7c7">I can see the change on the front</font>
+
+25
+00:01:23,200 --> 00:01:25,760
+<font color="#cdcdcd">On the back end that's awesome</font>
+
+26
+00:01:26,016 --> 00:01:27,040
+<font color="#a5a5a5">It's added you to do</font>
+
+27
+00:01:27,296 --> 00:01:28,576
+<font color="#fcfcfc">I want</font>
+
+28
+00:01:29,600 --> 00:01:30,112
+<font color="#fcfcfc">Learn</font>
+
+29
+00:01:30,368 --> 00:01:32,160
+<font color="#f7f7f7">To dance again</font>
+
+30
+00:01:34,208 --> 00:01:36,000
+<font color="#e0e0e0">I can see learn to dance</font>
+
+31
+00:01:36,256 --> 00:01:37,024
+<font color="#d3d3d3">Present in</font>
+
+32
+00:01:38,816 --> 00:01:40,352
+<font color="#bfbfbf">It's raining again</font>
+
+33
+00:01:41,376 --> 00:01:44,192
+<font color="#bdbdbd">You can see that learn to dance story that idea of one</font>
+
+34
+00:01:44,448 --> 00:01:47,520
+<font color="#fcfcfc">And username is stored as</font>
+
+35
+00:01:48,032 --> 00:01:51,360
+<font color="#d9d9d9">If you're able to add it to do but you don't see the to do in the sentence</font>
+
+36
+00:01:51,872 --> 00:01:52,384
+<font color="#ededed">Go to</font>
+
+37
+00:01:53,152 --> 00:01:58,016
+<font color="#d4d4d4">Database and check the record which I presented here</font>
+
+38
+00:01:58,272 --> 00:02:00,064
+<font color="#c6c6c6">Then make sure that in the back end</font>
+
+39
+00:02:00,320 --> 00:02:03,136
+<font color="#dbdbdb">You are actually setting the username</font>
+
+40
+00:02:03,392 --> 00:02:03,904
+<font color="#eaeaea">Properly</font>
+
+41
+00:02:04,160 --> 00:02:08,768
+<font color="#e6e6e6">So this to do that username username is an important piece of code</font>
+
+42
+00:02:09,280 --> 00:02:11,328
+<font color="#e5e5e5">What is sequence of last few steps</font>
+
+43
+00:02:11,584 --> 00:02:13,888
+<font color="#d7d7d7">It connected the entire application</font>
+
+44
+00:02:14,144 --> 00:02:17,728
+<font color="#dddddd">Do a GTA back and you saw how easy it was</font>
+
+45
+00:02:17,984 --> 00:02:21,568
+<font color="#fbfbfb">Music combination of spring data jpa and hibernate</font>
+
+46
+00:02:22,080 --> 00:02:26,944
+<font color="#f2f2f2">And we saw that it was very very simple to connect the entire thing together</font>
+
+47
+00:02:27,200 --> 00:02:29,760
+<font color="#fafafa">I'm sure you had a lot of fun doing all this</font>
+
+48
+00:02:30,016 --> 00:02:31,808
+<font color="#f3f3f3">I'll see you in the next step</font>

@@ -1,0 +1,95 @@
+﻿1
+00:00:01,024 --> 00:00:03,072
+<font color="#fcfcfc">Welcome to this quick start guide</font>
+
+2
+00:00:04,096 --> 00:00:04,864
+<font color="#fcfcfc">Spring boot</font>
+
+3
+00:00:05,376 --> 00:00:08,704
+<font color="#f2f2f2">Spring boot is the most popular framework to develop microservices</font>
+
+4
+00:00:10,240 --> 00:00:11,520
+<font color="#e9e9e9">Indiscreet start guide</font>
+
+5
+00:00:13,824 --> 00:00:14,336
+<font color="#e5e5e5">Which</font>
+
+6
+00:00:14,592 --> 00:00:16,384
+<font color="#eeeeee">Make spring boot popular</font>
+
+7
+00:00:16,640 --> 00:00:20,480
+<font color="#e5e5e5">Give me start with creating a simple project using initializer</font>
+
+8
+00:00:27,392 --> 00:00:28,416
+<font color="#c7c7c7">We'll talk about</font>
+
+9
+00:00:28,672 --> 00:00:29,440
+<font color="#cecece">Things like</font>
+
+10
+00:00:29,696 --> 00:00:30,720
+<font color="#bebebe">Start the project</font>
+
+11
+00:00:30,976 --> 00:00:34,048
+<font color="#e2e2e2">Images of various kinds of starter projects in a</font>
+
+12
+00:00:34,560 --> 00:00:36,096
+<font color="#fcfcfc">Application and also</font>
+
+13
+00:00:36,352 --> 00:00:40,192
+<font color="#f0f0f0">We'll talk about spring boot actuator to enable monitoring on your app</font>
+
+14
+00:00:40,448 --> 00:00:40,960
+<font color="#fafafa">Application</font>
+
+15
+00:00:41,216 --> 00:00:41,728
+<font color="#dedede">And</font>
+
+16
+00:00:41,984 --> 00:00:43,520
+<font color="#e8e8e8">We also we talked about</font>
+
+17
+00:00:43,776 --> 00:00:45,312
+<font color="#d3d3d3">Have you can become productive</font>
+
+18
+00:00:45,568 --> 00:00:46,592
+<font color="#e9e9e9">With spring boot</font>
+
+19
+00:00:46,848 --> 00:00:47,616
+<font color="#c8c8c8">Devtools</font>
+
+20
+00:00:47,872 --> 00:00:50,176
+<font color="#dbdbdb">Distance tips might not make you an egg</font>
+
+21
+00:00:50,432 --> 00:00:51,456
+<font color="#b6b6b6">Expert on sting</font>
+
+22
+00:00:51,712 --> 00:00:54,016
+<font color="#f6f6f6">It would definitely help you to get a</font>
+
+23
+00:00:54,272 --> 00:00:54,784
+<font color="#fcfcfc">Looking</font>
+
+24
+00:00:55,296 --> 00:00:56,320
+<font color="#f4f4f4">Let's get started</font>
